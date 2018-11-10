@@ -13,7 +13,7 @@ permalink: /teaching/
   - ECON 203 Economic Statistics II (Spring 2018**)
 
 - **Teaching Assistant:**
-  - ECON 203 Economic Statistics II (Spring 2017*, Fall 2017*)
+  - ECON 203 Economic Statistics II (Spring 2017 *, Fall 2017 *)
   - ECON 302 Intermediate Microeconomics (Fall 2016)
 
 Notes: * Rated as “Excellent” on the Instructor and Course Evaluation (ICES) questionnaire forms by the Measurement and Evaluation, [Center for Innovation in Teaching & Learning](https://citl.illinois.edu/){:target="_blank"}.; ** Rated as “Outstanding” (Top 10%) on ICES forms.

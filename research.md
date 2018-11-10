@@ -6,7 +6,8 @@ permalink: /research/
 
 # Publications
 
-- Port Efficiency and Brazilian Exports: a Quantitative Assessment of the Impact of Turnaround Time, with [Sérgio Kannebley Júnior](https://scholar.google.com.br/citations?user=dqFJND9idb0C&hl=en){:target="_blank"}. The World Economy, April 2018. [Recipient of the [Prêmio Ministério da Fazenda de Economia](http://www.esaf.fazenda.gov.br/assuntos/pesquisas-e-premios/premio-ministerio-da-fazenda-de-economia/trabalhos-vencedores-em-2015){:target="_blank"}.]
+- Port Efficiency and Brazilian Exports: a Quantitative Assessment of the Impact of Turnaround Time, with [Sérgio Kannebley Júnior](https://scholar.google.com.br/citations?user=dqFJND9idb0C&hl=en){:target="_blank"}. The World Economy, April 2018. 
+[Recipient of the [Prêmio Ministério da Fazenda de Economia](http://www.esaf.fazenda.gov.br/assuntos/pesquisas-e-premios/premio-ministerio-da-fazenda-de-economia/trabalhos-vencedores-em-2015){:target="_blank"}.]
 
 
 <br>

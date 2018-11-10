@@ -6,7 +6,7 @@ permalink: /research/
 
 # Publications
 
-- <p style="text-align: justify;">Port Efficiency and Brazilian Exports: a Quantitative Assessment of the Impact of Turnaround Time, with Sérgio Kannebley Júnior. The World Economy, April 2018. </p>
+- Port Efficiency and Brazilian Exports: a Quantitative Assessment of the Impact of Turnaround Time, with Sérgio Kannebley Júnior. The World Economy, April 2018. 
 
 
 <br>

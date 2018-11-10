@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-# **University of Illinois at Urbana-Champaign, Department of Economics:** 
+# University of Illinois at Urbana-Champaign, Department of Economics:
 
 - **Instructor**
   - Econ 490 International Trade (Fall 2018)

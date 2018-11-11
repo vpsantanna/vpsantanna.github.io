@@ -9,7 +9,7 @@
 
 # Site settings
 title: Vinicios Sant'Anna
-email: santann2@illinois.edu
+email: " santann2@illinois.edu"
 description: > # this means to ignore newlines until "baseurl:"
   Writing and Research
 baseurl: "" # the subpath of your site, e.g. /blog

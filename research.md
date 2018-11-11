@@ -15,6 +15,6 @@ permalink: /research/
 
 # Other Writings
 
-- Port infrastructure in Brazil: an analysis of the impact of port procedures on Brazilian exports, with [Sérgio Kannebley Júnior](https://scholar.google.com.br/citations?user=dqFJND9idb0C&hl=en){:target="_blank"} (in Portuguese). Revista Brasileira de Comércio Exterior, v. 123, June 2015.
+- Port infrastructure in Brazil: an analysis of the impact of port procedures on Brazilian exports, with [Sérgio Kannebley Júnior](https://scholar.google.com.br/citations?user=dqFJND9idb0C&hl=en){:target="_blank"} (in Portuguese). Revista Brasileira de Comércio Exterior, v. 123, June 2015. [PDF](/files/research/123_VSSKJ.pdf){:target="_blank"}
 
 - Trade Facilitation Indexes: The case of Brazil and its Trade Partners, with [Mauricio J. P. de Souza](https://scholar.google.com.br/citations?user=ceqK-1QAAAAJ&hl=en){:target="_blank"} and [Rosane N. Faria](https://scholar.google.com.br/citations?user=bnfF3IEAAAAJ&hl=en){:target="_blank"} (in Portuguese). Revista de Economia & Relações Internacionais, v. 10, p. 124-141, January 2012.

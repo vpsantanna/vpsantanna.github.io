@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Home
+permalink: /home/
 ---
 
 <img src="./files/profile.jpg" alt="profile" style="width: 350px;" align="right" />

@@ -11,7 +11,7 @@ Curriculum vitae [PDF](/files/vpsantanna_CV.pdf){:target="_blank"}
 
 <br> <br>
 
-**Social Networks**
+Social Networks
 
 <ul class="social-media-list">
           {% if site.twitter_username %}<a href="http://twitter.com/{{ site.twitter_username }}">{% include svg-icons/twitter.html %}</a>{% endif %}

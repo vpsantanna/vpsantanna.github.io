@@ -2,8 +2,10 @@
 layout: home
 ---
 
+<figure>
 <img src="./files/profile.jpg" alt="profile" style="width: 350px;" align="right" />
-<p align="right">font size="4">right-aligned paragraph.</font></p>
+<figcaption><p align="center"><font size="3.5">Ph.D. Candidate, [Department of Economics](https://economics.illinois.edu/){:target="_blank"} <br/>[University of Illinois at Urbana-Champaign](https://illinois.edu/){:target="_blank"}</font></p></figcaption>
+</figure>
 
 I'm a Ph.D. Candidate in the [Department of Economics](https://economics.illinois.edu/){:target="_blank"} at the [University of Illinois at Urbana-Champaign](https://illinois.edu/){:target="_blank"}. 
 

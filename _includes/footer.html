@@ -25,8 +25,8 @@
       <div class="footer-col footer-col-2">
         <ul class="social-media-list">
           Social Networks <br />
-          <a href="https://scholar.google.com.br/citations?user=Cr-G-xMAAAAJ&hl=en"><span class="icon"><i class="ai ai-google-scholar-square" style="font-size:33px;color:grey"></i></span></a>
-          <a href="https://orcid.org/0000-0002-1070-2220"><span class="icon"><i class="ai ai-orcid-square" style="font-size:33px;color:grey"></i></span></a>
+          {% if site.scholar_username %}<a href="https://scholar.google.com.br/citations?user={{ site.scholar_username }}"><span class="icon"><i class="ai ai-google-scholar-square" style="font-size:33px;color:grey"></i></span></a>{% endif %}
+          {% if site.orcid_username %}<a href="https://orcid.org/{{ site.orcid_username }}"><span class="icon"><i class="ai ai-orcid-square" style="font-size:33px;color:grey"></i></span></a>{% endif %}
           <a href="https://www.researchgate.net/profile/Vinicios_Santanna"><span class="icon"><i class="ai ai-researchgate-square" style="font-size:33px;color:grey"></i></span></a>
           <a href="https://illinois.academia.edu/ViniciosSantAnna"><span class="icon"><i class="ai ai-academia-square" style="font-size:33px;color:grey"></i></span></a> 
           {% if site.linkedin_username %}<a href="https://linkedin.com/in/{{ site.linkedin_username }}"><span class="icon"><i class="fa fa-linkedin-square" style="font-size:33px;color:grey"></i></span></a>{% endif %}

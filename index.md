@@ -3,6 +3,7 @@ layout: home
 ---
 
 <img src="./files/profile.jpg" alt="profile" style="width: 350px;" align="right" />
+<p align="right">font size="4">right-aligned paragraph.</font></p>
 
 I'm a Ph.D. Candidate in the [Department of Economics](https://economics.illinois.edu/){:target="_blank"} at the [University of Illinois at Urbana-Champaign](https://illinois.edu/){:target="_blank"}. 
 

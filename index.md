@@ -22,5 +22,5 @@ layout: home
 
  <a href="/files/vpsantanna_CV.pdf" target="_blank">Curriculum vitae (PDF)</a>
  
- <span class="icon"><i class="<i class="far fa-file-pdf"></i>"></i></span>
+<i class="fa fa-file-pdf-o" style="font-size:24px"></i>
 

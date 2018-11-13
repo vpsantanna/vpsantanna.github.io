@@ -1,7 +1,5 @@
 ---
 layout: page
 title: CV
-permalink: /cv/
+permalink: /files/vpsantanna_CV.pdf
 ---
-
-You can find my [CV here](/files/vpsantanna_CV.pdf).

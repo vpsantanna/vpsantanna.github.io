@@ -20,7 +20,7 @@ layout: home
 
 <p style="text-align:justify;">I'm a Ph.D. Candidate in the Department of Economics at the University of Illinois at Urbana-Champaign. </p>
 
- <a href="/files/vpsantanna_CV.pdf" target="_blank">Curriculum vitae (PDF)</a>
+ <a href="/files/vpsantanna_CV.pdf" target="_blank">Curriculum vitae <i class="fa fa-file-pdf-o" style="font-size:24px"></i></a>
  
-<i class="fa fa-file-pdf-o" style="font-size:24px"></i>
+
 

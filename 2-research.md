@@ -14,6 +14,6 @@ permalink: /research/
 
 # Invited Publications
 
-- Port infrastructure in Brazil: an analysis of the impact of port procedures on Brazilian exports, with <a href="https://scholar.google.com.br/citations?user=dqFJND9idb0C&hl=en" target="_blank"> Sérgio Kannebley Júnior</a> (in Portuguese). Revista Brasileira de Comércio Exterior, v. 123, June 2015. [<a href="/files/research/123_VSSKJ.pdf" target="_blank"> Published Version <i class="far fa-file-pdf" style="font-size:12px"></i></a>]
+- <b> Port infrastructure in Brazil: an analysis of the impact of port procedures on Brazilian exports </b>, with <a href="https://scholar.google.com.br/citations?user=dqFJND9idb0C&hl=en" target="_blank"> Sérgio Kannebley Júnior</a> (in Portuguese). Revista Brasileira de Comércio Exterior, v. 123, June 2015. [<a href="/files/research/123_VSSKJ.pdf" target="_blank"> Published Version <i class="far fa-file-pdf" style="font-size:12px"></i></a>]
 
 

@@ -15,7 +15,7 @@ layout: home
   
   <style>
    p.ex1 {
-    max-width: 260px;
+    max-width: 300px;
     }
  </style>
 

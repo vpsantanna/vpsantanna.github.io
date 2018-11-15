@@ -25,8 +25,3 @@ layout: home
 </figure>
 
 <p style="text-align:justify" class="ex1">I'm a Ph.D. Candidate in the Department of Economics at the University of Illinois at Urbana-Champaign. </p>
-
- 
- 
-
-

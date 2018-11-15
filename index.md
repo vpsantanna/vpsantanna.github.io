@@ -21,7 +21,7 @@ layout: home
 
 <figure>
 <img src="./files/profile.jpg" alt="profile" style="width: 360px;" align="right" />
-<figcaption align="right"><p align="center"><font size="3">Ph.D. Candidate, <a href="http://www.economics.illinois.edu" target="_blank">Department of Economics</a><br/> <a href="https://illinois.edu/" target="_blank">University of Illinois at Urbana-Champaign</a><br/><div class="trigger"> <a class="page-link" href="/files/vpsantanna_CV.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>Curriculum vitae</a></div> | <a href="mailto:santann2@illinois.edu"> <i class="far fa-envelope"></i> santann2@illinois.edu</a> </font></p></figcaption>
+<figcaption align="right"><p align="center"><font size="3">Ph.D. Candidate, <a href="http://www.economics.illinois.edu" target="_blank">Department of Economics</a><br/> <a href="https://illinois.edu/" target="_blank">University of Illinois at Urbana-Champaign</a><br/> <a class="page-link" href="/files/vpsantanna_CV.pdf"><i class="fa fa-file-pdf-o"></i>Curriculum vitae</a> | <a href="mailto:santann2@illinois.edu"> <i class="far fa-envelope"></i> santann2@illinois.edu</a> </font></p></figcaption>
 </figure>
 
 

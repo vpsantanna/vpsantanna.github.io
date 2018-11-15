@@ -10,13 +10,13 @@ permalink: /teaching/
   - Econ 490 International Trade (Fall 2018)
 
 - **Head Teaching Assistant:**
-  - ECON 203 Economic Statistics II (Spring 2018**)
+  - ECON 203 Economic Statistics II (Spring 2018<sup>**</sup>)
 
 - **Teaching Assistant:**
-  - ECON 203 Economic Statistics II (Spring 2017<p>*</p>, Fall 2017<p>*</p>)
+  - ECON 203 Economic Statistics II (Spring 2017<sup>*</sup>, Fall 2017<sup>*</sup>)
   - ECON 302 Intermediate Microeconomics (Fall 2016)
 
-Note: <p>*</p>Rated as “Excellent” on the Instructor and Course Evaluation (ICES) questionnaire forms by the Measurement and Evaluation, [Center for Innovation in Teaching & Learning](https://citl.illinois.edu/){:target="_blank"}.; ** Rated as “Outstanding” (Top 10%) on ICES forms.
+Note: <sup>*</sup>Rated as “Excellent” on the Instructor and Course Evaluation (ICES) questionnaire forms by the Measurement and Evaluation, [Center for Innovation in Teaching & Learning](https://citl.illinois.edu/){:target="_blank"}.; <sup>**</sup> Rated as “Outstanding” (Top 10%) on ICES forms.
 
 <br>
 

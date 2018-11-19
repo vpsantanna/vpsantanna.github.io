@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Home
 ---
 
  <style type="text/css">

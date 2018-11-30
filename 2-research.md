@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-# Publications
+# Refereed Publications
 
 - <b>Port Efficiency and Brazilian Exports: a Quantitative Assessment of the Impact of Turnaround Time</b>, with <a href="https://scholar.google.com.br/citations?user=dqFJND9idb0C&hl=en" target="_blank"> Sérgio Kannebley Júnior</a>. The World Economy, April 2018. [<a href="https://doi.org/10.1111/twec.12654" target="_blank"> DOI Link </a>] <br> Recipient of the <a href="http://www.esaf.fazenda.gov.br/assuntos/pesquisas-e-premios/premio-ministerio-da-fazenda-de-economia/trabalhos-vencedores-em-2015" target="_blank"> Prêmio Ministério da Fazenda de Economia </a>
 

@@ -22,3 +22,21 @@ permalink: /research/
 - <b>Trade Facilitation Indexes: The case of Brazil and its Trade Partners</b>, with <a href="https://scholar.google.com.br/citations?user=ceqK-1QAAAAJ&hl=en" target="_blank">Mauricio J. P. de Souza</a> and <a href="https://scholar.google.com.br/citations?user=bnfF3IEAAAAJ&hl=en" target="_blank">Rosane N. Faria</a> (in Portuguese). Revista de Economia & Relações Internacionais, v. 10, p. 124-141, January 2012. [ <a href="/files/research/indicadores_facilitacao.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> Published Version </a>]
 
 
+<script>
+    var acc = document.getElementsByClassName("accordion");
+    var i;
+
+    for (i = 0; i < acc.length; i++) {
+      acc[i].addEventListener("click", function() {
+        this.classList.toggle("active");
+        var panel = this.nextElementSibling;
+        if (panel.style.maxHeight){
+          panel.style.maxHeight = null;
+        } else {
+          panel.style.maxHeight = panel.scrollHeight + "px";
+        } 
+      });
+    }
+</script>
+
+

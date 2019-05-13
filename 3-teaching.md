@@ -7,7 +7,7 @@ permalink: /teaching/
 # University of Illinois at Urbana-Champaign, Department of Economics:
 
 - **Instructor**
-  - Econ 490 International Trade (Fall 2018, Spring 2019)
+  - Econ 490 International Trade (Fall 2018<sup>**</sup>, Spring 2019)
 
 - **Head Teaching Assistant:**
   - ECON 203 Economic Statistics II (Spring 2018<sup>**</sup>)

@@ -4,6 +4,12 @@ title: Research
 permalink: /research/
 ---
 
+# Work in Progress
+
+- <b>The Real Estate Consequences of Immigration Shocks: Evidence from the United States' Mexican Repatriation</b>, with <a https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>. <em>Version coming soon! </em>
+
+<br>
+
 # Refereed Publications
 
 - <b>Port Efficiency and Brazilian Exports: a Quantitative Assessment of the Impact of Turnaround Time</b>, with <a href="https://scholar.google.com.br/citations?user=dqFJND9idb0C&hl=en" target="_blank"> Sérgio Kannebley Júnior</a>. The World Economy, April 2018. [<a href="https://doi.org/10.1111/twec.12654" target="_blank"> DOI Link </a>] <br> Recipient of the Brazilian Ministry of the Economy Award (2015).

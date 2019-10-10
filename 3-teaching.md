@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-# University of Illinois at Urbana-Champaign, Department of Economics:
+# University of Illinois at Urbana-Champaign:
 
 - **Instructor**
   - Econ 490 International Trade (Fall 2018<sup>*</sup>, Spring 2019<sup>**</sup>, Fall 2019)
@@ -20,7 +20,7 @@ Note: <sup>*</sup>Rated as “Excellent” on the Instructor and Course Evaluati
 
 <br>
 
-# Universidade de São Paulo, Department of Economics (in Portuguese): 
+# Universidade de São Paulo (in Portuguese): 
 
 - **Teaching Assistant:**
   - Econometrics III - Time Series (Spring 2014)

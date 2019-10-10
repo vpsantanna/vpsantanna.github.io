@@ -25,6 +25,6 @@ layout: home
 </figure>
 
 Welcome! <br/>
-<p style="text-align:justify" class="ex1">I'm a Ph.D. Candidate in the <a href="http://www.economics.illinois.edu" target="_blank">Department of Economics</a> at the <a href="https://illinois.edu/" target="_blank">University of Illinois at Urbana-Champaign</a>.  <br/>
-My research focuses on issues in international trade and international migration. 
-</p>
+<p style="text-align:justify" class="ex1">I'm a Ph.D. Candidate in the <a href="http://www.economics.illinois.edu" target="_blank">Department of Economics</a> at the <a href="https://illinois.edu/" target="_blank">University of Illinois at Urbana-Champaign</a>. </p> <br/>
+<p style="text-align:justify" class="ex1"> My research focuses on issues in international trade and international migration.</p>
+

@@ -4,7 +4,6 @@ layout: home
 
 <style type="text/css">
   figure, div.figure {
-      width: 50%;
       text-align: center;
       font-size: smaller;
       padding: 0.4em;

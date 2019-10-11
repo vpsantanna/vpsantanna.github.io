@@ -2,6 +2,16 @@
 layout: home
 ---
 
+<style type="text/css">
+  figure, div.figure {
+      width: 50%;
+      text-align: center;
+      font-size: smaller;
+      padding: 0.4em;
+      text-indent: 0;
+    }
+  </style>
+
  <style>
    p.ex1 {
      max-width: 310px;

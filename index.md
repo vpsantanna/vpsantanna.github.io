@@ -3,14 +3,13 @@ layout: home
 ---
 
 <style type="text/css">
-  figure, div.figure {
-      text-align: center;
-      font-size: smaller;
-      padding: 0.4em;
-      text-indent: 0;
-    }
-  </style>
-
+  figure img {
+    vertical-align: top;
+}
+figure figcaption {
+    text-align: center;
+}
+</style>  
  <style>
    p.ex1 {
      max-width: 310px;

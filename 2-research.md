@@ -6,7 +6,7 @@ permalink: /research/
 
 # Work in Progress
 
-- <b>The Real Estate Consequences of Immigration Shocks: Evidence from the United States' Mexican Repatriation</b>, with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes </a>. <em>Version coming soon! </em>
+- <b>The Real Estate Consequences of Immigration Shocks: Evidence from the United States' Mexican Repatriation</b>, with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>. <em>Version coming soon! </em>
 
 <br>
 

@@ -8,6 +8,8 @@ permalink: /research/
 
 - <b>The Real Estate Consequences of Immigration Shocks: Evidence from the United States' Mexican Repatriation</b>, with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>. <em>Version coming soon! </em>
 
+<p style="text-align: justify;"><font size="2"> How do extreme immigration shocks affect local economies? We analyze the United States' Mexican Repatriation of 1930--36 and its impact on housing and construction activity in US cities. Using the full-count US Census and hand-collected building permits data, we show that repatriating Mexicans during the Great Depression significantly slowed down city growth. Employing an instrumental variable approach that accounts for the endogenous business cycle effects of the Depression, we show that cities with higher Mexican outflow experienced lower growth in commercial and residential real estate activity. Specifically, we find negative and significant effects of the Mexican Repatriation on the number and value of building permits, as well as median house value. We find no effects in placebo analyses that consider the instrumented outflow of Canadian workers in the same period, confirming historical newspaper evidence that Mexican workers experienced harassment and greater pressure to leave the US during the Depression. Our results suggest that repatriations have long-lasting impacts on cultural and social dimensions, but also leave footprints on local economic growth. </font></p>
+
 <br>
 
 # Refereed Publications

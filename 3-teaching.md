@@ -18,7 +18,6 @@ permalink: /teaching/
 - **Economic Statistics II (Undergraduate Course) - University of Illinois at Urbana-Champaign**
    <p style="text-align: justify;"><font size="2">Awarded in the  <em>“List of Teachers Ranked as Excellent by their Students” </em>: <a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2017-spring.pdf#page=19" target="_blank">Spring 2017</a>, <a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2017-fall.pdf#page=21" target="_blank">Fall 2017</a> & <a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2018-spring.pdf#page=18" target="_blank">Spring 2018</a>  <br> Rated as “Outstanding” (University-wide Top 10% rating): <a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2018-spring.pdf#page=18" target="_blank">Spring 2018</a>  </font></p>
    
-- **Intermediate Microeconomics (Undergraduate Course) - University of Illinois at Urbana-Champaign** (Fall 2016)
-
-- **Econometrics III - Time Series (Undergraduate Course) - Universidade de São Paulo** (Spring 2014)
-- **International Economics (Undergraduate Course) - Universidade de São Paulo** (Fall 2013)
+- **Intermediate Microeconomics (Undergraduate Course) - University of Illinois at Urbana-Champaign** 
+- **Econometrics III - (Undergraduate Course) - Universidade de São Paulo** 
+- **International Economics (Undergraduate Course) - Universidade de São Paulo** 

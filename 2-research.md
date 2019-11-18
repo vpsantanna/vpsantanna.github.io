@@ -12,6 +12,12 @@ permalink: /research/
 
 <br>
 
+- <b>International Trade in Manufacturing and Services and the Gravity Model</b>, with <a href="https://www.satyapdas.com" target="_blank">Satya P. Das</a>. <em>Version coming soon! </em>
+
+   <p style="text-align: justify;"><font size="2"><b>Abstract:</b> This paper derives gravity equations for bilateral trade in aggregate manufacturing and aggregate services when preferences are non-homothetic, and there is a difference in the degree of national product differentiation between the two product groups.  Non-homotheticity implies two "non-standard" determinants of bilateral trade: per-capita income and income inequality in the importing country. In estimating gravity equations, we include two non-standard trade-cost variables, namely, internet penetration and a measure of virtual proximity (the number of bilateral hyperlinks). Our results support the theoretical predictions and reveal that virtual proximity is a strong predictor of aggregate trade in both services and manufactures. It diminishes the effect of physical distance, language difference, as well as income variables. </font></p>
+
+<br>
+
 # Refereed Publications
 
 - <b>Port Efficiency and Brazilian Exports: a Quantitative Assessment of the Impact of Turnaround Time</b>, with <a href="https://scholar.google.com.br/citations?user=dqFJND9idb0C&hl=en" target="_blank"> Sérgio Kannebley Júnior</a>. The World Economy, April 2018. [<a href="https://doi.org/10.1111/twec.12654" target="_blank"> DOI Link </a>] 

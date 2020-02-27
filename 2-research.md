@@ -12,7 +12,9 @@ permalink: /research/
    
    <p style="text-align: justify;"><font size="2"><b>Presentations:</b> AEA 2020 Annual Meeting (Poster Session) | University of Michigan's H2D2 Seminar Series | Midwest Economics Association | AERUS 2019 | UIUC
    <p style="text-align: justify;"><font size="2"><b>Coverage:</b> <a href="https://www.aeaweb.org/conference/videos/2020/vinicios-sant-anna" target="_blank"> AEA 2020 Interview</a>
-
+      
+   <div><iframe src="https://player.vimeo.com/video/384544947"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+   
 <br>
 
 - <b>Determinants of Bilateral Trade in Manufacturing and Services: A Unified Approach</b>, with <a href="https://www.satyapdas.com" target="_blank">Satya P. Das</a>. <em>Version coming soon! </em>

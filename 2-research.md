@@ -4,6 +4,22 @@ title: Research
 permalink: /research/
 ---
 
+<style>
+   .iframe-container {
+  padding-top: 56.25%;
+  position: relative;
+   }
+ 
+.iframe-container iframe {
+   border: 0;
+   height: 100%;
+   width: 100%;
+   position: absolute;
+   top: 0;
+   left: 0;
+ }
+ </style>
+
 # Work in Progress
 
 - <b>The Real Estate Consequences of Immigration Shocks: Evidence from the United States' Mexican Repatriation</b>, with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>. <em>Version coming soon! </em>

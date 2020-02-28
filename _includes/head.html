@@ -11,11 +11,25 @@
   <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/v1.8.5/css/academicons.min.css">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
-  <link rel="stylesheet" href="/_includes/app.css">
  
   {% if jekyll.environment == 'production' and site.google_analytics %}
   {% include google-analytics.html %}
   {% endif %}
+  
+    
+.iframe-container {
+  padding-top: 56.25%;
+  position: relative;
+}
+ 
+.iframe-container iframe {
+   border: 0;
+   height: 100%;
+   width: 100%;
+   position: absolute;
+   top: 0;
+   left: 0;
+}
   
   
 

@@ -26,10 +26,9 @@ permalink: /research/
 
    <p style="text-align: justify;"><font size="2"><b>Abstract:</b> We examine how the repatriation of Mexican immigrants in the US from 1930 to 1936 affected housing and construction in American cities. Using US Census and hand-collected building permits data, we show that repatriating Mexicans during the Great Depression significantly slowed city growth. Employing instruments that account for the effects of the Depression, we show that cities with higher Mexican outflow experienced lower growth in commercial and residential real estate. We find significant negative effects on the number and value of building permits, as well as house values. Repatriations seem to have a long-lasting impact, leaving a footprint on local economic growth. </font></p>
    
-   <p style="text-align: justify;"><font size="2"><b>Presentations:</b> AEA 2020 Annual Meeting (Poster Session) | University of Florida Business-Economics-Law workshop 2020 | University of Michigan's H2D2 Seminar Series | Midwest Economics Association | AERUS 2019 | UIUC
+   <p style="text-align: justify;"><font size="2"><b>Presentations:</b> AEA 2020 Annual Meeting (Poster Session) | University of Florida Business-Economics-Law workshop 2020 | The Economics of Migration Junior Seminar 2020 | University of Michigan's H2D2 Seminar Series 2019 | Midwest Economics Association 2019 | AERUS 2019 | UIUC
       
    <div class="iframe-container"><iframe src="https://player.vimeo.com/video/384544947" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
-   <p><a href="https://www.aeaweb.org/conference/videos/2020/vinicios-sant-anna" target="_blank">2020 AEA poster session interview</a></p>
    
 <br>
 

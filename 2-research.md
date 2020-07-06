@@ -23,7 +23,6 @@ permalink: /research/
 # Work in Progress
 
 - <b>Send Them Back? The Real Estate Consequences of Repatriations</b>, with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>. <em>Version coming soon! </em>
-- <b><p style="font-size:25px">Send Them Back? The Real Estate Consequences of Repatriations</b>, with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>. <em>Version coming soon! </em><p>
 
    <p style="text-align: justify;"><font size="2"><b>Abstract:</b> We examine how the repatriation of Mexican immigrants in the US from 1930 to 1936 affected housing and construction in American cities. Using US Census and hand-collected building permits data, we show that repatriating Mexicans during the Great Depression significantly slowed city growth. Employing instruments that account for the effects of the Depression, we show that cities with higher Mexican outflow experienced lower growth in commercial and residential real estate. We find significant negative effects on the number and value of building permits, as well as house values. Repatriations seem to have a long-lasting impact, leaving a footprint on local economic growth. </font></p>
    

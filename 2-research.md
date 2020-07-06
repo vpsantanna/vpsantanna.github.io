@@ -22,8 +22,8 @@ permalink: /research/
 
 # Work in Progress
 
-- <b>Send Them Back? The Real Estate Consequences of Repatriations</b><br>
-(with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>)  <em>Version coming soon! </em>
+- <p style="font-size:14px"><b>Send Them Back? The Real Estate Consequences of Repatriations</b><br>
+(with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>)  <em>Version coming soon! </em></p>
 
    <p style="font-size:12px"><b>Abstract:</b> We examine how the repatriation of Mexican immigrants in the US from 1930 to 1936 affected housing and construction in American cities. Using US Census and hand-collected building permits data, we show that repatriating Mexicans during the Great Depression significantly slowed city growth. Employing instruments that account for the effects of the Depression, we show that cities with higher Mexican outflow experienced lower growth in commercial and residential real estate. We find significant negative effects on the number and value of building permits, as well as house values. Repatriations seem to have a long-lasting impact, leaving a footprint on local economic growth. </p>
    
@@ -51,5 +51,6 @@ permalink: /research/
 # Invited Publications
 
 - <p style="font-size:14px"><b>Trade Facilitation Indexes: The case of Brazil and its Trade Partners</b> <br>
-   <em>Revista de Economia & Relações Internacionais</em>, v. 10, p. 124-141, January 2012. (with <a href="https://scholar.google.com.br/citations?user=ceqK-1QAAAAJ&hl=en" target="_blank">Mauricio de Souza</a> and <a href="https://scholar.google.com.br/citations?user=bnfF3IEAAAAJ&hl=en" target="_blank">Rosane Faria</a>) <br> [ <a href="/files/research/indicadores_facilitacao.pdf" target="_blank"> Published Version </a>]</p>
+   <em>Revista de Economia & Relações Internacionais</em>, v. 10, p. 124-141, January 2012. <br> 
+   (with <a href="https://scholar.google.com.br/citations?user=ceqK-1QAAAAJ&hl=en" target="_blank">Mauricio de Souza</a> and <a href="https://scholar.google.com.br/citations?user=bnfF3IEAAAAJ&hl=en" target="_blank">Rosane Faria</a>) [ <a href="/files/research/indicadores_facilitacao.pdf" target="_blank"> Published Version </a>]</p>
 

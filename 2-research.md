@@ -36,6 +36,8 @@ permalink: /research/
 - <b>Determinants of Bilateral Trade in Manufacturing and Services: A Unified Approach</b><br> (with <a href="https://www.satyapdas.com" target="_blank">Satya P. Das</a>) 
 
    <p style="font-size:12px"><b>Abstract:</b> This paper derives gravity equations for aggregate bilateral trade in manufacturing and services when preferences are non-homothetic, and there is a difference in the degree of national product differentiation between the two types of products.  Non-homotheticity implies two "non-standard" determinants of bilateral trade: per-capita income and income inequality in the importing country. In estimating gravity equations, we include two non-standard trade-cost variables, namely, internet penetration and a measure of virtual proximity (the number of bilateral hyperlinks). Our results support the theoretical predictions and reveal that virtual proximity is a strong predictor of aggregate trade in both services and manufactures. It diminishes the effect of physical distance, language difference, as well as income variables.</p>
+   
+   <p style="font-size:12px"><b>Presentations:</b> University of South Florida Seminar Series<b>*</b> | UIUC <br> <b>*</b> denotes presentation by coauthor </p>
 
 <br>
 

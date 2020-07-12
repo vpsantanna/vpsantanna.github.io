@@ -12,6 +12,8 @@ permalink: /teaching/
    
    <p style="font-size:12px">Awarded in the  <em>“List of Teachers Ranked as Excellent by their Students” </em>: <a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2018-fall.pdf#page=21" target="_blank">Fall 2018</a>, <a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2019-spring.pdf#page=19" target="_blank">Spring 2019</a>, <a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2019-fall.pdf#page=20" target="_blank">Fall 2019</a>, and Spring 2020 <br> Rated as “Outstanding” (University-wide Top 10% rating): <a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2019-spring.pdf#page=19" target="_blank">Spring 2019</a> </p>
    
+  <p style="font-size:12px">[ <a href="/files/Econ_490_International_Trade___Syllabus.pdf" target="_blank">Course Syllabus (Spring 2020)</a> ] [ <a href="https://compass2g.illinois.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_4184689_1&course_id=_48673_1" target="_blank">Course Website</a> ]</p>
+   
 
 # Teaching Assistant
 

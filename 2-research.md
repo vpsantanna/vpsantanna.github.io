@@ -42,7 +42,7 @@ permalink: /research/
 # Refereed Publications
 
 - <p style="font-size:14px"><b>Port Efficiency and Brazilian Exports: A Quantitative Assessment of the Impact of Turnaround Time</b> <br> <em> The World Economy</em>, 2018, 41, 2528–2551 (with <a href="https://scholar.google.com.br/citations?user=dqFJND9idb0C&hl=en" target="_blank"> Sérgio Kannebley Júnior</a>) <br>
-   [<a href="https://doi.org/10.1111/twec.12654" target="_blank"> Published Version </a>] [Coverage: <a href="/files/research/123_VSSKJ.pdf" target="_blank"> Revista Brasileira de Comércio Exterior, v. 123, June 2015</a> ] </p>
+   [ <a href="https://doi.org/10.1111/twec.12654" target="_blank">Published Version</a> ] [Coverage: <a href="/files/research/123_VSSKJ.pdf" target="_blank"> Revista Brasileira de Comércio Exterior, v. 123, June 2015</a> ] </p>
 
    <p style="font-size:12px"><b>Abstract:</b> This paper estimates the impact of vessel turnaround time on Brazilian exports. To achieve this goal, we use a difference gravity equation to explore the time variation in port procedures for 16 Brazilian ports. This paper uses a unique database with local exports, taking into account the port used and products aggregated at the four‐digit Harmonized System (HS) level for the period between 2010 and 2012. The estimation results indicate that, in general, each additional hour of delay in port procedures represents costs to Brazilian exporters, which may lead to loss of competitiveness of domestic products abroad. According to the estimates, each additional relative hour of delay in the average port is equivalent to a reduction in relative local exports of ~2%. Moreover, a 10% relative reduction in vessel turnaround time can increase the proportional number of exported product categories by 1%. Therefore, our findings suggest that turnaround time has a statistically significant effect on the intensive and extensive margins of trade.</p>
 
@@ -52,5 +52,5 @@ permalink: /research/
 
 - <p style="font-size:14px"><b>Trade Facilitation Indexes: The case of Brazil and its Trade Partners</b> <br>
    <em>Revista de Economia & Relações Internacionais</em>, v. 10, p. 124-141, January 2012. <br> 
-   (with <a href="https://scholar.google.com.br/citations?user=ceqK-1QAAAAJ&hl=en" target="_blank">Mauricio de Souza</a> and <a href="https://scholar.google.com.br/citations?user=bnfF3IEAAAAJ&hl=en" target="_blank">Rosane Faria</a>) [ <a href="/files/research/indicadores_facilitacao.pdf" target="_blank"> Published Version (in Portuguese)  </a>]</p>
+   (with <a href="https://scholar.google.com.br/citations?user=ceqK-1QAAAAJ&hl=en" target="_blank">Mauricio de Souza</a> and <a href="https://scholar.google.com.br/citations?user=bnfF3IEAAAAJ&hl=en" target="_blank">Rosane Faria</a>) [ <a href="/files/research/indicadores_facilitacao.pdf" target="_blank">Published Version (in Portuguese)</a> ]</p>
 

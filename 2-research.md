@@ -21,6 +21,7 @@ permalink: /research/
  </style>
 
 # Work in Progress
+<p style="font-size:11px">Presentation notes: <b>*</b>by coauthor; <b>&#8224;</b>poster; <b>&#8225;</b>scheduled</p>
 
 - <p style="font-size:14px"><b>Send Them Back? The Real Estate Consequences of Repatriations</b><br>
 (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>)  <em>Version coming soon! </em></p>

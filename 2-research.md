@@ -27,7 +27,7 @@ permalink: /research/
 
    <p style="font-size:12px"><b>Abstract:</b> We examine how the repatriation of Mexican immigrants in the US from 1930 to 1936 affected housing and construction in American cities. Using US Census and hand-collected building permits data, we show that repatriating Mexicans during the Great Depression significantly slowed city growth. Employing instruments that account for the effects of the Depression, we show that cities with higher Mexican outflow experienced lower growth in commercial and residential real estate. We find significant negative effects on the number and value of building permits, as well as house values. Repatriations seem to have a long-lasting impact, leaving a footprint on local economic growth. </p>
    
-   <p style="font-size:12px"><b>Presentations (<b>*</b>by coauthor; <b>&#8224;</b>poster; <b>&#8225;</b>scheduled):</b> AEA 2020 Annual Meeting<b>&#8224;</b> | University of Florida Business-Economics-Law workshop | The Economics of Migration Junior Seminar | FGV EESP Seminário de História Econômica<b>*</b> | University of Michigan's H2D2 Seminar Series | Midwest Economics Association | AERUS 2019 | UIUC <br> <b>*</b> denotes presentation by coauthor </p>
+   <p style="font-size:12px"><b>Presentations (<b>*</b>by coauthor; <b>&#8224;</b>poster; <b>&#8225;</b>scheduled):</b> AEA 2020 Annual Meeting<b>&#8224;</b> | University of Florida Business-Economics-Law workshop | The Economics of Migration Junior Seminar | FGV EESP Seminário de História Econômica<b>*</b> | University of Michigan's H2D2 Seminar Series | Midwest Economics Association | AERUS 2019 | UIUC </p>
       
    <div class="iframe-container"><iframe src="https://player.vimeo.com/video/384544947" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
    
@@ -37,7 +37,7 @@ permalink: /research/
 
    <p style="font-size:12px"><b>Abstract:</b> This paper derives gravity equations for aggregate bilateral trade in manufacturing and services when preferences are non-homothetic, and there is a difference in the degree of national product differentiation between the two types of products.  Non-homotheticity implies two "non-standard" determinants of bilateral trade: per-capita income and income inequality in the importing country. In estimating gravity equations, we include two non-standard trade-cost variables, namely, internet penetration and a measure of virtual proximity (the number of bilateral hyperlinks). Our results support the theoretical predictions and reveal that virtual proximity is a strong predictor of aggregate trade in both services and manufactures. It diminishes the effect of physical distance, language difference, as well as income variables.</p>
    
-   <p style="font-size:12px"><b>Presentations (<b>*</b>by coauthor; <b>&#8224;</b>poster; <b>&#8225;</b>scheduled):</b> University of South Florida Seminar Series<b>*</b> | UIUC <br> <b>*</b> denotes presentation by coauthor </p>
+   <p style="font-size:12px"><b>Presentations (<b>*</b>by coauthor; <b>&#8224;</b>poster; <b>&#8225;</b>scheduled):</b> University of South Florida Seminar Series<b>*</b> | UIUC </p>
 
 <br>
 

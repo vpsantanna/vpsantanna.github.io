@@ -13,7 +13,7 @@
             {% endif %}
           </li>
           <li>
-            <p><font size="2.5">Department of Economics<br />University of Illinois at Urbana-Champaign<br />214 David Kinley Hall, 1407 W. Gregory Dr.<br />Urbana, IL 61801. United States</font></p>
+            <p><font size="2.5">PhD Candidate<br>Department of Economics<br>University of Illinois at Urbana-Champaign<br>214 David Kinley Hall, 1407 W. Gregory Dr.<br />Urbana, IL 61801. United States</font></p>
            {% if site.email %}
             <li><font size="2.5"><a href="mailto:{{ site.email }}"><i class="fa fa-envelope"></i> {{ site.email }}</a></font> 
            </li>
@@ -34,6 +34,12 @@
           {% if site.github_username %}<a href="https://github.com/{{ site.github_username }}"><span class="icon"><i class="fa fa-github-square" style="font-size:30px;color:grey"></i></span></a>{% endif %}
           {% if site.twitter_username %}<a href="https://twitter.com/{{ site.twitter_username }}"><span class="icon"><i class="fa fa-twitter-square" style="font-size:30px;color:grey"></i></span></a>{% endif %}
         </ul>
+      </div>
+      
+      <div class="footer-col footer-col-3">
+        <font size="2.5">Contact</font> <br>
+        {% if site.email %}
+            <li><font size="2.5"><a href="mailto:{{ site.email }}"><i class="fa fa-envelope"></i> {{ site.email }}</a></font></li>
       </div>
 
     </div>

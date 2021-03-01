@@ -37,7 +37,7 @@ permalink: /research/
 
    <p style="font-size:13px"><b>Abstract:</b> This paper derives gravity equations for aggregate bilateral trade in manufacturing and services when preferences are non-homothetic, and there is a difference in the degree of national product differentiation between the two types of products.  Non-homotheticity implies two "non-standard" determinants of bilateral trade: per-capita income and income inequality in the importing country. In estimating gravity equations, we include two non-standard trade-cost variables, namely, internet penetration and a measure of virtual proximity (the number of bilateral hyperlinks). Our results support the theoretical predictions and reveal that virtual proximity is a strong predictor of aggregate trade in both services and manufactures. It diminishes the effect of physical distance, language difference, as well as income variables.</p>
    
-   <p style="font-size:13px"><strong>Presentations (<sup>*</sup>by coauthor; <sup>&#8224;</sup>poster; <sup>&#8225;</sup>scheduled):</strong> Midwest Economics Association (2021 Annual Meeting)<sup>&#8225;*</sup> | Delhi School of Economics (2020 Econometric Society Winter School) | University of South Florida (Economics Seminar Series)<sup>*</sup> | UIUC </p>
+   <p style="font-size:13px"><strong>Presentations (<sup>*</sup>by coauthor; <sup>&#8224;</sup>poster; <sup>&#8225;</sup>scheduled):</strong> Midwest Economics Association (2021 Annual Meeting)<sup>&#8225;*</sup> | Delhi School of Economics (2020 Econometric Society Winter School) | University of South Florida (Economics Seminar Series)<sup>*</sup> </p>
 
 <br>
 

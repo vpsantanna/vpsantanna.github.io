@@ -20,10 +20,9 @@ permalink: /research/
  }
  </style>
 
-# Work in Progress
+## Work in Progress
 
-- <p style="font-size:15px"><b>Send Them Back? The Real Estate Consequences of Repatriations</b><br>
-(with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>) </p>
+#### Send Them Back? The Real Estate Consequences of Repatriations<br>(with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>) 
 
    <p style="font-size:13px"><b>Abstract:</b> We examine how the repatriation of Mexican immigrants in the US from 1930 to 1936 affected housing and construction in American cities. Using US Census and hand-collected building permits data, we show that repatriating Mexicans during the Great Depression significantly slowed city growth. Employing instruments that account for the effects of the Depression, we show that cities with higher Mexican outflow experienced lower growth in commercial and residential real estate. We find significant negative effects on the number and value of building permits, as well as house values. Repatriations seem to have a long-lasting impact, leaving a footprint on local economic growth. </p>
    
@@ -41,7 +40,7 @@ permalink: /research/
 
 <br>
 
-# Refereed Publications
+## Refereed Publications
 
 - <p style="font-size:15px"><b>Port Efficiency and Brazilian Exports: A Quantitative Assessment of the Impact of Turnaround Time</b> <br> <em> The World Economy</em>, 2018, 41, 2528–2551 (with <a href="https://scholar.google.com.br/citations?user=dqFJND9idb0C&hl=en" target="_blank"> Sérgio Kannebley Júnior</a>) <br>
    [ <a href="https://doi.org/10.1111/twec.12654" target="_blank">Published Version</a> ] [Coverage: <a href="/files/research/123_VSSKJ.pdf" target="_blank"> Revista Brasileira de Comércio Exterior, v. 123, June 2015</a> ] </p>
@@ -50,7 +49,7 @@ permalink: /research/
 
 <br>
 
-# Invited Publications
+## Invited Publications
 
 - <p style="font-size:15px"><b>Trade Facilitation Indexes: The case of Brazil and its Trade Partners</b> <br>
    <em>Revista de Economia & Relações Internacionais</em>, v. 10, p. 124-141, January 2012. <br> 

@@ -2,7 +2,7 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-$content-width:    950px;
+$content-width:    1000px;
 
 @import "minima",
         "minima/custom-styles"     // Hook to override existing styles.

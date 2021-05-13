@@ -7,7 +7,7 @@ permalink: /teaching/
 
 # Instructor
 
-## International Trade (Undergraduate Course) - University of Illinois at Urbana-Champaign
+### International Trade (Undergraduate Course) - University of Illinois at Urbana-Champaign
 
 - <p style="font-size:15px"><b>International Trade (Undergraduate Course) - University of Illinois at Urbana-Champaign</b></p>
 

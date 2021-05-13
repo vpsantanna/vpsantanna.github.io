@@ -1,2 +1,8 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+// Width of the content area
+$content-width:    900px !default;
+
+$on-palm:          600px !default;
+$on-laptop:        900px !default;

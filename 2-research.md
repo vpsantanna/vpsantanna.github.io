@@ -56,9 +56,7 @@ permalink: /research/
 
 ## Invited Publications
 
-#### <b>Trade Facilitation Indexes: The case of Brazil and its Trade Partners</b> (with <a href="https://scholar.google.com.br/citations?user=ceqK-1QAAAAJ&hl=en" target="_blank">Mauricio de Souza</a> and <a href="https://scholar.google.com.br/citations?user=bnfF3IEAAAAJ&hl=en" target="_blank">Rosane Faria</a>) <br> <em>Revista de Economia & Relações Internacionais</em>, v. 10, p. 124-141, January 2012. <br> (with <a href="https://scholar.google.com.br/citations?user=ceqK-1QAAAAJ&hl=en" target="_blank">Mauricio de Souza</a> and <a href="https://scholar.google.com.br/citations?user=bnfF3IEAAAAJ&hl=en" target="_blank">Rosane Faria</a>)
+#### <b>Trade Facilitation Indexes: The case of Brazil and its Trade Partners</b> (with <a href="https://scholar.google.com.br/citations?user=ceqK-1QAAAAJ&hl=en" target="_blank">Mauricio de Souza</a> and <a href="https://scholar.google.com.br/citations?user=bnfF3IEAAAAJ&hl=en" target="_blank">Rosane Faria</a>) <em>Revista de Economia & Relações Internacionais</em>, v. 10, p. 124-141, January 2012. 
 
-- <p style="font-size:15px"><b>Trade Facilitation Indexes: The case of Brazil and its Trade Partners</b> <br>
-   <em>Revista de Economia & Relações Internacionais</em>, v. 10, p. 124-141, January 2012. <br> 
-   (with <a href="https://scholar.google.com.br/citations?user=ceqK-1QAAAAJ&hl=en" target="_blank">Mauricio de Souza</a> and <a href="https://scholar.google.com.br/citations?user=bnfF3IEAAAAJ&hl=en" target="_blank">Rosane Faria</a>) [ <a href="/files/research/indicadores_facilitacao.pdf" target="_blank">Published Version (in Portuguese)</a> ]</p>
+[ <a href="/files/research/indicadores_facilitacao.pdf" target="_blank">Published Version (in Portuguese)</a> ]</p>
 

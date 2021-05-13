@@ -7,6 +7,8 @@ permalink: /teaching/
 
 # Instructor
 
+## International Trade (Undergraduate Course) - University of Illinois at Urbana-Champaign
+
 - <p style="font-size:15px"><b>International Trade (Undergraduate Course) - University of Illinois at Urbana-Champaign</b></p>
 
    <p style="font-size:13px">This course is about the causes and consequences of the international trade of goods, services, and production inputs. Throughout the course, we will cover the main topics related to international trade that are at the center of public debate.  This course is designed to teach students how to use critical thinking on international trade issues within formal economic frameworks. Students will learn to apply microeconomic theory to international trade issues discussed by policymakers and media outlets: What are the benefits and costs of international trade?  What are the effects of trade policies, such as tariffs and quotas? Should developing countries protect their domestic markets? What is the role of international institutions such as the World Trade Organization? What kind of products countries trade? What determines internationl trade patterns?  </p>

@@ -4,7 +4,6 @@ title: Teaching
 permalink: /teaching/
 ---
 
- <p style="font-size:50px"><b>Teaching</b><br>
 
 # Instructor
 

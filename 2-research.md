@@ -33,7 +33,7 @@ permalink: /research/
    </div>
 <br>
 
-#### <b>Determinants of Bilateral Trade in Manufacturing and Services: A Unified Approach</b> (with <a href="https://www.satyapdas.com" target="_blank">Satya P. Das</a>)
+#### <b>Determinants of Bilateral Trade in Manufacturing and Services: A Unified Approach</b> (with <a href="https://www.satyapdas.com" target="_blank">Satya Das</a>)
 
    <div style="padding-left: 30px;">
    <p style="font-size:13px"><b>Abstract:</b> This paper studies the determinants of aggregate bilateral trade in two broad sectors, manufacturing and services. We build a unified theoretical framework that incorporates a demand bias towards services and a difference in the degree of national product differentiation between the two sectors. Demand bias yields larger income elasticities for trade in services compared to trade in manufacturing.  Differences in the degree of national product differentiation generate a higher elasticity of bilateral trade in manufactures for the exporting country's economy size than the trade in services. Using our framework, we investigate the importance of virtual proximity and internet infrastructure to international trade in manufactures and services. The results support our unified model's predictions and illustrate that virtual proximity is a strong predictor of aggregate trade in both services and manufacturing. We also find that physical distance is a significant determinant of bilateral trade in manufacturing and services, even while controlling for virtual proximity.</p>

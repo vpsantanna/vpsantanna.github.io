@@ -21,7 +21,9 @@ permalink: /teaching/
 
 #### Economic Statistics II (Undergraduate) - University of Illinois at Urbana-Champaign
 
+   <div style="padding-left: 30px;">
    <p style="font-size:13px">Awarded in the  <em>“List of Teachers Ranked as Excellent by their Students” </em>: <a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2017-spring.pdf#page=19" target="_blank">Spring 2017</a>, <a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2017-fall.pdf#page=21" target="_blank">Fall 2017</a>, and <a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2018-spring.pdf#page=18" target="_blank">Spring 2018</a>  <br> Rated as “Outstanding” (University-wide Top 10% rating): <a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2018-spring.pdf#page=18" target="_blank">Spring 2018</a> </p>
+   </div>
    
 #### Intermediate Microeconomics (Undergraduate) - University of Illinois at Urbana-Champaign
 #### Econometrics III - (Undergraduate) - Universidade de São Paulo

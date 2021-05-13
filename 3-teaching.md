@@ -18,11 +18,14 @@ permalink: /teaching/
   <p style="font-size:13px">[ <a href="/files/Econ_490_International_Trade___Syllabus.pdf" target="_blank">Course Syllabus (Spring 2020)</a> ] [ <a href="https://compass2g.illinois.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_4184689_1&course_id=_48673_1" target="_blank">Course Website</a> ]</p>
    
 
-# Teaching Assistant
+## Teaching Assistant
+
+#### Economic Statistics II (Undergraduate Course) - University of Illinois at Urbana-Champaign
 
 - <p style="font-size:15px"><b>Economic Statistics II (Undergraduate Course) - University of Illinois at Urbana-Champaign</b></p>
    <p style="font-size:13px">Awarded in the  <em>“List of Teachers Ranked as Excellent by their Students” </em>: <a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2017-spring.pdf#page=19" target="_blank">Spring 2017</a>, <a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2017-fall.pdf#page=21" target="_blank">Fall 2017</a>, and <a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2018-spring.pdf#page=18" target="_blank">Spring 2018</a>  <br> Rated as “Outstanding” (University-wide Top 10% rating): <a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2018-spring.pdf#page=18" target="_blank">Spring 2018</a> </p>
    
+#### Intermediate Microeconomics (Undergraduate Course) - University of Illinois at Urbana-Champaign
 - <p style="font-size:15px"><b>Intermediate Microeconomics (Undergraduate Course) - University of Illinois at Urbana-Champaign</b></p>
 - <p style="font-size:15px"><b>Econometrics III - (Undergraduate Course) - Universidade de São Paulo</b></p>
 - <p style="font-size:15px"><b>International Economics (Undergraduate Course) - Universidade de São Paulo</b></p>

@@ -23,13 +23,14 @@ permalink: /research/
 ## Work in Progress
 
 #### Send Them Back? The Real Estate Consequences of Repatriations<br>(with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>) 
-
+   
+   <div style="padding-left: 30px;">
    <p style="font-size:13px"><b>Abstract:</b> We examine how the repatriation of Mexican immigrants in the US from 1930 to 1936 affected housing and construction in American cities. Using US Census and hand-collected building permits data, we show that repatriating Mexicans during the Great Depression significantly slowed city growth. Employing instruments that account for the effects of the Depression, we show that cities with higher Mexican outflow experienced lower growth in commercial and residential real estate. We find significant negative effects on the number and value of building permits, as well as house values. Repatriations seem to have a long-lasting impact, leaving a footprint on local economic growth. </p>
    
    <p style="font-size:13px"><strong>Presentations (<sup>*</sup>by coauthor; <sup>&#8224;</sup>poster; <sup>&#8225;</sup>scheduled):</strong>  Economic History Society (PhD Thesis Workshop),<sup>&#8225;</sup> AREUEA (2021 National Meeting,<sup>&#8225;</sup> ASSA 2021<sup>&#8224;</sup> | AEA-ASSA 2020<sup>&#8224;</sup> | UEA (2021 European Meeting, 2020 Annual Meeting) | UPenn (2020 Young Economist Symposium) | PhD-Economics Virtual Seminar | The Economics of Migration Junior Seminar | SKEMA Business School (FAIRR Research Seminar)<sup>*</sup> | University of Florida, Warrington College of Business (Finance Seminar Series)<sup>*</sup> | University of South Florida (Economics Seminar Series)<sup>*</sup> | FGV EESP (Seminário de História Econômica)<sup>*</sup> | FEA-RP Universidade de São Paulo<sup>*</sup> | University of Michigan (2019 H2D2 Research Day) | Midwest Economics Association (2019 Annual Meeting) | AERUS 2019 | UIUC </p>
       
    <div class="iframe-container"><iframe src="https://player.vimeo.com/video/384544947" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
-   
+   </div>
 <br>
 
 - <p style="font-size:15px"><b>Determinants of Bilateral Trade in Manufacturing and Services: A Unified Approach</b><br> (with <a href="https://www.satyapdas.com" target="_blank">Satya P. Das</a>)</p>

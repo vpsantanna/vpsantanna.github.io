@@ -33,6 +33,7 @@ permalink: /research/
    </div>
 <br>
 
+#### Determinants of Bilateral Trade in Manufacturing and Services: A Unified Approach (with <a href="https://www.satyapdas.com" target="_blank">Satya P. Das</a>)
 - <p style="font-size:15px"><b>Determinants of Bilateral Trade in Manufacturing and Services: A Unified Approach</b><br> (with <a href="https://www.satyapdas.com" target="_blank">Satya P. Das</a>)</p>
 
    <p style="font-size:13px"><b>Abstract:</b> This paper studies the determinants of aggregate bilateral trade in two broad sectors, manufacturing and services. We build a unified theoretical framework that incorporates a demand bias towards services and a difference in the degree of national product differentiation between the two sectors. Demand bias yields larger income elasticities for trade in services compared to trade in manufacturing.  Differences in the degree of national product differentiation generate a higher elasticity of bilateral trade in manufactures for the exporting country's economy size than the trade in services. Using our framework, we investigate the importance of virtual proximity and internet infrastructure to international trade in manufactures and services. The results support our unified model's predictions and illustrate that virtual proximity is a strong predictor of aggregate trade in both services and manufacturing. We also find that physical distance is a significant determinant of bilateral trade in manufacturing and services, even while controlling for virtual proximity.</p>
@@ -43,7 +44,7 @@ permalink: /research/
 
 ## Refereed Publications
 
-#### Port Efficiency and Brazilian Exports: A Quantitative Assessment of the Impact of Turnaround Time <br> <em> The World Economy</em>, 2018, 41, 2528–2551 (with <a href="https://scholar.google.com.br/citations?user=dqFJND9idb0C&hl=en" target="_blank"> Sérgio Kannebley Júnior</a>) <br>
+#### <b>Port Efficiency and Brazilian Exports: A Quantitative Assessment of the Impact of Turnaround Time</b> <br> <em> The World Economy</em>, 2018, 41, 2528–2551 (with <a href="https://scholar.google.com.br/citations?user=dqFJND9idb0C&hl=en" target="_blank"> Sérgio Kannebley Júnior</a>) <br>
    [ <a href="https://doi.org/10.1111/twec.12654" target="_blank">Published Version</a> ] [Coverage: <a href="/files/research/123_VSSKJ.pdf" target="_blank"> Revista Brasileira de Comércio Exterior, v. 123, June 2015</a> ]
 
 - <p style="font-size:15px"><b>Port Efficiency and Brazilian Exports: A Quantitative Assessment of the Impact of Turnaround Time</b> <br> <em> The World Economy</em>, 2018, 41, 2528–2551 (with <a href="https://scholar.google.com.br/citations?user=dqFJND9idb0C&hl=en" target="_blank"> Sérgio Kannebley Júnior</a>)<br>[ <a href="https://doi.org/10.1111/twec.12654" target="_blank">Published Version</a> ] [Coverage: <a href="/files/research/123_VSSKJ.pdf" target="_blank"> Revista Brasileira de Comércio Exterior, v. 123, June 2015</a> ] </p>

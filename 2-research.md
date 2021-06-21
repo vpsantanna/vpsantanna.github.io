@@ -43,6 +43,17 @@ permalink: /research/
 
 <br>
 
+#### <b>International Trade and Wage Inequality: Evidence from Brazil</b> (with <a href="https://economics.illinois.edu/profile/chagas2" target="_blank">Lucas Chagas</a>)
+
+   <div style="padding-left: 30px;">
+   <p style="font-size:15px" align="justify">In this paper, we study the consequences of international trade integration on wage inequality. More specifically, we examine the direct and indirect impact of the ''two-sided'' China shock on Brazilian wage inequality. Using a detailed employer-employee database, we find empirical evidence suggesting that export and import exposure creates winners and losers, both between and within sectors. To understand the mechanisms behind this result, we extend the model proposed by Helpman et al. (2017) including firm and sector heterogeneity. Our model provides a reasonable approximation of first and second-order statistics observed in the economy. We then propose two counterfactual scenarios, in which we shut down one "side" of the shock. We show that in the absence of the export shock, wage inequality would be 5 percent higher. The primary mechanism behind this result is the fall in barriers to operating in the external market. The absence of import penetration implies a lower impact on wage variance, but only through re-composition of workers towards the Low-Tech Manufacturing sector, suggesting that import competition's primary effect is to shut down less productive firms. Our findings suggest that international trade integration with China has been an essential contributor to the decrease of wage inequality in Brazil and that this seems to be stemming mainly from the export expansion.
+</p>
+
+   <p style="font-size:14px"  align="justify"><strong>Presentations (<sup>*</sup>by coauthor; <sup>&#8224;</sup>poster; <sup>&#8225;</sup>scheduled):</strong> Midwest Economics Association (2021 Annual Meeting) </p>
+   </div>
+
+<br>
+
 ## Refereed Publications
 
 #### <b>Port Efficiency and Brazilian Exports: A Quantitative Assessment of the Impact of Turnaround Time</b> <br> <em> The World Economy</em>, 2018, 41, 2528–2551 (with <a href="https://scholar.google.com.br/citations?user=dqFJND9idb0C&hl=en" target="_blank"> Sérgio Kannebley Júnior</a>)

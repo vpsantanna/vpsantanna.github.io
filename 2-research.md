@@ -20,7 +20,7 @@ permalink: /research/
  }
  </style>
 
-## Work in Progress
+## Job Market Paper
 
 #### <b>Send Them Back? The Real Estate Consequences of Repatriations</b> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>)
 
@@ -32,6 +32,19 @@ permalink: /research/
    <div class="iframe-container"><iframe src="https://player.vimeo.com/video/384544947" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
    </div>
 <br>
+
+## Refereed Publications
+
+#### <b>Port Efficiency and Brazilian Exports: A Quantitative Assessment of the Impact of Turnaround Time</b> <br> <em> The World Economy</em>, 2018, 41, 2528–2551 (with <a href="https://scholar.google.com.br/citations?user=dqFJND9idb0C&hl=en" target="_blank"> Sérgio Kannebley Júnior</a>)
+
+   <div style="padding-left: 30px;">
+   <p style="font-size:15px" align="justify">This paper estimates the impact of vessel turnaround time on Brazilian exports. To achieve this goal, we use a difference gravity equation to explore the time variation in port procedures for 16 Brazilian ports. This paper uses a unique database with local exports, taking into account the port used and products aggregated at the four‐digit Harmonized System (HS) level for the period between 2010 and 2012. The estimation results indicate that, in general, each additional hour of delay in port procedures represents costs to Brazilian exporters, which may lead to loss of competitiveness of domestic products abroad. According to the estimates, each additional relative hour of delay in the average port is equivalent to a reduction in relative local exports of ~2%. Moreover, a 10% relative reduction in vessel turnaround time can increase the proportional number of exported product categories by 1%. Therefore, our findings suggest that turnaround time has a statistically significant effect on the intensive and extensive margins of trade.</p>
+   [ <a href="https://doi.org/10.1111/twec.12654" target="_blank">Published Version</a> ] [Coverage: <a href="/files/research/123_VSSKJ.pdf" target="_blank"> Revista Brasileira de Comércio Exterior, v. 123, June 2015</a> ]
+   </div>
+
+<br>
+
+## Working Papers
 
 #### <b>Determinants of Bilateral Trade in Manufacturing and Services: A Unified Approach</b> (with <a href="https://www.satyapdas.com" target="_blank">Satya Das</a>)
 
@@ -54,16 +67,10 @@ permalink: /research/
 
 <br>
 
-## Refereed Publications
+## Selected Work in Progress
 
-#### <b>Port Efficiency and Brazilian Exports: A Quantitative Assessment of the Impact of Turnaround Time</b> <br> <em> The World Economy</em>, 2018, 41, 2528–2551 (with <a href="https://scholar.google.com.br/citations?user=dqFJND9idb0C&hl=en" target="_blank"> Sérgio Kannebley Júnior</a>)
+#### <b>The Direct and Indirect Effects of Credit Shocks on Exporter and Importer Firms</b> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank">Gustavo Cortes</a> and <a href="https://ideas.repec.org/f/pva814.html#person" target="_blank">Bernardus Van Doornik</a>)
 
-   <div style="padding-left: 30px;">
-   <p style="font-size:15px" align="justify">This paper estimates the impact of vessel turnaround time on Brazilian exports. To achieve this goal, we use a difference gravity equation to explore the time variation in port procedures for 16 Brazilian ports. This paper uses a unique database with local exports, taking into account the port used and products aggregated at the four‐digit Harmonized System (HS) level for the period between 2010 and 2012. The estimation results indicate that, in general, each additional hour of delay in port procedures represents costs to Brazilian exporters, which may lead to loss of competitiveness of domestic products abroad. According to the estimates, each additional relative hour of delay in the average port is equivalent to a reduction in relative local exports of ~2%. Moreover, a 10% relative reduction in vessel turnaround time can increase the proportional number of exported product categories by 1%. Therefore, our findings suggest that turnaround time has a statistically significant effect on the intensive and extensive margins of trade.</p>
-   [ <a href="https://doi.org/10.1111/twec.12654" target="_blank">Published Version</a> ] [Coverage: <a href="/files/research/123_VSSKJ.pdf" target="_blank"> Revista Brasileira de Comércio Exterior, v. 123, June 2015</a> ]
-   </div>
-
-<br>
 
 ## Invited Publications
 

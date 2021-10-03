@@ -16,8 +16,7 @@ permalink: /teaching/
 
   <p style="font-size:14px">[ <a href="/files/Econ_490_International_Trade___Syllabus.pdf" target="_blank">Course Syllabus (Spring 2020)</a> ]</p>
    </div>
-   <br>
-
+ 
 #### <b>Economic Statistics II</b> (Teaching Assistant)
 
    <div style="padding-left: 30px;">
@@ -25,6 +24,8 @@ permalink: /teaching/
    </div>
 
 #### <b>Intermediate Microeconomics</b> (Teaching Assistant)
+
+  <br>
 
 ## University of Sao Paulo, Brazil
 #### <b>Econometrics III</b> - (Teaching Assistant)

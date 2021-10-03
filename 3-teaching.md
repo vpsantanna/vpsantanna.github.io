@@ -6,7 +6,7 @@ permalink: /teaching/
 
 
 ## University of Illinois at Urbana-Champaign
-<p style="font-size:12px"  align="justify"><sup>*</sup> Awarded in the <em>“List of Teachers Ranked as Excellent by their Students” </em>. <sup>**</sup> Rated as <em>“Outstanding”</em> (University-wide Top 10% rating)</p>
+<p style="font-size:12px" align="justify">Notes: <sup>*</sup> Awarded in the <em>“List of Teachers Ranked as Excellent by their Students” </em>. <sup>**</sup> Rated as <em>“Outstanding”</em> (University-wide Top 10% rating)</p>
 
 #### <b>Econ 490 - International Trade</b> (Instructor, sole course responsability): <font style="font-size:14px"> Fall 2018,<a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2018-fall.pdf#page=21" target="_blank"><sup>*</sup></a> Spring 2019,<a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2019-spring.pdf#page=19" target="_blank"><sup>**</sup></a> Fall 2019,<a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2019-fall.pdf#page=20" target="_blank"><sup>*</sup></a> Spring 2020<a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2020-spring.pdf#page=17" target="_blank"><sup>**</sup></a></font>
 

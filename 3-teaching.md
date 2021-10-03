@@ -6,7 +6,7 @@ permalink: /teaching/
 
 
 ## University of Illinois at Urbana-Champaign
-<p style="font-size:12px"  align="justify">[ <sup>*</sup> Awarded in the <em>“List of Teachers Ranked as Excellent by their Students” </em>. <sup>**</sup> Rated as <em>“Outstanding”</em> (University-wide Top 10% rating) ]</p>
+<p style="font-size:12px"  align="justify"><sup>*</sup> Awarded in the <em>“List of Teachers Ranked as Excellent by their Students” </em>. <sup>**</sup> Rated as <em>“Outstanding”</em> (University-wide Top 10% rating)</p>
 
 #### <b>Econ 490 - International Trade</b> (Instructor, sole course responsability): <font style="font-size:14px"> Fall 2018,<a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2018-fall.pdf#page=21" target="_blank"><sup>*</sup></a> Spring 2019,<a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2019-spring.pdf#page=19" target="_blank"><sup>**</sup></a> Fall 2019,<a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2019-fall.pdf#page=20" target="_blank"><sup>*</sup></a> Spring 2020<a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2020-spring.pdf#page=17" target="_blank"><sup>**</sup></a></font>
 
@@ -16,14 +16,14 @@ permalink: /teaching/
   <p style="font-size:14px">[ <a href="/files/Econ_490_International_Trade___Syllabus.pdf" target="_blank">Course Syllabus (Spring 2020)</a> ]</p>
    </div>
  
-#### <b>Economic Statistics II</b> (Teaching Assistant): <font style="font-size:14px"> Spring 2017,<a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2017-spring.pdf#page=19" target="_blank"><sup>*</sup></a> Fall 2017,<a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2017-fall.pdf#page=21" target="_blank"><sup>*</sup></a> Spring 2018,<a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2018-spring.pdf#page=18" target="_blank"><sup>**</sup></a></font>
+#### <b>Econ 203 - Economic Statistics II</b> (Teaching Assistant): <font style="font-size:14px"> Spring 2017,<a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2017-spring.pdf#page=19" target="_blank"><sup>*</sup></a> Fall 2017,<a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2017-fall.pdf#page=21" target="_blank"><sup>*</sup></a> Spring 2018,<a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2018-spring.pdf#page=18" target="_blank"><sup>**</sup></a></font>
 
    
 
-#### <b>Intermediate Microeconomics</b> (Teaching Assistant): <font style="font-size:14px">Fall 2016</font>
+#### <b>Econ 302 - Intermediate Microeconomics</b> (Teaching Assistant): <font style="font-size:14px">Fall 2016</font>
 
   <br>
 
 ## University of Sao Paulo, Brazil
-#### <b>Econometrics III</b> - (Teaching Assistant)
-#### <b>International Economics</b> (Teaching Assistant)
+#### <b>Econometrics III</b> - (Teaching Assistant): <font style="font-size:14px">Spring 2014</font>
+#### <b>International Economics</b> (Teaching Assistant): <font style="font-size:14px">Fall 2013</font>

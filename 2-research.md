@@ -39,7 +39,7 @@ permalink: /research/
 
    <div style="padding-left: 30px;">
    <p style="font-size:14px" align="justify">This paper estimates the impact of vessel turnaround time on Brazilian exports. To achieve this goal, we use a difference gravity equation to explore the time variation in port procedures for 16 Brazilian ports. This paper uses a unique database with local exports, taking into account the port used and products aggregated at the four‐digit Harmonized System (HS) level for the period between 2010 and 2012. The estimation results indicate that, in general, each additional hour of delay in port procedures represents costs to Brazilian exporters, which may lead to loss of competitiveness of domestic products abroad. According to the estimates, each additional relative hour of delay in the average port is equivalent to a reduction in relative local exports of ~2%. Moreover, a 10% relative reduction in vessel turnaround time can increase the proportional number of exported product categories by 1%. Therefore, our findings suggest that turnaround time has a statistically significant effect on the intensive and extensive margins of trade.</p>
-   [ <a href="https://doi.org/10.1111/twec.12654" target="_blank">Published Version</a> ] [Coverage: <a href="/files/research/123_VSSKJ.pdf" target="_blank"> Revista Brasileira de Comércio Exterior, v. 123, June 2015</a> ]
+   [ <a href="https://doi.org/10.1111/twec.12654" target="_blank">Published Version</a> ] [ Coverage: <a href="/files/research/123_VSSKJ.pdf" target="_blank"> Revista Brasileira de Comércio Exterior, v. 123, June 2015</a> ]
    </div>
 
 <br>
@@ -52,7 +52,7 @@ permalink: /research/
    <p style="font-size:14px" align="justify">Gravity models have been extensively used as workhorse models to study the determinants of international trade. While most of the literature has focused on trade in manufacturing, a recent literature has emerged that uses gravity models to study international trade in services. Despite showing that gravity equations are well suited to studying trade in services, there is little research on the systematic differences and specificities when using gravity models for each type of trade. This paper addresses this by studying the determinants of aggregate bilateral trade in services <em>vis-à-vis</em> manufacturing. The main objective is to understand the systematic differences between services and manufacturing trade that are borne out empirically. In doing so, we derive a joint theory that brings out "systematic" differences in response to scale and trade cost variables between trade in manufacturing and services.  We build a unified theoretical framework that incorporates a <em>demand bias</em> towards services and a difference in national <em>product differentiation</em> between the two sectors. The <em>demand bias</em> yields larger income elasticities for trade in services compared to trade in manufacturing, and differences in national <em>product differentiation</em> produce a higher elasticity of bilateral trade in manufactures for the exporting country's size than in services. We show that the model predictions find support on traditional gravity equation estimates using various specifications and estimation approaches. We also investigate the role of virtual proximity and internet infrastructure in international trade in manufactures and services. We find that virtual proximity is a strong predictor of aggregate trade in services and manufacturing.</p>
 
    <p style="font-size:13px"  align="justify"><strong>Presentations (<sup>*</sup>by coauthor; <sup>&#8224;</sup>poster; <sup>&#8225;</sup>scheduled):</strong> European Trade Study Group 2021 Conference, Midwest Economics Association 2021 Annual Meeting<sup>*</sup> | Econometric Society's Winter School 2020 at Delhi School of Economics | University of South Florida<sup>*</sup> </p>
-    [ <a href="/files/research/gravity_manufacturing_and_services.pdf" target="_blank">Working Paper</a> ]
+    [ <a href="/files/research/gravity_manufacturing_and_services.pdf" target="_blank">Working Paper (pdf)</a> ]
    </div>
 
 <br>
@@ -64,6 +64,7 @@ permalink: /research/
 </p>
 
    <p style="font-size:13px"  align="justify"><strong>Presentations (<sup>*</sup>by coauthor; <sup>&#8224;</sup>poster; <sup>&#8225;</sup>scheduled):</strong> Midwest Economics Association (2021 Annual Meeting) </p>
+   [ Working Paper (pdf) ]
    </div>
 
 <br>
@@ -71,6 +72,8 @@ permalink: /research/
 ## Selected Work in Progress
 
 #### <b>The Direct and Indirect Effects of Credit Shocks on Exporter and Importer Firms</b> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank">Gustavo Cortes</a> and <a href="https://ideas.repec.org/f/pva814.html#person" target="_blank">Bernardus Van Doornik</a>)
+
+#### <b>The Consequences of the Smoot–Hawley Tariffs on US Manufacturing</b> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank">Gustavo Cortes</a>)
 
 
 ## Invited Publications

@@ -64,7 +64,7 @@ permalink: /research/
 </p>
 
    <p style="font-size:13px"  align="justify"><strong>Presentations (<sup>*</sup>by coauthor; <sup>&#8224;</sup>poster; <sup>&#8225;</sup>scheduled):</strong> Midwest Economics Association 2021 Annual Meeting </p>
-   [ Working Paper (pdf) ]
+   [ <a href="https://www.dropbox.com/s/befuo4e5wfwdb9w/Chagas_and_Sant_Anna___Draft.pdf?dl=0" target="_blank">Working Paper (pdf)</a> ]
    </div>
 
 <br>

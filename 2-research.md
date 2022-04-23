@@ -126,5 +126,5 @@ permalink: /research/
 
    <div style="padding-left: 30px;">
    [ <a href="/files/research/indicadores_facilitacao.pdf" target="_blank">Published Version (in Portuguese)</a> ]
-   <button class="button-1" role="button" href="/files/research/indicadores_facilitacao.pdf" target="_blank">Published Version (Portuguese)</button>
+   <a class="button-1" role="button" href="/files/research/indicadores_facilitacao.pdf" target="_blank">Published Version (Portuguese)</a>
    </div>

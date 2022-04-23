@@ -156,7 +156,7 @@ tbody.collapse.in{
    </div>
  </div>
 
-#### <b>The Consequences of the Smoot–Hawley Tariffs on US Manufacturing</b> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank">Gustavo Cortes</a>)
+<p class="ex1" align="justify"> <b>The Consequences of the Smoot–Hawley Tariffs on US Manufacturing</b> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank">Gustavo Cortes</a>) </p>
 <button type="button" class="button-1" data-toggle="collapse" data-target="#abs1">Abstract +</button>
   <div id="abs1" class="collapse">
     <div style="padding-left: 30px;">

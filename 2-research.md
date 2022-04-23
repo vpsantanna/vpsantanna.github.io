@@ -147,7 +147,7 @@ tbody.collapse.in{
    </div>
 
 #### <b>The Consequences of the Smoot–Hawley Tariffs on US Manufacturing</b> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank">Gustavo Cortes</a>)
-<button type="button" class="button-1" data-toggle="collapse" data-target="#abs1">Abstract</button>
+<button type="button" class="button-1" data-toggle="collapse" data-target="#abs1">Abstract +</button>
   <div id="abs1" class="collapse">
     <div style="padding-left: 30px;">
    <p style="font-size:14px" align="justify">The Smoot–Hawley Tariff Act is considered one of the most comprehensive protectionist trade policies ever implemented in the United  States.  We study the responses of the local economy following the Smoot–Hawley tariffs. We exploit variation in the tariff increases across industries and variation in the industry mix of local employment across US regions to measure changes in local labor demand induced by the tariffs. This project contributes to a better understanding of the consequences of the Smoot–Hawley Tariffs to US manufacturing.</p>
@@ -159,5 +159,5 @@ tbody.collapse.in{
 
 ##### <b>Trade Facilitation Indexes: The case of Brazil and its Trade Partners</b> (with <a href="https://scholar.google.com.br/citations?user=ceqK-1QAAAAJ&hl=en" target="_blank">Mauricio de Souza</a> and <a href="https://scholar.google.com.br/citations?user=bnfF3IEAAAAJ&hl=en" target="_blank">Rosane Faria</a>) <br> <em>Revista de Economia & Relações Internacionais</em>, v. 10, p. 124-141, January 2012.
 
-<a class="button-1" role="button" href="/files/research/indicadores_facilitacao.pdf" target="_blank" style="text-decoration: none"><i class="fa fa-file-pdf-o"></i> Published Version (Portuguese)</a>
+<a class="button-1" role="button" href="/files/research/indicadores_facilitacao.pdf" target="_blank" style="text-decoration: none"><i class="fa fa-file-pdf-o"></i> Published Version (in Portuguese)</a>
 

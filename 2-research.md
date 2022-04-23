@@ -149,10 +149,12 @@ tbody.collapse.in{
 ## Selected Work in Progress
 
 #### <b>The Direct and Indirect Effects of Credit Shocks on Exporter and Importer Firms</b> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank">Gustavo Cortes</a> and <a href="https://ideas.repec.org/f/pva814.html#person" target="_blank">Bernardus Van Doornik</a>)
-
-<div style="padding-left: 30px;">
-   <p style="font-size:14px" align="justify">The ability of firms to engage in international trade depends crucially on their access to credit.  A growing body of research seeks to study the role of credit availability to international trade activity. However, the limited availability of firm-level data and the difficulty in separating credit supply shocks from other economic factors pose a significant challenge for these studies. Our paper contributes to this literature by using a combination of highly granular and unique Brazilian databases hosted by the Central Bank of Brazil to investigate and quantify the effects of a sudden change in credit availability on international trade activity, including potential spillovers to the rest of the domestic economy. This research contributes to understanding the implications of credit expansion policies in supporting exporters and importers during financial crises.</p>
+<button type="button" class="button-1" data-toggle="collapse" data-target="#abs2">Abstract +</button>
+  <div id="abs2" class="collapse">
+    <div style="padding-left: 30px;">
+   <p style="font-size:13px" align="justify">The ability of firms to engage in international trade depends crucially on their access to credit.  A growing body of research seeks to study the role of credit availability to international trade activity. However, the limited availability of firm-level data and the difficulty in separating credit supply shocks from other economic factors pose a significant challenge for these studies. Our paper contributes to this literature by using a combination of highly granular and unique Brazilian databases hosted by the Central Bank of Brazil to investigate and quantify the effects of a sudden change in credit availability on international trade activity, including potential spillovers to the rest of the domestic economy. This research contributes to understanding the implications of credit expansion policies in supporting exporters and importers during financial crises.</p>
    </div>
+ </div>
 
 #### <b>The Consequences of the Smoot–Hawley Tariffs on US Manufacturing</b> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank">Gustavo Cortes</a>)
 <button type="button" class="button-1" data-toggle="collapse" data-target="#abs1">Abstract +</button>

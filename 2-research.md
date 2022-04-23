@@ -35,7 +35,7 @@ permalink: /research/
   text-decoration-thickness: auto;
   box-shadow: 0 3px 9px 0 rgba(0, 0, 0, 0.1), 0 3px 6px 3px rgba(0, 0, 0, 0.06);
   transition-duration: 0.4s;
-  margin: 10px 0px;
+  margin: 0px 0px;
   cursor: pointer;
   user-select: none;
   -webkit-user-select: none;
@@ -159,9 +159,10 @@ tbody.collapse.in{
 ## Invited Publications
 
 <p style="font-size:14px; padding-bottom:0px" align="justify"> 
-   <b>Trade Facilitation Indexes: The case of Brazil and its Trade Partners</b> (with <a href="https://scholar.google.com.br/citations?user=ceqK-1QAAAAJ&hl=en" target="_blank">Mauricio de Souza</a> and <a href="https://scholar.google.com.br/citations?user=bnfF3IEAAAAJ&hl=en" target="_blank">Rosane Faria</a>) <br> <em>Revista de Economia & Relações Internacionais</em>, v. 10, p. 124-141, January 2012. <br> <a class="button-1" role="button" href="/files/research/indicadores_facilitacao.pdf" target="_blank" style="text-decoration: none"><i class="fa fa-file-pdf-o"></i> Published Version (in Portuguese)</a> </p>
+   <b>Trade Facilitation Indexes: The case of Brazil and its Trade Partners</b> (with <a href="https://scholar.google.com.br/citations?user=ceqK-1QAAAAJ&hl=en" target="_blank">Mauricio de Souza</a> and <a href="https://scholar.google.com.br/citations?user=bnfF3IEAAAAJ&hl=en" target="_blank">Rosane Faria</a>) <br> <em>Revista de Economia & Relações Internacionais</em>, v. 10, p. 124-141, January 2012. 
+<a class="button-1" role="button" href="/files/research/indicadores_facilitacao.pdf" target="_blank" style="text-decoration: none"><i class="fa fa-file-pdf-o"></i> Published Version (in Portuguese)</a> </p>
 
 
 ##### <b>Trade Facilitation Indexes: The case of Brazil and its Trade Partners</b> (with <a href="https://scholar.google.com.br/citations?user=ceqK-1QAAAAJ&hl=en" target="_blank">Mauricio de Souza</a> and <a href="https://scholar.google.com.br/citations?user=bnfF3IEAAAAJ&hl=en" target="_blank">Rosane Faria</a>) <br> <em>Revista de Economia & Relações Internacionais</em>, v. 10, p. 124-141, January 2012.
-<div style="line-height:80%;"> <a class="button-1" role="button" href="/files/research/indicadores_facilitacao.pdf" target="_blank" style="text-decoration: none"><i class="fa fa-file-pdf-o"></i> Published Version (in Portuguese)</a> </div>
+<a class="button-1" role="button" href="/files/research/indicadores_facilitacao.pdf" target="_blank" style="text-decoration: none"><i class="fa fa-file-pdf-o"></i> Published Version (in Portuguese)</a> 
 

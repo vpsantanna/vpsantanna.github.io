@@ -34,6 +34,7 @@ permalink: /research/
   text-decoration: none #D1D5DB solid;
   text-decoration-thickness: auto;
   box-shadow: 0 3px 9px 0 rgba(0, 0, 0, 0.1), 0 3px 6px 3px rgba(0, 0, 0, 0.06);
+  margin: 1.5px 2px;
   transition-duration: 0.4s;
   cursor: pointer;
   user-select: none;

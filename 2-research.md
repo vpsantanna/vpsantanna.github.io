@@ -54,6 +54,37 @@ permalink: /research/
 .button-1:focus-visible {
   box-shadow: none;
 }
+   
+ .collapse{
+  display:none
+}
+
+.collapse.in{
+    display:block
+  }
+
+tr.collapse.in{
+  display:table-row
+}
+
+tbody.collapse.in{
+  display:table-row-group
+}
+
+.collapsing{
+  position:relative;
+  height:0;
+  overflow:hidden;
+  -webkit-transition-property:height,visibility;
+  -o-transition-property:height,visibility;
+  transition-property:height,visibility;
+  -webkit-transition-duration:.35s;
+  -o-transition-duration:.35s;
+  transition-duration:.35s;
+  -webkit-transition-timing-function:ease;
+  -o-transition-timing-function:ease;
+  transition-timing-function:ease
+}
  </style>
 
 ## Job Market Paper

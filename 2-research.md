@@ -148,7 +148,7 @@ tbody.collapse.in{
 
 ## Selected Work in Progress
 
-#### <b>The Direct and Indirect Effects of Credit Shocks on Exporter and Importer Firms</b> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank">Gustavo Cortes</a> and <a href="https://ideas.repec.org/f/pva814.html#person" target="_blank">Bernardus Van Doornik</a>)
+<p class="ex1" align="justify"> <b>The Direct and Indirect Effects of Credit Shocks on Exporter and Importer Firms</b> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank">Gustavo Cortes</a> and <a href="https://ideas.repec.org/f/pva814.html#person" target="_blank">Bernardus Van Doornik</a>) </p>
 <button type="button" class="button-1" data-toggle="collapse" data-target="#abs2">Abstract +</button>
   <div id="abs2" class="collapse">
     <div style="padding-left: 30px;">

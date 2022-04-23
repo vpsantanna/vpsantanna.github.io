@@ -18,6 +18,42 @@ permalink: /research/
    top: 0;
    left: 0;
  }
+   
+ .button-1 {
+  background-color: #FFFFFF;
+  border: 0;
+  border-radius: .5rem;
+  box-sizing: border-box;
+  color: #111827;
+  font-family: "Inter var",ui-sans-serif,system-ui,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  font-size: .75rem;
+  font-weight: 600;
+  line-height: 1.25rem;
+  padding: .75rem 1rem;
+  text-align: center;
+  text-decoration: none #D1D5DB solid;
+  text-decoration-thickness: auto;
+  box-shadow: 0 3px 9px 0 rgba(0, 0, 0, 0.1), 0 3px 6px 3px rgba(0, 0, 0, 0.06);
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-1:hover {
+  /* background-color: rgb(87,117,153);*/
+  background-color: rgb(128,128,128);
+  color: white;
+}
+
+.button-1:focus {
+  outline: 2px solid transparent;
+  outline-offset: 2px;
+}
+
+.button-1:focus-visible {
+  box-shadow: none;
+}
  </style>
 
 ## Job Market Paper
@@ -90,4 +126,5 @@ permalink: /research/
 
    <div style="padding-left: 30px;">
    [ <a href="/files/research/indicadores_facilitacao.pdf" target="_blank">Published Version (in Portuguese)</a> ]
+   <button class="button-1" role="button" href="/files/research/indicadores_facilitacao.pdf" target="_blank">Published Version (Portuguese)</button>
    </div>

@@ -146,15 +146,13 @@ tbody.collapse.in{
    </div>
 
 #### <b>The Consequences of the Smoot–Hawley Tariffs on US Manufacturing</b> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank">Gustavo Cortes</a>)
-
 <button type="button" class="button-1" data-toggle="collapse" data-target="#abs1">Abstract</button>
   <div id="abs1" class="collapse">
-    The Smoot–Hawley Tariff Act is considered one of the most comprehensive protectionist trade policies ever implemented in the United  States.  We study the responses of the local economy following the Smoot–Hawley tariffs. We exploit variation in the tariff increases across industries and variation in the industry mix of local employment across US regions to measure changes in local labor demand induced by the tariffs. This project contributes to a better understanding of the consequences of the Smoot–Hawley Tariffs to US manufacturing.
- </div>
-  
-<div style="padding-left: 30px;">
+    <div style="padding-left: 30px;">
    <p style="font-size:14px" align="justify">The Smoot–Hawley Tariff Act is considered one of the most comprehensive protectionist trade policies ever implemented in the United  States.  We study the responses of the local economy following the Smoot–Hawley tariffs. We exploit variation in the tariff increases across industries and variation in the industry mix of local employment across US regions to measure changes in local labor demand induced by the tariffs. This project contributes to a better understanding of the consequences of the Smoot–Hawley Tariffs to US manufacturing.</p>
    </div>
+ </div>
+  
 
 ## Invited Publications
 

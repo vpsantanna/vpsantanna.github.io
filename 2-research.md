@@ -109,7 +109,7 @@ tbody.collapse.in{
    
  </style>
 
-## Job Market Paper
+### Job Market Paper
 
 #### <b>Send Them Back? The Real Estate Consequences of Repatriations</b> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>)
 
@@ -145,8 +145,8 @@ tbody.collapse.in{
        <p style="font-size:13px"  align="justify"><strong>Presentations (<sup>*</sup>by coauthor; <sup>&#8224;</sup>poster; <sup>&#8225;</sup>scheduled):</strong> European Trade Study Group 2021 Conference | Midwest Economics Association 2021 Annual Meeting<sup>*</sup> | Econometric Society's Winter School 2020 at Delhi School of Economics | University of South Florida<sup>*</sup> </p>
    </div>
  </div>
-
-
+ 
+ 
 <p class="ex1" align="justify"> <b>International Trade and Wage Inequality: Evidence from Brazil</b> (with <a href="https://sites.google.com/view/lucassquarizechagas/home" target="_blank">Lucas Chagas</a>) </p>
 <a class="button-1" role="button" href="https://www.dropbox.com/s/befuo4e5wfwdb9w/Chagas_and_Sant_Anna___Draft.pdf?dl=0" target="_blank" style="text-decoration: none">Working Paper <i class="fa fa-file-pdf-o"></i></a> <button role="button" class="button-1" data-toggle="collapse" data-target="#abs3">Abstract +</button>
   <div id="abs3" class="collapse">

@@ -117,7 +117,7 @@ tbody.collapse.in{
 <a class="button-1" role="button" href="/files/research/mexican_repatriation_and_real_estate.pdf" target="_blank" style="text-decoration: none">Working Paper <i class="fa fa-file-pdf-o"></i></a>
 <a class="button-1" role="button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3962277" target="_blank" style="text-decoration: none">SSRN <i class="fa fa-external-link"></i></a>
 <a class="button-1" role="button" href="https://www.thecgo.org/research/send-them-back/" target="_blank" style="text-decoration: none">The CGO Version <i class="fa fa-external-link"></i></a>
-<a class="button-1" role="button" href="https://www.aeaweb.org/conference/videos/2020/vinicios-sant-anna" target="_blank" style="text-decoration: none">AEA 2020 Interview <i class="fa fa-external-link"></i></a>
+<a class="button-1" role="button" href="https://www.aeaweb.org/conference/videos/2020/vinicios-sant-anna" target="_blank" style="text-decoration: none">Coverage: AEA Interview <i class="fa fa-external-link"></i></a>
 <button role="button" class="button-1" data-toggle="collapse" data-target="#abs1">Abstract +</button>
   <div id="abs1" class="collapse">
     <div style="padding-left: 30px;">
@@ -126,11 +126,6 @@ tbody.collapse.in{
         <p style="font-size:13px"  align="justify"><strong>Presentations (<sup>*</sup>by coauthor; <sup>&#8224;</sup>poster; <sup>&#8225;</sup>scheduled):</strong> AREUEA 2021 National Meeting | AREUEA-ASSA 2021<sup>&#8224;</sup> | Canadian Economics Association 2021 Annual Meeting | Economic History Society PhD Thesis Workshop 2021 | AEA-ASSA 2020<sup>&#8224;</sup> | Urban Economics Association 2021 European Meeting | Urban Economics Association 2020 Annual Meeting | 2020 Young Economist Symposium | PhD-Economics Virtual Seminar | The Economics of Migration Junior Seminar | SKEMA Business School<sup>*</sup> | University of Florida<sup>*</sup> | University of South Florida<sup>*</sup> | Sao Paulo School of Economics - FGV<sup>*</sup> | University of Sao Paulo<sup>*</sup> | University of Michigan 2019 H2D2 | Midwest Economics Association 2019 Annual Meeting | AERUS 2019 </p>
   </div>
  </div>
-
-   <div style="padding-left: 30px;">
-   <div class="iframe-container"><iframe src="https://player.vimeo.com/video/384544947" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
-   </div>
-
 
 <p class="ex1" align="justify"> <b>Determinants of Bilateral Trade in Manufacturing and Services: A Unified Approach</b> (with <a href="https://www.satyapdas.com" target="_blank">Satya Das</a>) </p>
 <a class="button-1" role="button" href="/files/research/gravity_manufacturing_and_services.pdf" target="_blank" style="text-decoration: none">Working Paper <i class="fa fa-file-pdf-o"></i></a>

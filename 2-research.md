@@ -111,7 +111,13 @@ tbody.collapse.in{
 
 ### Job Market Paper
 
-#### <b>Send Them Back? The Real Estate Consequences of Repatriations</b> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>)
+<p class="ex1" align="justify"> <b>Send Them Back? The Real Estate Consequences of Repatriations</b> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>) </p>
+<button role="button" class="button-1" data-toggle="collapse" data-target="#abs1">Abstract +</button>
+  <div id="abs1" class="collapse">
+    <div style="padding-left: 30px;">
+   <p style="font-size:13px" align="justify">Housing is a crucial channel through which migration affects the local economy and wealth distribution. However, most of what we know about the effects of migration on housing is from studies focused on the inflows of immigrants. This paper quantifies the impact of out-migration on local housing empirically. We study one of the largest ethnically motivated migration shocks in US history, the United States' Mexican repatriation of the 1930s. Using a novel automated matching technique to link houses across the 1930 and 1940 Censuses, we show that repatriating Mexicans during the Great Depression significantly affected housing in various dimensions. Employing an instrumental variable approach, we show that Mexican-occupied houses experienced a disproportionately large devaluation of their house values and rents in cities more exposed to the repatriation. Critically, the repatriation mattered for aggregate outcomes in US cities: it decreased building permit growth, the median house value growth, and the median rent growth at the city level. Our results suggest that repatriations have a long-lasting impact, leaving a footprint on the local economy.</p>
+  </div>
+ </div>
 
    <div style="padding-left: 30px;">
    <p style="font-size:14px"> [ <a href="/files/research/mexican_repatriation_and_real_estate.pdf" target="_blank">Working Paper (Latest Version)</a> ]  [ <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3962277" target="_blank">SSRN Version</a> ]  [ <a href="https://www.thecgo.org/research/send-them-back/" target="_blank">The CGO Version</a> ] </p>

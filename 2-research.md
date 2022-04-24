@@ -112,8 +112,8 @@ tbody.collapse.in{
 ### Job Market Paper
 
 <p class="ex1" align="justify"> <b>Send Them Back? The Real Estate Consequences of Repatriations</b> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>) </p>
-<a class="button-1" role="button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3962277" target="_blank" style="text-decoration: none">SSRN <i class="fa fa-external-link"></i></a>
 <a class="button-1" role="button" href="/files/research/mexican_repatriation_and_real_estate.pdf" target="_blank" style="text-decoration: none">Working Paper <i class="fa fa-file-pdf-o"></i></a>
+<a class="button-1" role="button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3962277" target="_blank" style="text-decoration: none">SSRN <i class="fa fa-external-link"></i></a>
 <a class="button-1" role="button" href="https://www.thecgo.org/research/send-them-back/" target="_blank" style="text-decoration: none">The CGO Version <i class="fa fa-external-link"></i></a>
 <button role="button" class="button-1" data-toggle="collapse" data-target="#abs1">Abstract +</button>
   <div id="abs1" class="collapse">
@@ -125,8 +125,7 @@ tbody.collapse.in{
  </div>
 
    <div style="padding-left: 30px;">
-   <p style="font-size:14px"> [ <a href="/files/research/mexican_repatriation_and_real_estate.pdf" target="_blank">Working Paper (Latest Version)</a> ]  [ <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3962277" target="_blank">SSRN Version</a> ]  [ <a href="https://www.thecgo.org/research/send-them-back/" target="_blank">The CGO Version</a> ] </p>
-    <div class="iframe-container"><iframe src="https://player.vimeo.com/video/384544947" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+   <div class="iframe-container"><iframe src="https://player.vimeo.com/video/384544947" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
    </div>
 <br>
 
@@ -147,7 +146,8 @@ tbody.collapse.in{
 ### Working Papers
 
 <p class="ex1" align="justify"> <b>Determinants of Bilateral Trade in Manufacturing and Services: A Unified Approach</b> (with <a href="https://www.satyapdas.com" target="_blank">Satya Das</a>) </p>
-<a class="button-1" role="button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3966395" target="_blank" style="text-decoration: none">SSRN <i class="fa fa-external-link"></i></a> <a class="button-1" role="button" href="/files/research/gravity_manufacturing_and_services.pdf" target="_blank" style="text-decoration: none">Working Paper <i class="fa fa-file-pdf-o"></i></a> <button role="button" class="button-1" data-toggle="collapse" data-target="#abs4">Abstract +</button>
+<a class="button-1" role="button" href="/files/research/gravity_manufacturing_and_services.pdf" target="_blank" style="text-decoration: none">Working Paper <i class="fa fa-file-pdf-o"></i></a>
+<a class="button-1" role="button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3966395" target="_blank" style="text-decoration: none">SSRN <i class="fa fa-external-link"></i></a>  <button role="button" class="button-1" data-toggle="collapse" data-target="#abs4">Abstract +</button>
   <div id="abs4" class="collapse">
     <div style="padding-left: 30px;">
    <p style="font-size:13px" align="justify">Gravity models have been extensively used as workhorse models to study the determinants of international trade. While most of the literature has focused on trade in manufacturing, a recent literature has emerged that uses gravity models to study international trade in services. Despite showing that gravity equations are well suited to studying trade in services, there is little research on the systematic differences and specificities when using gravity models for each type of trade. This paper addresses this by studying the determinants of aggregate bilateral trade in services <em>vis-à-vis</em> manufacturing. The main objective is to understand the systematic differences between services and manufacturing trade that are borne out empirically. In doing so, we derive a joint theory that brings out "systematic" differences in response to scale and trade cost variables between trade in manufacturing and services.  We build a unified theoretical framework that incorporates a <em>demand bias</em> towards services and a difference in national <em>product differentiation</em> between the two sectors. The <em>demand bias</em> yields larger income elasticities for trade in services compared to trade in manufacturing, and differences in national <em>product differentiation</em> produce a higher elasticity of bilateral trade in manufactures for the exporting country's size than in services. We show that the model predictions find support on traditional gravity equation estimates using various specifications and estimation approaches. We also investigate the role of virtual proximity and internet infrastructure in international trade in manufactures and services. We find that virtual proximity is a strong predictor of aggregate trade in services and manufacturing.</p>

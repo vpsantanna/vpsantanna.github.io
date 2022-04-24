@@ -41,7 +41,7 @@ permalink: /research/
   font-family: "Inter var",ui-sans-serif,system-ui,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
   font-size: .75rem;
   font-weight: 600;
-  line-height: 1.75rem;
+  line-height: 1rem;
   padding: .5rem .75rem;
   text-align: center;
   text-decoration: none #D1D5DB solid;
@@ -159,20 +159,8 @@ tbody.collapse.in{
 ## Selected Work in Progress
 
 <p class="ex1" align="justify"> <b>The Direct and Indirect Effects of Credit Shocks on Exporter and Importer Firms</b> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank">Gustavo Cortes</a> and <a href="https://ideas.repec.org/f/pva814.html#person" target="_blank">Bernardus Van Doornik</a>) </p>
-<button type="button" class="button-1" data-toggle="collapse" data-target="#abs2">Abstract +</button>
-  <div id="abs2" class="collapse">
-    <div style="padding-left: 30px;">
-   <p style="font-size:13px" align="justify">The ability of firms to engage in international trade depends crucially on their access to credit.  A growing body of research seeks to study the role of credit availability to international trade activity. However, the limited availability of firm-level data and the difficulty in separating credit supply shocks from other economic factors pose a significant challenge for these studies. Our paper contributes to this literature by using a combination of highly granular and unique Brazilian databases hosted by the Central Bank of Brazil to investigate and quantify the effects of a sudden change in credit availability on international trade activity, including potential spillovers to the rest of the domestic economy. This research contributes to understanding the implications of credit expansion policies in supporting exporters and importers during financial crises.</p>
-   </div>
- </div>
 
 <p class="ex1" align="justify"> <b>The Consequences of the Smoot–Hawley Tariffs on US Manufacturing</b> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank">Gustavo Cortes</a>) </p>
-<button type="button" class="button-1" data-toggle="collapse" data-target="#abs1">Abstract +</button>
-  <div id="abs1" class="collapse">
-    <div style="padding-left: 30px;">
-   <p style="font-size:13px" align="justify">The Smoot–Hawley Tariff Act is considered one of the most comprehensive protectionist trade policies ever implemented in the United  States.  We study the responses of the local economy following the Smoot–Hawley tariffs. We exploit variation in the tariff increases across industries and variation in the industry mix of local employment across US regions to measure changes in local labor demand induced by the tariffs. This project contributes to a better understanding of the consequences of the Smoot–Hawley Tariffs to US manufacturing.</p>
-   </div>
- </div>
   
 
 ## Invited Publications

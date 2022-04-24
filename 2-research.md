@@ -112,6 +112,7 @@ tbody.collapse.in{
 ### Job Market Paper
 
 <p class="ex1" align="justify"> <b>Send Them Back? The Real Estate Consequences of Repatriations</b> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>) </p>
+<a class="button-1" role="button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3962277" target="_blank" style="text-decoration: none">SSRN <i class="fa fa-external-link"></i></a>
 <button role="button" class="button-1" data-toggle="collapse" data-target="#abs1">Abstract +</button>
   <div id="abs1" class="collapse">
     <div style="padding-left: 30px;">

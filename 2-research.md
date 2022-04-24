@@ -134,7 +134,7 @@ tbody.collapse.in{
 
 <br>
 
-## Working Papers
+### Working Papers
 
 <p class="ex1" align="justify"> <b>Determinants of Bilateral Trade in Manufacturing and Services: A Unified Approach</b> (with <a href="https://www.satyapdas.com" target="_blank">Satya Das</a>) </p>
 <a class="button-1" role="button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3966395" target="_blank" style="text-decoration: none">SSRN <i class="fa fa-external-link"></i></a> <a class="button-1" role="button" href="/files/research/gravity_manufacturing_and_services.pdf" target="_blank" style="text-decoration: none">Working Paper <i class="fa fa-file-pdf-o"></i></a> <button role="button" class="button-1" data-toggle="collapse" data-target="#abs4">Abstract +</button>
@@ -147,9 +147,6 @@ tbody.collapse.in{
  </div>
 
 
-
-<br>
-
 <p class="ex1" align="justify"> <b>International Trade and Wage Inequality: Evidence from Brazil</b> (with <a href="https://sites.google.com/view/lucassquarizechagas/home" target="_blank">Lucas Chagas</a>) </p>
 <a class="button-1" role="button" href="https://www.dropbox.com/s/befuo4e5wfwdb9w/Chagas_and_Sant_Anna___Draft.pdf?dl=0" target="_blank" style="text-decoration: none">Working Paper <i class="fa fa-file-pdf-o"></i></a> <button role="button" class="button-1" data-toggle="collapse" data-target="#abs3">Abstract +</button>
   <div id="abs3" class="collapse">
@@ -160,7 +157,7 @@ tbody.collapse.in{
 
 <br>
 
-## Selected Work in Progress
+### Selected Work in Progress
 
 <p class="ex1" align="justify"> <b>The Direct and Indirect Effects of Credit Shocks on Exporter and Importer Firms</b> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank">Gustavo Cortes</a> and <a href="https://ideas.repec.org/f/pva814.html#person" target="_blank">Bernardus Van Doornik</a>) </p>
 

@@ -41,7 +41,7 @@ permalink: /research/
   font-family: "Inter var",ui-sans-serif,system-ui,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
   font-size: .75rem;
   font-weight: 600;
-  line-height: 1.25rem;
+  line-height: 1.75rem;
   padding: .5rem .75rem;
   text-align: center;
   text-decoration: none #D1D5DB solid;

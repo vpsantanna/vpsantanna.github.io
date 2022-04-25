@@ -24,14 +24,13 @@ permalink: /teaching/
   <p style="font-size:14px">[ <a href="/files/Econ_490_International_Trade___Syllabus.pdf" target="_blank">Course Syllabus (Spring 2020)</a> ]</p>
    </div>
  
-#### <b>Econ 203 - Economic Statistics II</b> (Teaching Assistant): <font style="font-size:14px"> Spring 2017,<a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2017-spring.pdf#page=19" target="_blank"><sup>*</sup></a> Fall 2017,<a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2017-fall.pdf#page=21" target="_blank"><sup>*</sup></a> Spring 2018,<a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2018-spring.pdf#page=18" target="_blank"><sup>**</sup></a></font>
+<p class="ex1" align="justify"> <b>Econ 203 - Economic Statistics II</b> (Teaching Assistant): <font style="font-size:14px"> Spring 2017,<a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2017-spring.pdf#page=19" target="_blank"><sup>*</sup></a> Fall 2017,<a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2017-fall.pdf#page=21" target="_blank"><sup>*</sup></a> Spring 2018,<a href="https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2018-spring.pdf#page=18" target="_blank"><sup>**</sup></a></font> </p>
 
-   
 
-#### <b>Econ 302 - Intermediate Microeconomics</b> (Teaching Assistant): <font style="font-size:14px">Fall 2016</font>
+<p class="ex1" align="justify"> <b>Econ 302 - Intermediate Microeconomics</b> (Teaching Assistant): <font style="font-size:14px">Fall 2016</font> </p>
 
   <br>
 
 ### University of Sao Paulo, Brazil
-#### <b>Econometrics III</b> - (Teaching Assistant): <font style="font-size:14px">Spring 2014</font>
-#### <b>International Economics</b> (Teaching Assistant): <font style="font-size:14px">Fall 2013</font>
+<p class="ex1" align="justify"> <b>Econometrics III</b> - (Teaching Assistant): <font style="font-size:14px">Spring 2014</font> </p>
+<p class="ex1" align="justify"> <b>International Economics</b> (Teaching Assistant): <font style="font-size:14px">Fall 2013</font> </p>

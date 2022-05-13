@@ -37,7 +37,7 @@ permalink: /research/
   border: 0;
   border-radius: .5rem;
   box-sizing: border-box;
-  color: #111827;
+  color: #1f4071;
   font-family: "Inter var",ui-sans-serif,system-ui,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
   font-size: .75rem;
   font-weight: 600;
@@ -57,7 +57,7 @@ permalink: /research/
 
 .button-1:hover {
   /* background-color: rgb(87,117,153);*/
-  background-color: rgb(128,128,128);
+  background-color: rgb(31, 64, 113);
   color: white;
 }
 

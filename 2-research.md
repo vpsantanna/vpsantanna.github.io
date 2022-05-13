@@ -112,7 +112,6 @@ tbody.collapse.in{
   color: rgb(31, 64, 113);
   text-align: center;
   text-decoration: none;
-  display: inline-block;
 }
    
  </style>

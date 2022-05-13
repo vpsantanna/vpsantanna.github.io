@@ -107,6 +107,14 @@ tbody.collapse.in{
   font-size:14px;
 }
    
+ a:link, a:visited {
+  background-color: white;
+  color: rgb(31, 64, 113);
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+   
  </style>
 
 

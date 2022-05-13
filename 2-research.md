@@ -42,7 +42,7 @@ permalink: /research/
   font-size: .75rem;
   font-weight: 600;
   line-height: 1rem;
-  padding: .5rem .75rem;
+  padding: .2rem .75rem;
   text-align: center;
   text-decoration: none #D1D5DB solid;
   text-decoration-thickness: auto;

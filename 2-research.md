@@ -127,8 +127,8 @@ tbody.collapse.in{
   </div>
  </div>
 
-<p class="ex1" align="justify"> <b>Determinants of Bilateral Trade in Manufacturing and Services: A Unified Approach</b> (with <a href="https://www.satyapdas.com" target="_blank">Satya Das</a>) </p>
-<a class="button-1" role="button" href="/files/research/gravity_manufacturing_and_services.pdf" target="_blank" style="text-decoration: none">Working Paper <i class="fa fa-file-pdf-o"></i></a>
+<p class="ex1" align="justify"> <b>Determinants of Bilateral Trade in Manufacturing and Services: A Unified Approach</b> (with <a href="https://www.satyapdas.com" target="_blank">Satya Das</a>) <br>
+<a class="button-1" role="button" href="/files/research/gravity_manufacturing_and_services.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa fa-file-pdf-o"></i></a>
 <a class="button-1" role="button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3966395" target="_blank" style="text-decoration: none">SSRN <i class="fa fa-external-link"></i></a>  <button role="button" class="button-1" data-toggle="collapse" data-target="#abs4">Abstract +</button>
   <div id="abs4" class="collapse">
     <div style="padding-left: 30px;">
@@ -136,16 +136,16 @@ tbody.collapse.in{
        
        <p style="font-size:13px"  align="justify"><strong>Presentations (<sup>*</sup>by coauthor; <sup>&#8224;</sup>poster; <sup>&#8225;</sup>scheduled):</strong> European Trade Study Group 2021 Conference | Midwest Economics Association 2021 Annual Meeting<sup>*</sup> | Econometric Society's Winter School 2020 at Delhi School of Economics | University of South Florida<sup>*</sup> </p>
    </div>
- </div>
+ </div></p>
  
  
-<p class="ex1" align="justify"> <b>International Trade and Wage Inequality: Evidence from Brazil</b> (with <a href="https://sites.google.com/view/lucassquarizechagas/home" target="_blank">Lucas Chagas</a>) </p>
-<a class="button-1" role="button" href="https://www.dropbox.com/s/befuo4e5wfwdb9w/Chagas_and_Sant_Anna___Draft.pdf?dl=0" target="_blank" style="text-decoration: none">Working Paper <i class="fa fa-file-pdf-o"></i></a> <button role="button" class="button-1" data-toggle="collapse" data-target="#abs3">Abstract +</button>
+<p class="ex1" align="justify"> <b>International Trade and Wage Inequality: Evidence from Brazil</b> (with <a href="https://sites.google.com/view/lucassquarizechagas/home" target="_blank">Lucas Chagas</a>) <br>
+<a class="button-1" role="button" href="https://www.dropbox.com/s/befuo4e5wfwdb9w/Chagas_and_Sant_Anna___Draft.pdf?dl=0" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa fa-file-pdf-o"></i></a> <button role="button" class="button-1" data-toggle="collapse" data-target="#abs3">Abstract +</button>
   <div id="abs3" class="collapse">
     <div style="padding-left: 30px;">
    <p style="font-size:13px" align="justify">In this paper, we study the consequences of international trade integration on wage inequality. More specifically, we examine the direct and indirect impact of the ''two-sided'' China shock on Brazilian wage inequality. Using a detailed employer-employee database, we find empirical evidence suggesting that export and import exposure creates winners and losers, both between and within sectors. To understand the mechanisms behind this result, we extend the model proposed by Helpman et al. (2017) including firm and sector heterogeneity. Our model provides a reasonable approximation of first and second-order statistics observed in the economy. We then propose two counterfactual scenarios, in which we shut down one "side" of the shock. We show that in the absence of the export shock, wage inequality would be 5 percent higher. The primary mechanism behind this result is the fall in barriers to operating in the external market. The absence of import penetration implies a lower impact on wage variance, but only through re-composition of workers towards the Low-Tech Manufacturing sector, suggesting that import competition's primary effect is to shut down less productive firms. Our findings suggest that international trade integration with China has been an essential contributor to the decrease of wage inequality in Brazil and that this seems to be stemming mainly from the export expansion.</p>
    </div>
- </div>
+ </div></p>
 
 <br>
 

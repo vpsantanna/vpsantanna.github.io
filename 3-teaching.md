@@ -104,7 +104,7 @@ tbody.collapse.in{
 
 ### University of Illinois at Urbana-Champaign
 
-<p class="ex1" align="justify"> <b>Econ 490 - International Trade</b> (Instructor, sole course responsability): Fall 2018 &mdash; Spring 2020<br> <a class="button-1" role="button" href="/files/Econ_490_International_Trade___Syllabus.pdf" target="_blank" style="line-height:35px; text-decoration: none">Course Syllabus (Spring 2020) <i class="fa fa-file-pdf-o"></i></a> <button role="button" class="button-1" data-toggle="collapse" data-target="#abs5">Course Description +</button>
+<p class="ex1" align="justify"> <b>Econ 490 - International Trade</b> (Instructor): Fall 2018 &mdash; Spring 2020<br> <a class="button-1" role="button" href="/files/Econ_490_International_Trade___Syllabus.pdf" target="_blank" style="line-height:35px; text-decoration: none">Course Syllabus (Spring 2020) <i class="fa fa-file-pdf-o"></i></a> <button role="button" class="button-1" data-toggle="collapse" data-target="#abs5">Course Description +</button>
   <div id="abs5" class="collapse">
     <div style="padding-left: 30px;">
    <p style="font-size:13px" align="justify">This course is about the causes and consequences of the international trade of goods, services, and production inputs. Throughout the course, we will cover the main topics related to international trade that are at the center of public debate.  This course is designed to teach students how to use critical thinking on international trade issues within formal economic frameworks. Students will learn to apply microeconomic theory to international trade issues discussed by policymakers and media outlets: What are the benefits and costs of international trade?  What are the effects of trade policies, such as tariffs and quotas? Should developing countries protect their domestic markets? What is the role of international institutions such as the World Trade Organization? What kind of products countries trade? What determines internationl trade patterns?</p>
@@ -117,6 +117,6 @@ tbody.collapse.in{
 
   <br>
 
-### University of Sao Paulo, Brazil
+#### University of Sao Paulo, Brazil
 <p class="ex1" align="justify"> <b>Econometrics III - Time Series</b> - (Teaching Assistant): <font style="font-size:14px">Spring 2014</font> </p>
 <p class="ex1" align="justify"> <b>International Economics</b> (Teaching Assistant): <font style="font-size:14px">Fall 2013</font> </p>

@@ -102,7 +102,7 @@ tbody.collapse.in{
 </style>
 
 
-### University of Illinois at Urbana-Champaign
+#### University of Illinois at Urbana-Champaign
 
 <p class="ex1" align="justify"> <b>Econ 490 - International Trade</b> (Instructor): Fall 2018 &mdash; Spring 2020<br> <a class="button-1" role="button" href="/files/Econ_490_International_Trade___Syllabus.pdf" target="_blank" style="line-height:35px; text-decoration: none">Course Syllabus (Spring 2020) <i class="fa fa-file-pdf-o"></i></a> <button role="button" class="button-1" data-toggle="collapse" data-target="#abs5">Course Description +</button>
   <div id="abs5" class="collapse">
@@ -114,8 +114,6 @@ tbody.collapse.in{
 <p class="ex1" align="justify"> <b>Econ 203 - Economic Statistics II</b> (Teaching Assistant): <font style="font-size:14px">Spring 2017 &mdash; Spring 2018</font> </p>
 
 <p class="ex1" align="justify"> <b>Econ 302 - Intermediate Microeconomics</b> (Teaching Assistant): <font style="font-size:14px">Fall 2016</font> </p>
-
-  <br>
 
 #### University of Sao Paulo, Brazil
 <p class="ex1" align="justify"> <b>Econometrics III - Time Series</b> - (Teaching Assistant): <font style="font-size:14px">Spring 2014</font> </p>

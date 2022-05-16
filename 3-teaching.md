@@ -124,7 +124,7 @@ tbody.collapse.in{
 <br>
 
 ### Teaching Awards
-<p class="ex1" align="justify"> Teachers Ranked as Excellent by their Students: <font style="font-size:14px">Spring 2017 &mdash; Spring 2020</font> </p>
-<p class="ex1" align="justify"> Rated as <em>“Outstanding”</em> (University-wide Top 10% rating): <font style="font-size:14px">Spring 2018, Spring 2019, Spring 2020</font> </p>
+<p class="ex1" align="justify"> Teachers Ranked as <em>Excellent</em> by their Students: <font style="font-size:14px">Spring 2017 &mdash; Spring 2020</font> </p>
+<p class="ex1" align="justify"> Rated as <em>Outstanding</em> (University-wide Top 10% rating): <font style="font-size:14px">Spring 2018, Spring 2019, Spring 2020</font> </p>
 <p class="ex1" align="justify"> Graduate Teacher Certificate: <font style="font-size:14px">2017</font> </p>
 

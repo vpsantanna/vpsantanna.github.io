@@ -19,7 +19,7 @@ layout: home
 
 <p style="font-size:15.7px"  align="justify" class="ex1"><br>Welcome!<br/></p>
 
-<p style="font-size:16px"  align="justify" class="ex1">
+<p style="font-size:15.7px"  align="justify" class="ex1">
 I am a Ph.D. Candidate in the <a target="_blank" rel="noopener noreferrer" href="http://www.economics.illinois.edu">Department of Economics</a> at the <a target="_blank" rel="noopener noreferrer" href="https://illinois.edu/">University of Illinois at Urbana-Champaign</a>. My <a class="page-link" href="/research/">research</a> focuses on Urban Economics, Real Estate, and International Trade.</p> <br/>
 
 <p style="font-size:15px"  align="justify" class="ex1">

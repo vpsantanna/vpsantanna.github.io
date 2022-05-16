@@ -6,6 +6,13 @@ layout: home
    p.ex1 {
      max-width: 510px;
     }
+ 
+ a:link, a:visited {
+  background-color: white;
+  color: rgb(31, 64, 113);
+  text-align: center;
+  text-decoration: none;
+}
  </style>
 
    <img src="./files/profile_c.png" alt="profile" style="width: 360px;" align="right" />

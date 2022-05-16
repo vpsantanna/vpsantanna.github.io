@@ -101,6 +101,7 @@ tbody.collapse.in{
 }
 </style>
 
+### Teaching Experience
 
 #### University of Illinois at Urbana-Champaign
 

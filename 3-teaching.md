@@ -5,11 +5,100 @@ permalink: /teaching/
 ---
 
 <style>
-   p.ex1 {
-     padding-top: 0em;
-     padding-bottom: 0em;
-     font-size:14px;
-   }
+   .button {
+     border: none;
+     color: white;
+     padding: 8px 32px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+     font-size: 16px;
+     margin: 0px 0px;
+     transition-duration: 0.4s;
+     cursor: pointer;
+}
+   
+ .button-1 {
+  background-color: #FFFFFF;
+  border: 0;
+  border-radius: .5rem;
+  box-sizing: border-box;
+  color: #1f4071;
+  font-family: "Inter var",ui-sans-serif,system-ui,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  font-size: .75rem;
+  font-weight: 600;
+  line-height: 1rem;
+  padding: .2rem .75rem;
+  text-align: center;
+  text-decoration: none #D1D5DB solid;
+  text-decoration-thickness: auto;
+  box-shadow: 0 3px 9px 0 rgba(0, 0, 0, 0.1), 0 3px 6px 3px rgba(0, 0, 0, 0.06);
+  transition-duration: 0.4s;
+  margin: 0px 0px;
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-1:hover {
+  /* background-color: rgb(87,117,153);*/
+  background-color: rgb(31, 64, 113);
+  color: white;
+}
+
+.button-1:focus {
+  outline: 2px solid transparent;
+  outline-offset: 2px;
+}
+
+.button-1:focus-visible {
+  box-shadow: none;
+}
+   
+ .collapse{
+  display:none
+}
+
+.collapse.in{
+    display:block
+  }
+
+tr.collapse.in{
+  display:table-row
+}
+
+tbody.collapse.in{
+  display:table-row-group
+}
+
+.collapsing{
+  position:relative;
+  height:0;
+  overflow:hidden;
+  -webkit-transition-property:height,visibility;
+  -o-transition-property:height,visibility;
+  transition-property:height,visibility;
+  -webkit-transition-duration:.35s;
+  -o-transition-duration:.35s;
+  transition-duration:.35s;
+  -webkit-transition-timing-function:ease;
+  -o-transition-timing-function:ease;
+  transition-timing-function:ease
+}
+   
+ p.ex1 {
+  padding-top: 0em;
+  padding-bottom: 0em;
+  font-size:14px;
+}
+   
+ a:link, a:visited {
+  background-color: white;
+  color: rgb(31, 64, 113);
+  text-align: center;
+  text-decoration: none;
+}
 </style>
 
 

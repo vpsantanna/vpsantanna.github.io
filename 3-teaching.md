@@ -115,6 +115,8 @@ tbody.collapse.in{
 
 <p class="ex1" align="justify"> <b>Econ 302 - Intermediate Microeconomics</b> (Teaching Assistant): <font style="font-size:14px">Fall 2016</font> </p>
 
+<br>
+
 #### University of Sao Paulo, Brazil
 <p class="ex1" align="justify"> <b>Econometrics III - Time Series</b> - (Teaching Assistant): <font style="font-size:14px">Spring 2014</font> </p>
 <p class="ex1" align="justify"> <b>International Economics</b> (Teaching Assistant): <font style="font-size:14px">Fall 2013</font> </p>

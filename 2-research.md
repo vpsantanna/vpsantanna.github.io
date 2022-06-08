@@ -171,15 +171,6 @@ tbody.collapse.in{
 
 <br>
 
-
-### Selected Work in Progress
-
-<p class="ex1" align="justify"> <b>The Direct and Indirect Effects of Credit Shocks on Exporter and Importer Firms</b> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank">Gustavo Cortes</a> and <a href="https://ideas.repec.org/f/pva814.html#person" target="_blank">Bernardus Van Doornik</a>) </p>
-
-<p class="ex1" align="justify"> <b>The Consequences of the Smoot–Hawley Tariffs on US Manufacturing</b> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank">Gustavo Cortes</a>) </p>
-
-<br>
-  
 ### Invited Publications
 
 <p class="ex1" align="justify"> 

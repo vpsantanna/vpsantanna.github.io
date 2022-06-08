@@ -5,10 +5,7 @@ permalink: /research/
 ---
 
 <style>
-   
-   html * {
-        font-family: Cambria,Georgia,serif; 
-      }
+ 
    
    .iframe-container {
   padding-top: 56.25%;

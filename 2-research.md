@@ -6,6 +6,9 @@ permalink: /research/
 
 <style>
  
+ html * {
+        font-family: Cambria,Georgia,serif; 
+      }
    
    .iframe-container {
   padding-top: 56.25%;
@@ -40,7 +43,7 @@ permalink: /research/
   border-radius: .5rem;
   box-sizing: border-box;
   color: #1f4071;
-  font-family: "Inter var",ui-sans-serif,system-ui,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  font-family: Cambria,Georgia,serif; 
   font-size: .75rem;
   font-weight: 600;
   line-height: 1rem;

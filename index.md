@@ -7,6 +7,10 @@ layout: home
      max-width: 530px;
     }
  
+ html * {
+        font-family: Cambria,Georgia,serif; 
+      }
+ 
  a:link, a:visited {
   background-color: white;
   color: rgb(31, 64, 113);

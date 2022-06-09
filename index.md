@@ -4,7 +4,7 @@ layout: home
 
  <style>
    p.ex1 {
-     max-width: 500px;
+     max-width: 520px;
     }
  
  html * {

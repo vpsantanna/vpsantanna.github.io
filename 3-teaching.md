@@ -5,6 +5,10 @@ permalink: /teaching/
 ---
 
 <style>
+   html * {
+        font-family: Cambria,Georgia,serif; 
+      }
+   
    .button {
      border: none;
      color: white;

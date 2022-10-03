@@ -17,6 +17,10 @@ layout: home
   text-align: center;
   text-decoration: none;
 }
+ 
+ a:hover {
+   text-decoration:underline;
+}
  </style>
 
    <img src="./files/profile_c.png" alt="profile" style="width: 360px;" align="right" />

@@ -103,6 +103,11 @@ tbody.collapse.in{
   text-align: center;
   text-decoration: none;
 }
+   
+a:hover {
+   text-decoration:underline;
+}
+   
 </style>
 
 ### Teaching Experience

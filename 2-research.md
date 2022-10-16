@@ -132,7 +132,7 @@ tbody.collapse.in{
 <p class="ex1" align="justify"> <b>Send Them Back? The Real Estate Consequences of Repatriations</b> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>) <br>
 <a class="button-1" role="button" href="/files/research/mexican_repatriation_and_real_estate.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa fa-file-pdf-o"></i></a>
 <a class="button-1" role="button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3962277" target="_blank" style="text-decoration: none">SSRN <i class="fa fa-external-link"></i></a>
-<a class="button-1" role="button" href="https://www.thecgo.org/research/send-them-back/" target="_blank" style="text-decoration: none">The CGO Version <i class="fa fa-external-link"></i></a>
+<a class="button-1" role="button" href="https://www.thecgo.org/research/send-them-back/" target="_blank" style="text-decoration: none">CGO WP<i class="fa fa-external-link"></i></a>
 <a class="button-1" role="button" href="https://www.aeaweb.org/conference/videos/2020/vinicios-sant-anna" target="_blank" style="text-decoration: none">Coverage: AEA Interview <i class="fa fa-external-link"></i></a>
 <button role="button" class="button-1" data-toggle="collapse" data-target="#abs1">Abstract +</button>
   <div id="abs1" class="collapse">

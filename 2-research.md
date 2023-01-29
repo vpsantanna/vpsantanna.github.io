@@ -62,7 +62,7 @@ permalink: /research/
 
 .button-1:hover {
   /* background-color: rgb(31, 64, 113);*/
-  background-color: rgb(90, 31, 29);
+  background-color: rgb(134, 21, 44);
   color: white;
 }
 
@@ -114,7 +114,7 @@ tbody.collapse.in{
    
  a:link, a:visited {
   background-color: white;
-  color: rgb(90, 31, 29);
+  color: rgb(134, 21, 44);
   text-align: center;
   text-decoration: none;
 }

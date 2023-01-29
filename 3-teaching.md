@@ -27,7 +27,7 @@ permalink: /teaching/
   border: 0;
   border-radius: .5rem;
   box-sizing: border-box;
-  color: #1f4071;
+  color: #86152c;
   font-family: Cambria,Georgia,serif;
   font-size: .75rem;
   font-weight: 600;
@@ -47,7 +47,7 @@ permalink: /teaching/
 
 .button-1:hover {
   /* background-color: rgb(87,117,153);*/
-  background-color: rgb(31, 64, 113);
+  background-color: rgb(134, 21, 44);
   color: white;
 }
 
@@ -99,7 +99,7 @@ tbody.collapse.in{
    
  a:link, a:visited {
   background-color: white;
-  color: rgb(31, 64, 113);
+  color: rgb(134, 21, 44);
   text-align: center;
   text-decoration: none;
 }

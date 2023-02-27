@@ -142,20 +142,20 @@ tbody.collapse.in{
   </div>
  </div></p>
 
-<p class="ex1" align="justify"> <b>Determinants of Bilateral Trade in Manufacturing and Services: A Unified Approach</b>   <br> <em> Accepted in Economic Modelling</em>  (with <a href="https://www.satyapdas.com" target="_blank">Satya Das</a>)<br>
-<a class="button-1" role="button" href="/files/research/gravity_manufacturing_and_services.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa fa-file-pdf-o"></i></a>
-<a class="button-1" role="button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3966395" target="_blank" style="text-decoration: none">SSRN <i class="fa fa-external-link"></i></a>  <button role="button" class="button-1" data-toggle="collapse" data-target="#abs4">Abstract +</button>
-  <div id="abs4" class="collapse">
-    <div style="padding-left: 30px;">
-   <p style="font-size:13px" align="justify">This paper studies how and why the bilateral trades in manufacturing and services differ in their response to  changes in the determinants, both theoretically and empirically. We build a unified theoretical framework that incorporates a demand bias towards services and a difference in the degree of national product differentiation between the two product groups. Estimation results support the theoretical predictions. The empirical model includes, among others, two non-standard trade-cost variables: a measure of internet penetration and virtual proximity (the number of bilateral hyperlinks). An important finding is that virtual proximity&mdash;thus far ignored in most gravity models&mdash;is a strong predictor of aggregate trade in both services and manufacturing. Also, physical distance is an important determinant of bilateral trade in manufacturing and services, even while controlling for virtual proximity.</p>
-   </div>
- </div></p>
- 
 <p class="ex1" align="justify"> <b>International Trade and Wage Inequality: Evidence from Brazil</b> (with <a href="https://sites.google.com/view/lucassquarizechagas/home" target="_blank">Lucas Chagas</a>) <br>
 <a class="button-1" role="button" href="/files/research/trade_and_wage_inequality.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa fa-file-pdf-o"></i></a> <a class="button-1" role="button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4363354" target="_blank" style="text-decoration: none">SSRN <i class="fa fa-external-link"></i></a>  <button role="button" class="button-1" data-toggle="collapse" data-target="#abs3">Abstract +</button>
   <div id="abs3" class="collapse">
     <div style="padding-left: 30px;">
    <p style="font-size:13px" align="justify">We study the effect of the bilateral trade integration with China on wage inequality in Brazil. Previous studies have documented the contribution of trade opening to the decline in inequality since the 1990s, driven primarily by cross-firm pay differences. We find a sharper reduction in wage inequality over the 2000s, parallel to China’s accession to the WTO. Our reduced-form analysis of the China shock suggests that some firms are harmed by import competition, while others profit from increased exports and cheaper inputs. We rationalize these patterns by extending the theoretical framework of Helpman et al. (2017) to include sector heterogeneity in trade exposure and firm-level selection into imports. Our calibrated model indicates that the rise of China led to a reduction in cross-firm wage inequality in Brazil since the cross-sectoral effect&mdash;which tends to benefit low-wage sectors and hurt high-wage sectors&mdash;dominates the within-sector increase in inequality due to a rise in importers and exporters.</p>
+   </div>
+ </div></p>
+ 
+ <p class="ex1" align="justify"> <b>Determinants of Bilateral Trade in Manufacturing and Services: A Unified Approach</b>   <br> <em> Accepted in Economic Modelling</em>  (with <a href="https://www.satyapdas.com" target="_blank">Satya Das</a>)<br>
+<a class="button-1" role="button" href="/files/research/gravity_manufacturing_and_services.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa fa-file-pdf-o"></i></a>
+<a class="button-1" role="button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3966395" target="_blank" style="text-decoration: none">SSRN <i class="fa fa-external-link"></i></a>  <button role="button" class="button-1" data-toggle="collapse" data-target="#abs4">Abstract +</button>
+  <div id="abs4" class="collapse">
+    <div style="padding-left: 30px;">
+   <p style="font-size:13px" align="justify">This paper studies how and why the bilateral trades in manufacturing and services differ in their response to  changes in the determinants, both theoretically and empirically. We build a unified theoretical framework that incorporates a demand bias towards services and a difference in the degree of national product differentiation between the two product groups. Estimation results support the theoretical predictions. The empirical model includes, among others, two non-standard trade-cost variables: a measure of internet penetration and virtual proximity (the number of bilateral hyperlinks). An important finding is that virtual proximity&mdash;thus far ignored in most gravity models&mdash;is a strong predictor of aggregate trade in both services and manufacturing. Also, physical distance is an important determinant of bilateral trade in manufacturing and services, even while controlling for virtual proximity.</p>
    </div>
  </div></p>
 

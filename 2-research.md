@@ -150,7 +150,12 @@ tbody.collapse.in{
    </div>
  </div></p>
  
- <p class="ex1" align="justify"> <b>Determinants of Bilateral Trade in Manufacturing and Services: A Unified Approach</b>   <br> <em> Accepted in Economic Modelling</em>  (with <a href="https://www.satyapdas.com" target="_blank">Satya Das</a>)<br>
+<br>
+
+
+### Refereed Publications
+
+<p class="ex1" align="justify"> <b>Determinants of Bilateral Trade in Manufacturing and Services: A Unified Approach</b>   <br> <em>Economic Modelling</em>, Forthcoming (with <a href="https://www.satyapdas.com" target="_blank">Satya Das</a>)<br>
 <a class="button-1" role="button" href="https://authors.elsevier.com/sd/article/S0264-9993(23)00058-5" target="_blank" style="line-height:35px; text-decoration: none">DOI <i class="fa fa-external-link"></i></a> 
  <a class="button-1" role="button" href="/files/research/gravity_manufacturing_and_services.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa fa-file-pdf-o"></i></a>
  <button role="button" class="button-1" data-toggle="collapse" data-target="#abs4">Abstract +</button>
@@ -159,11 +164,6 @@ tbody.collapse.in{
    <p style="font-size:13px" align="justify">This paper studies how and why the bilateral trades in manufacturing and services differ in their response to  changes in the determinants, both theoretically and empirically. We build a unified theoretical framework that incorporates a demand bias towards services and a difference in the degree of national product differentiation between the two product groups. Estimation results support the theoretical predictions. The empirical model includes, among others, two non-standard trade-cost variables: a measure of internet penetration and virtual proximity (the number of bilateral hyperlinks). An important finding is that virtual proximity&mdash;thus far ignored in most gravity models&mdash;is a strong predictor of aggregate trade in both services and manufacturing. Also, physical distance is an important determinant of bilateral trade in manufacturing and services, even while controlling for virtual proximity.</p>
    </div>
  </div></p>
-
-<br>
-
-
-### Refereed Publications
 
 <p class="ex1" align="justify"><b>Port Efficiency and Brazilian Exports: A Quantitative Assessment of the Impact of Turnaround Time</b> <br> <em> The World Economy</em>, 2018, 41, 2528–2551 (with <a href="https://scholar.google.com.br/citations?user=dqFJND9idb0C&hl=en" target="_blank"> Sérgio Kannebley Júnior</a>) <br>
 <a class="button-1" role="button" href="https://doi.org/10.1111/twec.12654" target="_blank" style="line-height:35px; text-decoration: none">DOI <i class="fa fa-external-link"></i></a> 

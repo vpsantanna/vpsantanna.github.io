@@ -237,3 +237,56 @@ table td {
 <p class="ex1" align="justify"> 
    <b>Trade Facilitation Indexes: The case of Brazil and its Trade Partners</b> (with <a href="https://scholar.google.com.br/citations?user=ceqK-1QAAAAJ&hl=en" target="_blank">Mauricio de Souza</a> and <a href="https://scholar.google.com.br/citations?user=bnfF3IEAAAAJ&hl=en" target="_blank">Rosane Faria</a>) <br> <em>Revista de Economia & Relações Internacionais</em>, v. 10, p. 124-141, January 2012. <br>
    <a class="button-1" role="button" href="/files/research/indicadores_facilitacao.pdf" target="_blank" style="line-height:35px; text-decoration: none">Publication (in Portuguese) <i class="fa fa-file-pdf-o"></i></a> </p>
+   
+   
+   
+   
+<script>
+  document.getElementById('citeButton').addEventListener('click', function () {
+      document.getElementById('citationPopup').style.display = 'block';
+  });
+
+  document.querySelector('.close').addEventListener('click', function () {
+      document.getElementById('citationPopup').style.display = 'none';
+  });
+
+  window.addEventListener('click', function (event) {
+      if (event.target == document.getElementById('citationPopup')) {
+          document.getElementById('citationPopup').style.display = 'none';
+      }
+  });
+
+  function copyCitation(citationId, messageId) {
+      const citationText = document.getElementById(citationId);
+      const textarea = document.createElement('textarea');
+      textarea.textContent = citationText.textContent;
+      textarea.style.position = 'fixed';
+      document.body.appendChild(textarea);
+      textarea.select();
+      try {
+          document.execCommand('copy');
+          showCopyMessage(messageId);
+      } catch (err) {
+          console.warn('Copy failed:', err);
+      } finally {
+          document.body.removeChild(textarea);
+      }
+  }
+
+  function showCopyMessage(messageId) {
+      const copyMessage = document.getElementById(messageId);
+      copyMessage.style.display = 'inline';
+      copyMessage.textContent = 'Citation copied to clipboard';
+      setTimeout(() => {
+          copyMessage.style.display = 'none';
+      }, 1000);
+  }
+
+  document.getElementById('copyIcon1').addEventListener('click', function () {
+      copyCitation('citationText1', 'copyMessage');
+  });
+
+  document.getElementById('copyIcon2').addEventListener('click', function () {
+      copyCitation('citationText2', 'copyMessage');
+  });
+</script>

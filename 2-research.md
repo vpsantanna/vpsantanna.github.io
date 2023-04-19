@@ -235,7 +235,7 @@ table td {
         <tr>
             <td>APA</td>
             <td id="citationText1">Sant’Anna, V. P., & Kannebley Júnior, S. (2018). Port efficiency and Brazilian exports: A quantitative assessment of the impact of turnaround time. <em>The World Economy</em>, 41(9), 2528-2551.</td>
-            <td><i id="copyIcon1" class="fa-solid fa-copy" style="cursor:pointer;"></i></td>
+            <td><i id="copyIcon1" class="fa fa-clipboard" aria-hidden="true"></i></td>
         </tr>
         <tr>
             <td>Latex</td>
@@ -250,7 +250,7 @@ doi = {https://doi.org/10.1111/twec.12654}, <br>
 year = {2018}
   <span class="last-line">}</span>
 </td>
-            <td><i id="copyIcon2" class="fas fa-copy" style="cursor:pointer;"></i></td>
+            <td><i id="copyIcon2" class="fa fa-clipboard" aria-hidden="true"></i></td>
         </tr>
     </table>
     <span id="copyMessage" style="display:none; margin-left: 5px; color: green;"></span>

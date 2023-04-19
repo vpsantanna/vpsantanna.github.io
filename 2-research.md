@@ -224,6 +224,38 @@ table td {
 <a class="button-1" role="button" href="https://doi.org/10.1111/twec.12654" target="_blank" style="line-height:35px; text-decoration: none">DOI <i class="fa fa-external-link"></i></a> 
 <a class="button-1" role="button" href="/files/research/123_VSSKJ.pdf" target="_blank" style="text-decoration: none">RBCE Version (in Portuguese) <i class="fa fa-file-pdf-o"></i></a> 
 <a class="button-1" role="button" href="https://www5.usp.br/noticias/sociedade/portos-mais-ageis-podem-aumentar-exportacoes-brasileiras/" target="_blank" style="text-decoration: none">Coverage: USP Notícias <i class="fa fa-external-link"></i></a> 
+ <button id="citeButton">Cite</button>
+<div id="citationPopup" class="citation-popup">
+    <div class="citation-content">
+        <div class="header"> 
+            <h3>Citation</h3>
+            <span class="close">&times;</span>
+        </div>
+    <table>
+        <tr>
+            <td>APA</td>
+            <td id="citationText1">Sant’Anna, V. P., & Kannebley Júnior, S. (2018). Port efficiency and Brazilian exports: A quantitative assessment of the impact of turnaround time. <em>The World Economy</em>, 41(9), 2528-2551.</td>
+            <td><i id="copyIcon1" class="fas fa-copy" style="cursor:pointer;"></i></td>
+        </tr>
+        <tr>
+            <td>Latex</td>
+            <td id="citationText2">@article{SantAnna2018Port,<br>
+author = {Sant’Anna, Vinicios P. and Kannebley Júnior, Sérgio},<br>
+title = {Port efficiency and Brazilian exports: A quantitative assessment of the impact of turnaround time},<br>
+journal = {The World Economy},<br>
+volume = {41},<br>
+number = {9},<br>
+pages = {2528-2551}, <br>
+doi = {https://doi.org/10.1111/twec.12654}, <br>
+year = {2018}
+  <span class="last-line">}</span>
+</td>
+            <td><i id="copyIcon2" class="fas fa-copy" style="cursor:pointer;"></i></td>
+        </tr>
+    </table>
+    <span id="copyMessage" style="display:none; margin-left: 5px; color: green;"></span>
+</div>
+</div>
 <button role="button" class="button-1" data-toggle="collapse" data-target="#abs5">Abstract +</button>
   <div id="abs5" class="collapse">
     <div style="padding-left: 30px;">

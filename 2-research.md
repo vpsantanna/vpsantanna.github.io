@@ -223,6 +223,7 @@ table td {
 <a class="button-1" role="button" href="https://doi.org/10.1111/twec.12654" target="_blank" style="line-height:35px; text-decoration: none">DOI <i class="fa fa-external-link"></i></a> 
 <a class="button-1" role="button" href="/files/research/123_VSSKJ.pdf" target="_blank" style="text-decoration: none">RBCE Version (in Portuguese) <i class="fa fa-file-pdf-o"></i></a> 
 <a class="button-1" role="button" href="https://www5.usp.br/noticias/sociedade/portos-mais-ageis-podem-aumentar-exportacoes-brasileiras/" target="_blank" style="text-decoration: none">Coverage: USP Notícias <i class="fa fa-external-link"></i></a> 
+ <button role="button" class="button-1" data-toggle="collapse" data-target="#abs5">Abstract +</button>
  <button class="button-1" id="citeButton"><i class="fa fa-quote-right" aria-hidden="true"></i> Cite</button>
 <div id="citationPopup" class="citation-popup">
     <div class="citation-content">
@@ -254,7 +255,7 @@ year = {2018}
     </table>
     <span id="copyMessage" style="display:none; margin-left: 5px; color: green;"></span>
 </div>
-</div> <button role="button" class="button-1" data-toggle="collapse" data-target="#abs5">Abstract +</button>
+</div> 
   <div id="abs5" class="collapse">
     <div style="padding-left: 30px;">
    <p style="font-size:13px" align="justify">We study the role of port efficiency on international trade, estimating the impact of vessel turnaround time on Brazilian exports. The main empirical challenge is to control for non-observed local factors that determine trade flows. This paper addresses this challenge by combining detailed data of Brazilian exports with an empirical strategy that allows us to control for various unobserved local determinants of exports. We use a unique database with vessel turnaround time at each port and city-level exports, including information on the Brazilian port used, the destination country, and products. The empirical strategy relies on a difference-gravity equation to explore the variation in port procedures turnaround. This approach controls for unobserved characteristics and determinants common to geographically close cities, exporting the same product to the same destination country. The results suggest that port delays are associated with decreased volumes of exports and decreased product variety. We find that each additional hour of port procedure delay is equivalent to a reduction in relative local exports of 2%. On average, a 10% relative reduction in vessel turnaround time increases the number of exported product categories by 1%. Our findings suggest that delays in port procedures represent costs to Brazilian exporters, affecting both the intensive and extensive margins of trade.</p>

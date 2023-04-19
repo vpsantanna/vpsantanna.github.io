@@ -160,7 +160,6 @@ tbody.collapse.in{
 }
  
  table tr:not(:last-child) {
-    border-bottom: 1px solid #ccc;
     margin-bottom: 5px;
     padding-bottom: 5px;
 }

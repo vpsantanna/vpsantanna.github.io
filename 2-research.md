@@ -158,7 +158,12 @@ tbody.collapse.in{
     cursor: pointer;
     padding: 0 10px;
 }
-
+ 
+ table tr:not(:last-child) {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
 
 table td {
     padding: 10px 30px; 

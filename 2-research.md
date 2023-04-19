@@ -222,7 +222,7 @@ table td {
 <div id="citationPopup" class="citation-popup">
     <div class="citation-content">
         <div class="header"> 
-            <h3>Citation</h3>
+            ### Citation
             <span class="close">&times;</span>
         </div>
     <table>

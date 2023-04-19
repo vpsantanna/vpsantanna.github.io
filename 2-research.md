@@ -123,6 +123,61 @@ tbody.collapse.in{
  a:hover {
    text-decoration:underline;
 }
+ 
+ .last-line {
+    display: block;
+    margin-left: 0px; /* Negative margin equal to the text-indent value of the table cells */
+}
+
+.citation-popup {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.citation-content {
+    background-color: #fefefe;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 50%;
+    border-radius: 10px; 
+}
+
+.close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 24px;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 0 10px;
+}
+
+table tr:not(:last-child) {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+
+
+table td {
+    padding: 10px 30px; 
+    text-indent: -30px;
+}
+
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ 
     
  </style>
 

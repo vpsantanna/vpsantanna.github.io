@@ -147,6 +147,7 @@ tbody.collapse.in{
     padding: 20px;
     width: 60%;
     border-radius: 10px; 
+    overflow: auto;
 }
 
 .close {

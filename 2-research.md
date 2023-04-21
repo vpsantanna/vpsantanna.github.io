@@ -172,6 +172,7 @@ table td {
  
 
  table td:last-child {
+    text-indent: 0px;
     text-align: center;
 }
 

@@ -170,8 +170,10 @@ table td {
     text-indent: -30px;
 }
  
-table td i.fa {
-    vertical-align: middle;
+
+ table td:last-child {
+    text-indent: 10px;
+    text-align: center;
 }
 
 

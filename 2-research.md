@@ -223,7 +223,7 @@ table td {
 <a class="button-1" role="button" href="/files/research/123_VSSKJ.pdf" target="_blank" style="text-decoration: none">RBCE Version (in Portuguese) <i class="fa fa-file-pdf-o"></i></a> 
 <a class="button-1" role="button" href="https://www5.usp.br/noticias/sociedade/portos-mais-ageis-podem-aumentar-exportacoes-brasileiras/" target="_blank" style="text-decoration: none">Coverage: USP Notícias <i class="fa fa-external-link"></i></a> 
  <button role="button" class="button-1" data-toggle="collapse" data-target="#abs5">Abstract +</button>
- <button class="button-1" id="citeButton" style="line-height:35px; text-decoration: none"><i class="fa fa-quote-right" aria-hidden="true"></i> Cite</button>
+ <a class="button-1" role="button" id="citeButton" style="line-height:35px; text-decoration: none"><i class="fa fa-quote-right" aria-hidden="true"></i> Cite</a>
 <div id="citationPopup" class="citation-popup">
     <div class="citation-content">
         <div class="header"> 

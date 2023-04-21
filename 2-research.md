@@ -172,7 +172,6 @@ table td {
  
 
  table td:last-child {
-    text-indent: 10px;
     text-align: center;
 }
 
@@ -228,9 +227,9 @@ table td {
 <p class="ex1" align="justify"><b>Port Efficiency and Brazilian Exports: A Quantitative Assessment of the Impact of Turnaround Time</b> <br> <em> The World Economy</em>, 2018, 41, 2528–2551 (with <a href="https://scholar.google.com.br/citations?user=dqFJND9idb0C&hl=en" target="_blank"> Sérgio Kannebley Júnior</a>) <br>
 <a class="button-1" role="button" href="https://doi.org/10.1111/twec.12654" target="_blank" style="line-height:35px; text-decoration: none">DOI <i class="fa fa-external-link"></i></a> 
 <a class="button-1" role="button" href="/files/research/123_VSSKJ.pdf" target="_blank" style="text-decoration: none">RBCE Version (in Portuguese) <i class="fa fa-file-pdf-o"></i></a> 
-<a class="button-1" role="button" href="https://www5.usp.br/noticias/sociedade/portos-mais-ageis-podem-aumentar-exportacoes-brasileiras/" target="_blank" style="text-decoration: none">Coverage: USP Notícias <i class="fa fa-external-link"></i></a> 
- <button role="button" class="button-1" data-toggle="collapse" data-target="#abs5">Abstract +</button>
+<a class="button-1" role="button" href="https://www5.usp.br/noticias/sociedade/portos-mais-ageis-podem-aumentar-exportacoes-brasileiras/" target="_blank" style="text-decoration: none">Coverage: USP Notícias <i class="fa fa-external-link"></i></a>
  <a class="button-1" role="button" id="citeButton" style="text-decoration: none"><i class="fa fa-quote-right" aria-hidden="true"></i> Cite</a>
+ <button role="button" class="button-1" data-toggle="collapse" data-target="#abs5">Abstract +</button>
 <div id="citationPopup" class="citation-popup">
     <div class="citation-content">
         <div class="header"> 

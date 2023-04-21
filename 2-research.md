@@ -236,7 +236,7 @@ table td {
             <td>APA</td>
             <td id="citationText1">Sant’Anna, V. P., & Kannebley Júnior, S. (2018). Port efficiency and Brazilian exports: A quantitative assessment of the impact of turnaround time. <em>The World Economy</em>, 41(9), 2528-2551.
              <span class="last-line"></span></td>
-            <td><i id="copyIcon1" class="fa fa-clipboard" aria-hidden="true" style="cursor:pointer;"></i></td>
+            <td><i id="copyIcon1" class="fa fa-clipboard" aria-hidden="true" style="cursor:pointer;"></i> Copy</td>
         </tr>
         <tr>
             <td>BibTex</td>

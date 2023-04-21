@@ -169,6 +169,10 @@ table td {
     padding: 10px 30px; 
     text-indent: -30px;
 }
+ 
+table td i.fa {
+    vertical-align: middle;
+}
 
 
 .header {

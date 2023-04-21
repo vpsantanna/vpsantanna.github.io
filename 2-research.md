@@ -118,6 +118,7 @@ tbody.collapse.in{
   color: rgb(134, 21, 44);
   text-align: center;
   text-decoration: none;
+  white-space: nowrap;
 }
  
  a:hover {

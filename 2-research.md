@@ -127,7 +127,7 @@ tbody.collapse.in{
  
  .last-line {
     display: block;
-    margin-left: 0px; /* Negative margin equal to the text-indent value of the table cells */
+    margin-left: 0px; 
 }
 
 .citation-popup {
@@ -224,7 +224,7 @@ table td {
 <a class="button-1" role="button" href="/files/research/123_VSSKJ.pdf" target="_blank" style="text-decoration: none">RBCE Version (in Portuguese) <i class="fa fa-file-pdf-o"></i></a> 
 <a class="button-1" role="button" href="https://www5.usp.br/noticias/sociedade/portos-mais-ageis-podem-aumentar-exportacoes-brasileiras/" target="_blank" style="text-decoration: none">Coverage: USP Notícias <i class="fa fa-external-link"></i></a> 
  <button role="button" class="button-1" data-toggle="collapse" data-target="#abs5">Abstract +</button>
- <a class="button-1" role="button" id="citeButton" style="line-height:35px; text-decoration: none"><i class="fa fa-quote-right" aria-hidden="true"></i> Cite</a>
+ <a class="button-1" role="button" id="citeButton" style="text-decoration: none"><i class="fa fa-quote-right" aria-hidden="true"></i> Cite</a>
 <div id="citationPopup" class="citation-popup">
     <div class="citation-content">
         <div class="header"> 
@@ -236,7 +236,7 @@ table td {
             <td>APA</td>
             <td id="citationText1">Sant’Anna, V. P., & Kannebley Júnior, S. (2018). Port efficiency and Brazilian exports: A quantitative assessment of the impact of turnaround time. <em>The World Economy</em>, 41(9), 2528-2551.
              <span class="last-line"></span></td>
-            <td><i id="copyIcon1" class="fa fa-clipboard" aria-hidden="true" style="cursor:pointer;"></i> Copy</td>
+            <td><span class="last-line"><i id="copyIcon1" class="fa fa-clipboard" aria-hidden="true" style="cursor:pointer;"></i></span></td>
         </tr>
         <tr>
             <td>BibTex</td>

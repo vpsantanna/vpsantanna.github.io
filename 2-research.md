@@ -143,6 +143,7 @@ tbody.collapse.in{
 }
 
 .citation-content {
+    position: relative;
     background-color: #fefefe;
     margin: 10% auto;
     padding: 20px;

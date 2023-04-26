@@ -153,7 +153,9 @@ tbody.collapse.in{
 
 .close {
     color: #aaaaaa;
-    float: right;
+    position: absolute;
+    top: 10px; 
+    right: 10px; 
     font-size: 24px;
     font-weight: bold;
     cursor: pointer;

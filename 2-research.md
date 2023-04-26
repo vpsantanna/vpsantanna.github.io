@@ -59,6 +59,7 @@ permalink: /research/
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
+  white-space: nowrap;
 }
 
 .button-1:hover {

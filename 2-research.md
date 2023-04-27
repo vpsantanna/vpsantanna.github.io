@@ -234,7 +234,7 @@ table td {
 <a class="button-1" role="button" href="/files/research/123_VSSKJ.pdf" target="_blank" style="text-decoration: none">RBCE Version (in Portuguese) <i class="fa fa-file-pdf-o"></i></a> 
 <a class="button-1" role="button" href="https://www5.usp.br/noticias/sociedade/portos-mais-ageis-podem-aumentar-exportacoes-brasileiras/" target="_blank" style="text-decoration: none">Coverage: USP Notícias <i class="fa fa-external-link"></i></a>
  <a class="button-1" role="button" id="citeButton" style="text-decoration: none"><i class="fa fa-quote-right" aria-hidden="true"></i> Cite</a>
- <a class="button-1" role="button" data-toggle="collapse" data-target="#abs5">Abstract +</a>
+ <a class="button-1" role="button" data-toggle="collapse" data-target="#abs5" style="line-height:35px; text-decoration: none">Abstract +</a>
 <div id="citationPopup" class="citation-popup">
     <div class="citation-content">
         <div class="header"> 
@@ -251,7 +251,7 @@ table td {
         <tr>
             <td>BibTex</td>
             <td id="citationText2">@article{SantAnna2018Port,<br>
-author = {Sant’Anna, Vinicios P. and Kannebley Júnior, Sérgio},<br>
+author = {Sant’Anna, Vinicios P and Kannebley J{\'u}nior, S{\'e}rgio},<br>
 title = {Port efficiency and Brazilian exports: A quantitative assessment of the impact of turnaround time},<br>
 journal = {The World Economy},<br>
 volume = {41},<br>

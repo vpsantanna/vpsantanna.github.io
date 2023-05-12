@@ -23,7 +23,7 @@ layout: home
 }
  </style>
 
-   <img src="./files/profile_c.png" alt="profile" style="width: 360px;" align="right" />
+   <img src="./files/profile_c2.png" alt="profile" style="width: 360px;" align="right" />
 
 <p style="font-size:16px"  align="justify" class="ex1"><br>Welcome!<br/></p>
 

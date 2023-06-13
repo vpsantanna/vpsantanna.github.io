@@ -219,7 +219,7 @@ table td {
 
 ### Refereed Publications
 
-<p class="ex1" align="justify"> <b>Determinants of Bilateral Trade in Manufacturing and Services: A Unified Approach</b>   <br> <em>Economic Modelling</em>, Forthcoming (with <a href="https://www.satyapdas.com" target="_blank">Satya Das</a>)<br>
+<p class="ex1" align="justify"> <b>Determinants of Bilateral Trade in Manufacturing and Services: A Unified Approach</b>   <br> <em>Economic Modelling</em>, 2023, 123 (with <a href="https://www.satyapdas.com" target="_blank">Satya Das</a>)<br>
 <a class="button-1" role="button" href="https://authors.elsevier.com/sd/article/S0264-9993(23)00058-5" target="_blank" style="line-height:35px; text-decoration: none">DOI <i class="fa fa-external-link"></i></a> 
  <a class="button-1" role="button" href="/files/research/gravity_manufacturing_and_services.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa fa-file-pdf-o"></i></a>
  <a class="button-1" role="button" data-toggle="collapse" data-target="#abs4" style="line-height:35px; text-decoration: none">Abstract +</a>

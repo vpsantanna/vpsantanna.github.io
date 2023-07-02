@@ -338,4 +338,12 @@ year = {2018}
   document.getElementById('copyIcon2').addEventListener('click', function () {
       copyCitation('citationText2', 'copyMessage');
   });
+
+  document.getElementById('copyIcon3').addEventListener('click', function () {
+      copyCitation('citationText3', 'copyMessage');
+  });
+
+  document.getElementById('copyIcon4').addEventListener('click', function () {
+      copyCitation('citationText4', 'copyMessage');
+  });
 </script>

@@ -259,9 +259,9 @@ publisher={Elsevier}
 <a class="button-1" role="button" href="https://doi.org/10.1111/twec.12654" target="_blank" style="line-height:35px; text-decoration: none">DOI <i class="fa fa-external-link"></i></a> 
 <a class="button-1" role="button" href="/files/research/123_VSSKJ.pdf" target="_blank" style="text-decoration: none">RBCE Version (in Portuguese) <i class="fa fa-file-pdf-o"></i></a> 
 <a class="button-1" role="button" href="https://www5.usp.br/noticias/sociedade/portos-mais-ageis-podem-aumentar-exportacoes-brasileiras/" target="_blank" style="line-height:35px; text-decoration: none">Coverage: USP Notícias <i class="fa fa-external-link"></i></a>
- <a class="button-1" role="button" id="citeButton" style="text-decoration: none"><i class="fa fa-quote-right" aria-hidden="true"></i> Cite</a>
+ <a class="button-1" role="button" id="citeButton1" style="text-decoration: none"><i class="fa fa-quote-right" aria-hidden="true"></i> Cite</a>
  <a class="button-1" role="button" data-toggle="collapse" data-target="#abs5" style="line-height:35px; text-decoration: none">Abstract +</a>
-<div id="citationPopup" class="citation-popup">
+<div id="citationPopup1" class="citation-popup">
     <div class="citation-content">
         <div class="header"> 
          <h4>Citation</h4>
@@ -314,20 +314,19 @@ year = {2018}
    <a class="button-1" role="button" href="/files/research/indicadores_facilitacao.pdf" target="_blank" style="line-height:35px; text-decoration: none">Publication (in Portuguese) <i class="fa fa-file-pdf-o"></i></a> </p>
 
 <script>
-  document.getElementById('citeButton').addEventListener('click', function () {
-      document.getElementById('citationPopup').style.display = 'block';
+  document.getElementById('citeButton1').addEventListener('click', function () {
+      document.getElementById('citationPopup1').style.display = 'block';
   });
 
   document.querySelector('.close').addEventListener('click', function () {
-      document.getElementById('citationPopup').style.display = 'none';
+      document.getElementById('citationPopup1').style.display = 'none';
   });
 
   window.addEventListener('click', function (event) {
-      if (event.target == document.getElementById('citationPopup')) {
-          document.getElementById('citationPopup').style.display = 'none';
+      if (event.target == document.getElementById('citationPopup1')) {
+          document.getElementById('citationPopup1').style.display = 'none';
       }
   });
-
 
    document.getElementById('citeButton2').addEventListener('click', function () {
       document.getElementById('citationPopup2').style.display = 'block';

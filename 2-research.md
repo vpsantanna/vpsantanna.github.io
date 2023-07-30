@@ -7,22 +7,22 @@ permalink: /research/
 <style>
 
  html * {
-        font-family: Cambria,Georgia,serif; 
+        font-family: Cambria,Georgia,serif;
       }
 
    .iframe-container {
-  padding-top: 56.25%;
-  position: relative;
+    padding-top: 56.25%;
+    position: relative;
    }
 
-.iframe-container iframe {
-   border: 0;
-   height: 100%;
-   width: 100%;
-   position: absolute;
-   top: 0;
-   left: 0;
- }
+  .iframe-container iframe {
+    border: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
 
   .button {
      border: none;
@@ -44,7 +44,7 @@ permalink: /research/
   box-sizing: border-box;
   /*color: #1f4071;*/
   color: #86152c;
-  font-family: Cambria,Georgia,serif; 
+  font-family: Cambria,Georgia,serif;
   font-size: .75rem;
   font-weight: 600;
   line-height: 1rem;
@@ -76,7 +76,7 @@ permalink: /research/
 .button-1:focus-visible {
   box-shadow: none;
 }
-   
+
  .collapse{
   display:none
 }
@@ -107,13 +107,13 @@ tbody.collapse.in{
   -o-transition-timing-function:ease;
   transition-timing-function:ease
 }
-   
+
  p.ex1 {
   padding-top: 0em;
   padding-bottom: 0em;
   font-size:14px;
 }
-   
+
  a:link, a:visited {
   background-color: white;
   color: rgb(134, 21, 44);
@@ -121,14 +121,14 @@ tbody.collapse.in{
   text-decoration: none;
   white-space: nowrap;
 }
- 
+
  a:hover {
    text-decoration:underline;
 }
- 
+
  .last-line {
     display: block;
-    margin-left: 0px; 
+    margin-left: 0px;
 }
 
 .citation-popup {
@@ -149,48 +149,43 @@ tbody.collapse.in{
     margin: 10% auto;
     padding: 20px;
     width: 60%;
-    border-radius: 10px; 
+    border-radius: 10px;
     overflow: auto;
 }
 
 .close {
     color: #aaaaaa;
     position: absolute;
-    top: 10px; 
-    right: 10px; 
+    top: 10px;
+    right: 10px;
     font-size: 24px;
     font-weight: bold;
     cursor: pointer;
     padding: 0 10px;
 }
- 
+
  table tr:not(:last-child) {
     margin-bottom: 5px;
     padding-bottom: 5px;
 }
 
 table td {
-    padding: 10px 30px; 
+    padding: 10px 30px;
     text-indent: -30px;
 }
- 
 
  table td:last-child {
     text-indent: 0px;
     text-align: center;
 }
 
-
 .header {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
- 
-    
+
  </style>
-
-
 
 ### Working Papers
 
@@ -213,9 +208,8 @@ table td {
    <p style="font-size:13px" align="justify">We study the effect of the bilateral trade integration with China on wage inequality in Brazil. Previous studies have documented the contribution of trade opening to the decline in inequality since the 1990s, driven primarily by cross-firm pay differences. We find a sharper reduction in wage inequality over the 2000s, parallel to China’s accession to the WTO. Our reduced-form analysis of the China shock suggests that some firms are harmed by import competition, while others profit from increased exports and cheaper inputs. We rationalize these patterns by extending the theoretical framework of Helpman et al. (2017) to include sector heterogeneity in trade exposure and firm-level selection into imports. Our calibrated model indicates that the rise of China led to a reduction in cross-firm wage inequality in Brazil since the cross-sectoral effect&mdash;which tends to benefit low-wage sectors and hurt high-wage sectors&mdash;dominates the within-sector increase in inequality due to a rise in importers and exporters.</p>
    </div>
  </div></p>
- 
-<br>
 
+<br>
 
 ### Refereed Publications
 

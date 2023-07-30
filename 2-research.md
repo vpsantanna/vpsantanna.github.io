@@ -217,6 +217,37 @@ table td {
 <a class="button-1" role="button" href="https://authors.elsevier.com/sd/article/S0264-9993(23)00058-5" target="_blank" style="line-height:35px; text-decoration: none">DOI <i class="fa fa-external-link"></i></a> 
  <a class="button-1" role="button" href="/files/research/gravity_manufacturing_and_services.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa fa-file-pdf-o"></i></a>
  <a class="button-1" role="button" data-toggle="collapse" data-target="#abs4" style="line-height:35px; text-decoration: none">Abstract +</a>
+<div id="citationPopup2" class="citation-popup">
+    <div class="citation-content">
+        <div class="header"> 
+         <h4>Citation</h4>
+            <span class="close">&times;</span>
+        </div>
+    <table>
+        <tr>
+            <td>APA</td>
+            <td id="citationText3">Das, S. P., & Sant’Anna, V. P. (2023). Determinants of bilateral trade in manufacturing and services: A unified approach. <em>Economic Modelling</em>, 123, 106246.
+             <span class="last-line"></span></td>
+            <td><span class="last-line"><i id="copyIcon3" class="fa fa-clipboard" aria-hidden="true" style="cursor:pointer;"></i></span></td>
+        </tr>
+        <tr>
+            <td>BibTex</td>
+            <td id="citationText4">@article{das2023determinants,<br>
+author={Das, Satya P and Sant’Anna, Vinicios P},<br>
+title={Determinants of Bilateral Trade in Manufacturing and Services: A Unified Approach},<br>
+journal={Economic Modelling},<br>
+volume = {123},<br>
+doi = {https://doi.org/10.1016/j.econmod.2023.106246}, <br>
+year = {2023}, <br>
+publisher={Elsevier}
+  <span class="last-line">}</span>
+</td>
+            <td><i id="copyIcon4" class="fa fa-clipboard" aria-hidden="true" style="cursor:pointer;"></i></td>
+        </tr>
+    </table>
+    <span id="copyMessage" style="display:none; margin-left: 5px; color: rgb(134, 21, 44);"></span>
+</div>
+</div> 
   <div id="abs4" class="collapse">
     <div style="padding-left: 30px;">
    <p style="font-size:13px" align="justify">This paper studies how and why the bilateral trades in manufacturing and services differ in their response to  changes in the determinants, both theoretically and empirically. We build a unified theoretical framework that incorporates a demand bias towards services and a difference in the degree of national product differentiation between the two product groups. Estimation results support the theoretical predictions. The empirical model includes, among others, two non-standard trade-cost variables: a measure of internet penetration and virtual proximity (the number of bilateral hyperlinks). An important finding is that virtual proximity&mdash;thus far ignored in most gravity models&mdash;is a strong predictor of aggregate trade in both services and manufacturing. Also, physical distance is an important determinant of bilateral trade in manufacturing and services, even while controlling for virtual proximity.</p>
@@ -280,10 +311,7 @@ year = {2018}
 <p class="ex1" align="justify"> 
    <b>Trade Facilitation Indexes: The case of Brazil and its Trade Partners</b> (with <a href="https://scholar.google.com.br/citations?user=ceqK-1QAAAAJ&hl=en" target="_blank">Mauricio de Souza</a> and <a href="https://scholar.google.com.br/citations?user=bnfF3IEAAAAJ&hl=en" target="_blank">Rosane Faria</a>) <br> <em>Revista de Economia & Relações Internacionais</em>, v. 10, p. 124-141, January 2012. <br>
    <a class="button-1" role="button" href="/files/research/indicadores_facilitacao.pdf" target="_blank" style="line-height:35px; text-decoration: none">Publication (in Portuguese) <i class="fa fa-file-pdf-o"></i></a> </p>
-   
-   
-   
-   
+
 <script>
   document.getElementById('citeButton').addEventListener('click', function () {
       document.getElementById('citationPopup').style.display = 'block';

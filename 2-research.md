@@ -265,7 +265,7 @@ publisher={Elsevier}
     <div class="citation-content">
         <div class="header"> 
          <h4>Citation</h4>
-            <span class="close">&times;</span>
+            <span id="close1" class="close">&times;</span>
         </div>
     <table>
         <tr>
@@ -319,6 +319,10 @@ year = {2018}
   });
 
   document.querySelector('.close').addEventListener('click', function () {
+      document.getElementById('citationPopup1').style.display = 'none';
+  });
+
+    document.getElementById('close1').addEventListener('click', function () {
       document.getElementById('citationPopup1').style.display = 'none';
   });
 

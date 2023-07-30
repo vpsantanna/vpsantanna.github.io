@@ -327,6 +327,21 @@ year = {2018}
       }
   });
 
+
+   document.getElementById('citeButton').addEventListener('click', function () {
+      document.getElementById('citationPopup2').style.display = 'block';
+  });
+
+  document.querySelector('.close').addEventListener('click', function () {
+      document.getElementById('citationPopup2').style.display = 'none';
+  });
+
+  window.addEventListener('click', function (event) {
+      if (event.target == document.getElementById('citationPopup2')) {
+          document.getElementById('citationPopup2').style.display = 'none';
+      }
+  });
+
   function copyCitation(citationId, messageId) {
       const citationText = document.getElementById(citationId);
       const textarea = document.createElement('textarea');

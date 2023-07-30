@@ -5,11 +5,11 @@ permalink: /research/
 ---
 
 <style>
- 
+
  html * {
         font-family: Cambria,Georgia,serif; 
       }
-   
+
    .iframe-container {
   padding-top: 56.25%;
   position: relative;
@@ -23,7 +23,7 @@ permalink: /research/
    top: 0;
    left: 0;
  }
-   
+
   .button {
      border: none;
      color: white;
@@ -36,7 +36,7 @@ permalink: /research/
      transition-duration: 0.4s;
      cursor: pointer;
 }
-   
+
  .button-1 {
   background-color: #FFFFFF;
   border: 0;

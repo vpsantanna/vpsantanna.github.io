@@ -131,54 +131,6 @@ tbody.collapse.in{
     margin-left: 0px;
 }
 
-.citation-popup {
-    display: none;
-    position: fixed;
-    z-index: 1;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    overflow: auto;
-    background-color: rgba(0, 0, 0, 0.4);
-}
-
-.citation-content {
-    position: relative;
-    background-color: #fefefe;
-    margin: 10% auto;
-    padding: 20px;
-    width: 60%;
-    border-radius: 10px;
-    overflow: auto;
-}
-
-.close {
-    color: #aaaaaa;
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    font-size: 24px;
-    font-weight: bold;
-    cursor: pointer;
-    padding: 0 10px;
-}
-
- table tr:not(:last-child) {
-    margin-bottom: 5px;
-    padding-bottom: 5px;
-}
-
-table td {
-    padding: 10px 30px;
-    text-indent: -30px;
-}
-
- table td:last-child {
-    text-indent: 0px;
-    text-align: center;
-}
-
 .header {
     display: flex;
     justify-content: space-between;

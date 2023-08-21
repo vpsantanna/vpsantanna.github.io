@@ -194,6 +194,10 @@ tbody.collapse.in{
 
  <br>
 
+ <p class="ex1" align="justify"> <b>Finding Home When Disaster Strikes: Dust Bowl Migration and Housing in Los Angeles</b> <br> (with<a href="https://diogobaerlocher.github.io/" target="_blank">Diogo Baerlocher</a>, and <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>)</p>
+
+<br>
+
 ### Other Publications
 
 <p class="ex1" align="justify"> 

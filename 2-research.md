@@ -194,6 +194,8 @@ tbody.collapse.in{
 
 <p class="ex1" align="justify"> <b>Finding Home When Disaster Strikes: Dust Bowl Migration and Housing in Los Angeles</b> <br> (with <a href="https://diogobaerlocher.github.io/" target="_blank">Diogo Baerlocher</a>, and <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>)</p>
 
+<p class="ex1" align="justify"> <b>Unleashing International Trade through Financial Integration: Evidence from a Cross-Border Payment System</b> <br> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>, and <a href="https://sites.google.com/view/lucas-argentieri-mariani/" target="_blank">Lucas Mariani</a>)</p>
+
 <br>
 
 ### Other Publications

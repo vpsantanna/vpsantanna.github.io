@@ -142,7 +142,7 @@ tbody.collapse.in{
 ### Working Papers
 
 <p class="ex1" align="justify"> <b>Send Them Back? The Real Estate Consequences of Repatriations</b> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>) <br>
-<a class="button-1" role="button" href="/files/research/mexican_repatriation_and_real_estate.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa fa-file-pdf-o"></i></a>
+<a class="button-1" role="button" href="/files/research/mexican_repatriation_and_real_estate.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa-solid fa-file-pdf"></i></a>
 <a class="button-1" role="button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3962277" target="_blank" style="line-height:35px; text-decoration: none">SSRN <i class="fa fa-external-link"></i></a>
 <a class="button-1" role="button" href="https://www.thecgo.org/research/send-them-back/" target="_blank" style="line-height:35px; text-decoration: none">CGO WP <i class="fa fa-external-link"></i></a>
 <a class="button-1" role="button" href="https://www.aeaweb.org/conference/videos/2020/vinicios-sant-anna" target="_blank" style="line-height:35px; text-decoration: none">Coverage: AEA Interview <i class="fa fa-external-link"></i></a>
@@ -154,7 +154,7 @@ tbody.collapse.in{
  </div></p>
 
 <p class="ex1" align="justify"> <b>International Trade and Wage Inequality: Evidence from Brazil</b> (with <a href="https://sites.google.com/view/lucassquarizechagas/home" target="_blank">Lucas Chagas</a>) <br>
-<a class="button-1" role="button" href="/files/research/trade_and_wage_inequality.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa fa-file-pdf-o"></i></a> <a class="button-1" role="button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4402333" target="_blank" style="line-height:35px; text-decoration: none">MIT CRE WP <i class="fa fa-external-link"></i></a>  <a class="button-1" role="button" data-toggle="collapse" data-target="#abs3" style="line-height:35px; text-decoration: none">Abstract +</a>
+<a class="button-1" role="button" href="/files/research/trade_and_wage_inequality.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa-solid fa-file-pdf"></i></a> <a class="button-1" role="button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4402333" target="_blank" style="line-height:35px; text-decoration: none">MIT CRE WP <i class="fa fa-external-link"></i></a>  <a class="button-1" role="button" data-toggle="collapse" data-target="#abs3" style="line-height:35px; text-decoration: none">Abstract +</a>
   <div id="abs3" class="collapse">
     <div style="padding-left: 30px;">
    <p style="font-size:13px" align="justify">We study the effect of the bilateral trade integration with China on wage inequality in Brazil. Previous studies have documented the contribution of trade opening to the decline in inequality since the 1990s, driven primarily by cross-firm pay differences. We find a sharper reduction in wage inequality over the 2000s, parallel to China’s accession to the WTO. Our reduced-form analysis of the China shock suggests that some firms are harmed by import competition, while others profit from increased exports and cheaper inputs. We rationalize these patterns by extending the theoretical framework of Helpman et al. (2017) to include sector heterogeneity in trade exposure and firm-level selection into imports. Our calibrated model indicates that the rise of China led to a reduction in cross-firm wage inequality in Brazil since the cross-sectoral effect&mdash;which tends to benefit low-wage sectors and hurt high-wage sectors&mdash;dominates the within-sector increase in inequality due to a rise in importers and exporters.</p>
@@ -167,7 +167,7 @@ tbody.collapse.in{
 
 <p class="ex1" align="justify"> <b>Determinants of Bilateral Trade in Manufacturing and Services: A Unified Approach</b>   <br> <em>Economic Modelling</em>, 2023, 123 (with <a href="https://www.satyapdas.com" target="_blank">Satya Das</a>)<br>
 <a class="button-1" role="button" href="https://authors.elsevier.com/sd/article/S0264-9993(23)00058-5" target="_blank" style="line-height:35px; text-decoration: none">DOI <i class="fa fa-external-link"></i></a> 
-<a class="button-1" role="button" href="/files/research/gravity_manufacturing_and_services.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa fa-file-pdf-o"></i></a>
+<a class="button-1" role="button" href="/files/research/gravity_manufacturing_and_services.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa-solid fa-file-pdf"></i></a>
 <a class="button-1" role="button" data-toggle="collapse" data-target="#abs4" style="line-height:35px; text-decoration: none">Abstract +</a>
 <div id="abs4" class="collapse">
     <div style="padding-left: 30px;">
@@ -177,7 +177,7 @@ tbody.collapse.in{
 
 <p class="ex1" align="justify"><b>Port Efficiency and Brazilian Exports: A Quantitative Assessment of the Impact of Turnaround Time</b> <br> <em> The World Economy</em>, 2018, 41, 2528–2551 (with <a href="https://scholar.google.com.br/citations?user=dqFJND9idb0C&hl=en" target="_blank"> Sérgio Kannebley Júnior</a>) <br>
 <a class="button-1" role="button" href="https://doi.org/10.1111/twec.12654" target="_blank" style="line-height:35px; text-decoration: none">DOI <i class="fa fa-external-link"></i></a> 
-<a class="button-1" role="button" href="/files/research/123_VSSKJ.pdf" target="_blank" style="text-decoration: none">RBCE Version (in Portuguese) <i class="fa fa-file-pdf-o"></i></a> 
+<a class="button-1" role="button" href="/files/research/123_VSSKJ.pdf" target="_blank" style="text-decoration: none">RBCE Version (in Portuguese) <i class="fa-solid fa-file-pdf"></i></a> 
 <a class="button-1" role="button" href="https://www5.usp.br/noticias/sociedade/portos-mais-ageis-podem-aumentar-exportacoes-brasileiras/" target="_blank" style="line-height:35px; text-decoration: none">Coverage: USP Notícias <i class="fa fa-external-link"></i></a>
 <a class="button-1" role="button" data-toggle="collapse" data-target="#abs5" style="line-height:35px; text-decoration: none">Abstract +</a>
   <div id="abs5" class="collapse">
@@ -202,4 +202,4 @@ tbody.collapse.in{
 
 <p class="ex1" align="justify"> 
    <b>Trade Facilitation Indexes: The case of Brazil and its Trade Partners</b> (with <a href="https://scholar.google.com.br/citations?user=ceqK-1QAAAAJ&hl=en" target="_blank">Mauricio de Souza</a> and <a href="https://scholar.google.com.br/citations?user=bnfF3IEAAAAJ&hl=en" target="_blank">Rosane Faria</a>) <br> <em>Revista de Economia & Relações Internacionais</em>, v. 10, p. 124-141, January 2012. <br>
-   <a class="button-1" role="button" href="/files/research/indicadores_facilitacao.pdf" target="_blank" style="line-height:35px; text-decoration: none">Publication (in Portuguese) <i class="fa fa-file-pdf-o"></i></a> </p>
+   <a class="button-1" role="button" href="/files/research/indicadores_facilitacao.pdf" target="_blank" style="line-height:35px; text-decoration: none">Publication (in Portuguese) <i class="fa-solid fa-file-pdf"></i></a> </p>

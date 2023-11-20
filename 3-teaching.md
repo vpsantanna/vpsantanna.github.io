@@ -112,6 +112,12 @@ a:hover {
 
 ### Teaching Experience
 
+#### Massachusetts Institute of Technology
+
+<p class="ex1" align="justify"> <b>11.433 - Real Estate Economics</b> Support Assistant Instructor: <font style="font-size:14px">Fall 2023</font> </p>
+
+<br>
+
 #### University of Illinois at Urbana-Champaign
 
 <p class="ex1" align="justify"> <b>Econ 490 - International Trade</b> (Instructor): <font style="font-size:14px">Fall 2018 &mdash; Spring 2020</font> </p>
@@ -121,7 +127,7 @@ a:hover {
 <br>
 
 #### University of Sao Paulo, Brazil
-<p class="ex1" align="justify"> <b>Econometrics III - Time Series</b> - (Teaching Assistant): <font style="font-size:14px">Spring 2014</font> </p>
+<p class="ex1" align="justify"> <b>Econometrics III - Time Series</b> (Teaching Assistant): <font style="font-size:14px">Spring 2014</font> </p>
 <p class="ex1" align="justify"> <b>International Economics</b> (Teaching Assistant): <font style="font-size:14px">Fall 2013</font> </p>
 
 <br>

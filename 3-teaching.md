@@ -94,6 +94,7 @@ tbody.collapse.in{
  p.ex1 {
   padding-top: 0em;
   padding-bottom: 0em;
+  padding-left: 20px;
   font-size:14px;
 }
    

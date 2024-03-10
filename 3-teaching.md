@@ -114,7 +114,8 @@ a:hover {
 
 #### Massachusetts Institute of Technology
 
-<p class="ex1" align="justify"> <b>11.433 - Real Estate Economics</b> Support Assistant Instructor: <font style="font-size:14px">Fall 2023</font> </p>
+<p class="ex1" align="justify"> <b>11.355 - International Housing Economics and Finance</b> Assistant Instructor: <font style="font-size:14px">Spring 2024</font> <br>
+<b>11.433 - Real Estate Economics</b> Assistant Instructor: <font style="font-size:14px">Fall 2023</font> </p>
 
 <br>
 

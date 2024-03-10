@@ -118,7 +118,6 @@ a:hover {
 <p class="ex1" align="justify"><b>11.355 - International Housing Economics and Finance</b>, Assistant Instructor: <font style="font-size:14px">Spring 2024</font> <br>
 <b>11.433 - Real Estate Economics</b>, Assistant Instructor: <font style="font-size:14px">Fall 2023</font> </p>
 
-<br>
 
 #### University of Illinois at Urbana-Champaign
 
@@ -126,7 +125,6 @@ a:hover {
 <b>Econ 203 - Economic Statistics II</b>, Teaching Assistant: <font style="font-size:14px">Spring 2017 &mdash; Spring 2018</font> <br>
 <b>Econ 302 - Intermediate Microeconomics</b>, Teaching Assistant: <font style="font-size:14px">Fall 2016</font> </p>
 
-<br>
 
 #### University of Sao Paulo, Brazil
 <p class="ex1" align="justify"><b>Econometrics III - Time Series</b>, Teaching Assistant: <font style="font-size:14px">Spring 2014</font> <br>

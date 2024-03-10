@@ -114,27 +114,28 @@ a:hover {
 
 #### Massachusetts Institute of Technology
 
-<p class="ex1" align="justify"> <b>11.355 - International Housing Economics and Finance</b> Assistant Instructor: <font style="font-size:14px">Spring 2024</font> <br>
-<b>11.433 - Real Estate Economics</b> Assistant Instructor: <font style="font-size:14px">Fall 2023</font> </p>
+<p class="ex1" align="justify">&nbsp;&nbsp;<b>11.355 - International Housing Economics and Finance</b> Assistant Instructor: <font style="font-size:14px">Spring 2024</font> <br>
+&nbsp;&nbsp;<b>11.433 - Real Estate Economics</b> Assistant Instructor: <font style="font-size:14px">Fall 2023</font> </p>
 
 <br>
 
 #### University of Illinois at Urbana-Champaign
 
-<p class="ex1" align="justify"> <b>Econ 490 - International Trade</b> (Instructor): <font style="font-size:14px">Fall 2018 &mdash; Spring 2020</font> </p>
-<p class="ex1" align="justify"> <b>Econ 203 - Economic Statistics II</b> (Teaching Assistant): <font style="font-size:14px">Spring 2017 &mdash; Spring 2018</font> </p>
-<p class="ex1" align="justify"> <b>Econ 302 - Intermediate Microeconomics</b> (Teaching Assistant): <font style="font-size:14px">Fall 2016</font> </p>
+<p class="ex1" align="justify">&nbsp;&nbsp;<b>Econ 490 - International Trade</b> (Instructor): <font style="font-size:14px">Fall 2018 &mdash; Spring 2020</font> <br>
+&nbsp;&nbsp;<b>Econ 203 - Economic Statistics II</b> (Teaching Assistant): <font style="font-size:14px">Spring 2017 &mdash; Spring 2018</font> <br>
+&nbsp;&nbsp;<b>Econ 302 - Intermediate Microeconomics</b> (Teaching Assistant): <font style="font-size:14px">Fall 2016</font> </p>
 
 <br>
 
 #### University of Sao Paulo, Brazil
-<p class="ex1" align="justify"> <b>Econometrics III - Time Series</b> (Teaching Assistant): <font style="font-size:14px">Spring 2014</font> </p>
-<p class="ex1" align="justify"> <b>International Economics</b> (Teaching Assistant): <font style="font-size:14px">Fall 2013</font> </p>
+<p class="ex1" align="justify">&nbsp;&nbsp;<b>Econometrics III - Time Series</b> (Teaching Assistant): <font style="font-size:14px">Spring 2014</font> <br>
+&nbsp;&nbsp;<b>International Economics</b> (Teaching Assistant): <font style="font-size:14px">Fall 2013</font> </p>
 
 <br>
 
-### Teaching Awards
-<p class="ex1" align="justify"> Teachers Ranked as <em>Excellent</em> by their Students: <font style="font-size:14px">Spring 2017 &mdash; Spring 2020</font> </p>
-<p class="ex1" align="justify"> Rated as <em>Outstanding</em> (University-wide Top 10% rating): <font style="font-size:14px">Spring 2018, Spring 2019, Spring 2020</font> </p>
-<p class="ex1" align="justify"> Graduate Teacher Certificate: <font style="font-size:14px">2017</font> </p>
+### Teaching Distinctions and Certificates
+<p class="ex1" align="justify">&nbsp;&nbsp;Kaufman Teaching Certificate Program, Massachusetts Institute of Technology: <font style="font-size:14px">2023</font> <br>
+&nbsp;&nbsp;Teachers Ranked as <em>Excellent</em> by students, University of Illinois at Urbana-Champaign: <font style="font-size:14px">Spring 2017 &mdash; Spring 2020</font> <br>
+&nbsp;&nbsp;Rated as <em>Outstanding</em> by students (University-wide Top 10% rating), University of Illinois at Urbana-Champaign: <font style="font-size:14px">Spring 2018, Spring 2019, Spring 2020</font> <br>
+&nbsp;&nbsp;Graduate Teacher Certificate, University of Illinois at Urbana-Champaign: <font style="font-size:14px">2017</font> </p>
 

@@ -190,7 +190,14 @@ tbody.collapse.in{
 
 ### Selected Work in Progress
 
-<p class="ex1" align="justify"> <b>Immigrants and Native Flight: Geographic Extent and Heterogeneous Preferences</b> <br> (with <a href="https://vbn.aau.dk/en/persons/147685" target="_blank"> Bence B&#248;je-Kov&#225;cs</a>, <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/staff/imueco" target="_blank">Ismir Mulalic</a>, <a href="https://scholar.google.com/citations?user=UXEZZS0AAAAJ&hl=en" target="_blank">Albert Saiz</a>, and <a href="https://en.rockwoolfonden.dk/employees/marie-louise-schultz-nielsen/" target="_blank">Marie Schultz-Nielsen</a>)</p>
+<p class="ex1" align="justify"> <b>Immigrants and Native Flight: Geographic Extent and Heterogeneous Preferences</b> <br> (with <a href="https://vbn.aau.dk/en/persons/147685" target="_blank"> Bence B&#248;je-Kov&#225;cs</a>, <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/staff/imueco" target="_blank">Ismir Mulalic</a>, <a href="https://scholar.google.com/citations?user=UXEZZS0AAAAJ&hl=en" target="_blank">Albert Saiz</a>, and <a href="https://en.rockwoolfonden.dk/employees/marie-louise-schultz-nielsen/" target="_blank">Marie Schultz-Nielsen</a>) <br>
+<a class="button-1" style="line-height:35px; text-decoration: none">Working Paper Soon <i class="fa-regular fa-file-lines"></i></a>
+<a class="button-1" role="button" data-toggle="collapse" data-target="#abs6" style="line-height:35px; text-decoration: none">Abstract +</a>
+  <div id="abs6" class="collapse">
+    <div style="padding-left: 30px;">
+   <p style="font-size:13px" align="justify">Is ethnic residential segregation in Europe driven by native flight or by immigrants' preferences? If the former, which natives avoid immigrants? And what is the geographic extent of such homophilic residential preferences? Using a matched panel dataset containing the universe of individuals and residential properties in Denmark from 1987 through 2017, and using experimental variation on immigrant arrival and diffusion, we conclusively show that the presence of immigrants induces native flight, even in a country with relatively tolerant attitudes. Immigrant concentrations both at the neighborhood level and within building complexes additively impact native behavior. Native flight is stronger for the old and is mostly a reaction to the arrival of low-income immigrants. As neighborhoods become more immigrant-dense, future move-ins are more likely to be other immigrants or young, low-income Danish citizens without children. Additionally, the concentration of non-Western immigrants has a negative effect on housing prices.</p>
+  </div>
+ </div></p>
 
 <p class="ex1" align="justify"> <b>Finding Home When Disaster Strikes: Dust Bowl Migration and Housing in Los Angeles</b> <br> (with <a href="https://diogobaerlocher.github.io/" target="_blank">Diogo Baerlocher</a>, and <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>)</p>
 

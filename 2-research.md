@@ -203,6 +203,8 @@ tbody.collapse.in{
 
 <p class="ex1" align="justify"> <b>Unleashing International Trade through Financial Integration: Evidence from a Cross-Border Payment System</b> <br> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>, and <a href="https://sites.google.com/view/lucas-argentieri-mariani/" target="_blank">Lucas Mariani</a>)</p>
 
+<p class="ex1" align="justify"> <b>Commodity Price Shocks and Credit Markets</b> <br> (with <a href="https://sites.google.com/view/frodrigues/home" target="_blank"> Flavio Rodrigues</a>, <a href="https://www.bis.org/author/bernardus_f_nazar_van_doornik.htm" target="_blank"> Bernardus Van Doornik</a>, and <a href="https://sites.google.com/view/cihangwang/home" target="_blank">Cihang Wang</a>)</p>
+
 <br>
 
 ### Other Publications

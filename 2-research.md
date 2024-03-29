@@ -176,7 +176,6 @@ tbody.collapse.in{
 
 <p class="ex1" align="justify"><b>Port Efficiency and Brazilian Exports: A Quantitative Assessment of the Impact of Turnaround Time</b> <br> <em> The World Economy</em>, 2018, 41, 2528–2551 (with <a href="https://scholar.google.com.br/citations?user=dqFJND9idb0C&hl=en" target="_blank"> Sérgio Kannebley Júnior</a>) <br>
 <a class="button-1" role="button" href="https://doi.org/10.1111/twec.12654" target="_blank" style="line-height:35px; text-decoration: none">DOI <i class="fa fa-external-link"></i></a> 
-<a class="button-1" role="button" href="/files/research/123_VSSKJ.pdf" target="_blank" style="text-decoration: none">RBCE Version (in Portuguese) <i class="fa-regular fa-file-lines"></i></a> 
 <a class="button-1" role="button" href="https://www5.usp.br/noticias/sociedade/portos-mais-ageis-podem-aumentar-exportacoes-brasileiras/" target="_blank" style="line-height:35px; text-decoration: none">Coverage: USP Notícias <i class="fa fa-external-link"></i></a>
 <a class="button-1" role="button" data-toggle="collapse" data-target="#abs5" style="line-height:35px; text-decoration: none">Abstract +</a>
   <div id="abs5" class="collapse">

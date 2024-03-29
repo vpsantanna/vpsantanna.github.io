@@ -144,7 +144,6 @@ tbody.collapse.in{
 <p class="ex1" align="justify"> <b>Send Them Back? The Real Estate Consequences of Repatriations</b> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>) <br>
 <a class="button-1" role="button" href="/files/research/mexican_repatriation_and_real_estate.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa-regular fa-file-lines"></i></a>
 <a class="button-1" role="button" href="https://ssrn.com/abstract=4655273" target="_blank" style="line-height:35px; text-decoration: none">MIT CRE WP <i class="fa fa-external-link"></i></a>
-<a class="button-1" role="button" href="https://www.thecgo.org/research/send-them-back/" target="_blank" style="line-height:35px; text-decoration: none">CGO WP <i class="fa fa-external-link"></i></a>
 <a class="button-1" role="button" href="https://www.aeaweb.org/conference/videos/2020/vinicios-sant-anna" target="_blank" style="line-height:35px; text-decoration: none">Coverage: AEA Interview <i class="fa fa-external-link"></i></a>
 <a class="button-1" role="button" data-toggle="collapse" data-target="#abs1" style="line-height:35px; text-decoration: none">Abstract +</a>
   <div id="abs1" class="collapse">
@@ -204,6 +203,8 @@ tbody.collapse.in{
 <p class="ex1" align="justify"> <b>Unleashing International Trade through Financial Integration: Evidence from a Cross-Border Payment System</b> <br> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>, and <a href="https://sites.google.com/view/lucas-argentieri-mariani/" target="_blank">Lucas Mariani</a>)</p>
 
 <p class="ex1" align="justify"> <b>Commodity Price Shocks and Credit Markets</b> <br> (with <a href="https://sites.google.com/view/frodrigues/home" target="_blank"> Flavio Rodrigues</a>, <a href="https://www.bis.org/author/bernardus_f_nazar_van_doornik.htm" target="_blank"> Bernardus Van Doornik</a>, and <a href="https://sites.google.com/view/cihangwang/home" target="_blank">Cihang Wang</a>)</p>
+
+<p class="ex1" align="justify"> <b>The Geography of Prosperity</b> <br> (with <a href="https://scholar.google.com/citations?user=UXEZZS0AAAAJ&hl=en" target="_blank">Albert Saiz</a>)</p>
 
 <br>
 

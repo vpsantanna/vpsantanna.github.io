@@ -141,6 +141,15 @@ tbody.collapse.in{
 
 ### Working Papers
 
+<p class="ex1" align="justify"> <b>Unleashing International Trade through Financial Integration: Evidence from a Cross-Border Payment System</b> <br> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>, and <a href="https://sites.google.com/view/lucas-argentieri-mariani/" target="_blank">Lucas Mariani</a>)<br>
+<a class="button-1" style="line-height:35px; text-decoration: none">Working Paper Soon <i class="fa-regular fa-file-lines"></i></a>
+<a class="button-1" role="button" data-toggle="collapse" data-target="#abs7" style="line-height:35px; text-decoration: none">Abstract +</a>
+  <div id="abs7" class="collapse">
+    <div style="padding-left: 30px;">
+   <p style="font-size:13px" align="justify">Leveraging administrative firm-level data on the universe of South African exporters between 2010–2019, we document that cross-border payment integration catalyzes international trade by as much as standard tariff reductions. Using the staggered implementation of a Real-Time Gross Settlement (RTGS) system across 14 Southern African Development Community countries that facilitated cross-border payments among participating countries, we document that payment integration increases bilateral trade by about 34% within member countries. This economically significant effect is comparable to a reduction of 8.3 to 12.1 percentage points in tariffs. Crucially, we find no negative spillovers to non-participant trade partners after the system’s implementation. Effects on bilateral trade are only present for partners with low financial connections to South Africa through their bank branch network, destinations with domestic RTGS systems, and firms with high levels of financial dependence. Aggregate country-partner data further suggests the system leads to higher bilateral country trade volumes.</p>
+  </div>
+ </div></p>
+
 <p class="ex1" align="justify"> <b>Send Them Back? The Real Estate Consequences of Repatriations</b> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>) <br>
 <a class="button-1" role="button" href="/files/research/mexican_repatriation_and_real_estate.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa-regular fa-file-lines"></i></a>
 <a class="button-1" role="button" href="https://ssrn.com/abstract=4655273" target="_blank" style="line-height:35px; text-decoration: none">MIT CRE WP <i class="fa fa-external-link"></i></a>
@@ -198,8 +207,6 @@ tbody.collapse.in{
  </div></p>
 
 <p class="ex1" align="justify"> <b>Finding Home When Disaster Strikes: Dust Bowl Migration and Housing in Los Angeles</b> <br> (with <a href="https://diogobaerlocher.github.io/" target="_blank">Diogo Baerlocher</a>, and <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>)</p>
-
-<p class="ex1" align="justify"> <b>Unleashing International Trade through Financial Integration: Evidence from a Cross-Border Payment System</b> <br> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>, and <a href="https://sites.google.com/view/lucas-argentieri-mariani/" target="_blank">Lucas Mariani</a>)</p>
 
 <p class="ex1" align="justify"> <b>Commodity Price Shocks and Credit Markets</b> <br> (with <a href="https://sites.google.com/view/frodrigues/home" target="_blank"> Flavio Rodrigues</a>, <a href="https://www.bis.org/author/bernardus_f_nazar_van_doornik.htm" target="_blank"> Bernardus Van Doornik</a>, and <a href="https://sites.google.com/view/cihangwang/home" target="_blank">Cihang Wang</a>)</p>
 

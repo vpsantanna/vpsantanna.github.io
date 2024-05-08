@@ -141,8 +141,9 @@ tbody.collapse.in{
 
 ### Working Papers
 
-<p class="ex1" align="justify"> <b>Unleashing International Trade through Financial Integration: Evidence from a Cross-Border Payment System</b> <br> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>, and <a href="https://sites.google.com/view/lucas-argentieri-mariani/" target="_blank">Lucas Mariani</a>)<br>
-<a class="button-1" style="line-height:35px; text-decoration: none">Working Paper Soon <i class="fa-regular fa-file-lines"></i></a>
+<p class="ex1" align="justify"> <b>Unleashing International Trade through Financial Integration: Evidence from a Cross-Border Payment System</b> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>, and <a href="https://sites.google.com/view/lucas-argentieri-mariani/" target="_blank">Lucas Mariani</a>)<br>
+<a class="button-1" role="button" href="/files/research/financial_integration_and_trade.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa-regular fa-file-lines"></i></a>
+ <a class="button-1" role="button" href="https://econrsa.org/publications/unleashing-international-trade-through-financial-integration-evidence-from-a-cross-border-payment-system/" target="_blank" style="line-height:35px; text-decoration: none">ERSA WP <i class="fa fa-external-link"></i></a>
 <a class="button-1" role="button" data-toggle="collapse" data-target="#abs7" style="line-height:35px; text-decoration: none">Abstract +</a>
   <div id="abs7" class="collapse">
     <div style="padding-left: 30px;">

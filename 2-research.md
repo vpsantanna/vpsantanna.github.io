@@ -171,17 +171,17 @@ tbody.collapse.in{
   </div>
  </div></p>
 
-<p class="ex1" align="justify"> <b>International Trade and Wage Inequality: Evidence from Brazil</b> <br> <em>Accepted, International Economics</em> (with <a href="https://sites.google.com/view/lucassquarizechagas/home" target="_blank">Lucas Chagas</a>) <br>
+<br>
+
+### Refereed Publications
+
+<p class="ex1" align="justify"> <b>International Trade and Wage Inequality: Evidence from Brazil</b> <br> <em>International Economics</em>, Forthcoming (with <a href="https://sites.google.com/view/lucassquarizechagas/home" target="_blank">Lucas Chagas</a>) <br>
 <a class="button-1" role="button" href="/files/research/trade_and_wage_inequality.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa-regular fa-file-lines"></i></a> <a class="button-1" role="button" href="/files/research/trade_and_wage_inequality_appendix.pdf" target="_blank" style="line-height:35px; text-decoration: none">Appendix <i class="fa-regular fa-file-lines"></i></a> <a class="button-1" role="button" data-toggle="collapse" data-target="#abs3" style="line-height:35px; text-decoration: none">Abstract +</a>
   <div id="abs3" class="collapse">
     <div style="padding-left: 30px;">
    <p style="font-size:13px" align="justify">We study the effect of the bilateral trade integration with China on wage inequality in Brazil. Previous studies have documented the contribution of trade opening to the decline in inequality since the 1990s, driven primarily by cross-firm pay differences. We find a sharper reduction in wage inequality over the 2000s, parallel to China’s accession to the WTO. Our analysis of the China shock suggests that some firms are harmed by import competition, especially the ones in the High-Tech Manufacturing sector, while others profit from increased exports and cheaper inputs. We rationalize these patterns by extending the theoretical framework of Helpman et al. (2017) to include sector heterogeneity in trade exposure and firm-level selection into imports. Our model indicates that the rise of China led to a reduction in cross-firm wage inequality in Brazil by about 5%</p>
    </div>
  </div></p>
-
-<br>
-
-### Refereed Publications
 
 <p class="ex1" align="justify"> <b>Determinants of Bilateral Trade in Manufacturing and Services: A Unified Approach</b>   <br> <em>Economic Modelling</em>, 2023, 123 (with <a href="https://www.satyapdas.com" target="_blank">Satya Das</a>)<br>
 <a class="button-1" role="button" href="https://authors.elsevier.com/sd/article/S0264-9993(23)00058-5" target="_blank" style="line-height:35px; text-decoration: none">DOI <i class="fa fa-external-link"></i></a> 

@@ -176,6 +176,7 @@ tbody.collapse.in{
 ### Refereed Publications
 
 <p class="ex1" align="justify"> <b>International Trade and Wage Inequality: Evidence from Brazil</b> <br> <em>International Economics</em>, Forthcoming (with <a href="https://sites.google.com/view/lucassquarizechagas/home" target="_blank">Lucas Chagas</a>) <br>
+<a class="button-1" role="button" href="https://doi.org/10.1016/j.inteco.2024.100536" target="_blank" style="line-height:35px; text-decoration: none">DOI <i class="fa fa-external-link"></i></a> 
 <a class="button-1" role="button" href="/files/research/trade_and_wage_inequality.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa-regular fa-file-lines"></i></a> <a class="button-1" role="button" href="/files/research/trade_and_wage_inequality_appendix.pdf" target="_blank" style="line-height:35px; text-decoration: none">Appendix <i class="fa-regular fa-file-lines"></i></a> <a class="button-1" role="button" data-toggle="collapse" data-target="#abs3" style="line-height:35px; text-decoration: none">Abstract +</a>
   <div id="abs3" class="collapse">
     <div style="padding-left: 30px;">
@@ -183,8 +184,8 @@ tbody.collapse.in{
    </div>
  </div></p>
 
-<p class="ex1" align="justify"> <b>Determinants of Bilateral Trade in Manufacturing and Services: A Unified Approach</b>   <br> <em>Economic Modelling</em>, 2023, 123 (with <a href="https://www.satyapdas.com" target="_blank">Satya Das</a>)<br>
-<a class="button-1" role="button" href="https://authors.elsevier.com/sd/article/S0264-9993(23)00058-5" target="_blank" style="line-height:35px; text-decoration: none">DOI <i class="fa fa-external-link"></i></a> 
+<p class="ex1" align="justify"> <b>Determinants of Bilateral Trade in Manufacturing and Services: A Unified Approach</b>  <br> <em>Economic Modelling</em>, 2023, 123 (with <a href="https://www.satyapdas.com" target="_blank">Satya Das</a>)<br>
+<a class="button-1" role="button" href="https://doi.org/10.1016/j.econmod.2023.106246" target="_blank" style="line-height:35px; text-decoration: none">DOI <i class="fa fa-external-link"></i></a> 
 <a class="button-1" role="button" href="/files/research/gravity_manufacturing_and_services.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa-regular fa-file-lines"></i></a>
 <a class="button-1" role="button" data-toggle="collapse" data-target="#abs4" style="line-height:35px; text-decoration: none">Abstract +</a>
 <div id="abs4" class="collapse">

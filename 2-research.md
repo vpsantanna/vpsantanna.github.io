@@ -171,8 +171,7 @@ tbody.collapse.in{
 
 <p class="ex1" align="justify"> <b>Send Them Back? The Real Estate Consequences of Repatriations</b>  <br> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>) <br>
 <a class="button-1" role="button" href="/files/research/mexican_repatriation_and_real_estate.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa-regular fa-file-lines"></i></a>
-<a class="button-1" role="button" href="https://ssrn.com/abstract=4655273" target="_blank" style="line-height:35px; text-decoration: none">MIT CRE WP <i class="fa fa-external-link"></i></a>
-<a class="button-1" role="button" href="https://www.aeaweb.org/conference/videos/2020/vinicios-sant-anna" target="_blank" style="line-height:35px; text-decoration: none">Coverage: AEA Interview <i class="fa fa-external-link"></i></a>
+<a class="button-1" role="button" href="https://www.aeaweb.org/conference/videos/2020/vinicios-sant-anna" target="_blank" style="line-height:35px; text-decoration: none">2020 AEA Interview <i class="fa fa-external-link"></i></a>
 <a class="button-1" role="button" data-toggle="collapse" data-target="#abs1" style="line-height:35px; text-decoration: none">Abstract +</a>
   <div id="abs1" class="collapse">
     <div style="padding-left: 30px;">

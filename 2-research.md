@@ -141,7 +141,8 @@ tbody.collapse.in{
 
 ### Working Papers
 
-<p class="ex1" align="justify"> <b>Finding Home When Disaster Strikes: Dust Bowl Migration and Housing in Los Angeles</b> <br> (with <a href="https://diogobaerlocher.github.io/" target="_blank">Diogo Baerlocher</a>, and <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>)<a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none">Working Paper Soon <i class="fa-regular fa-file-lines"></i></a>
+<p class="ex1" align="justify"> <b>Finding Home When Disaster Strikes: Dust Bowl Migration and Housing in Los Angeles</b> <br> (with <a href="https://diogobaerlocher.github.io/" target="_blank">Diogo Baerlocher</a>, and <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>) <br> 
+<a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none">Working Paper Soon <i class="fa-regular fa-file-lines"></i></a>
 <a class="button-1" role="button" data-toggle="collapse" data-target="#abs8" style="line-height:35px; text-decoration: none">Abstract +</a>
   <div id="abs8" class="collapse">
     <div style="padding-left: 30px;">

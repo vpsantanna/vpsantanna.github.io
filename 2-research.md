@@ -141,6 +141,14 @@ tbody.collapse.in{
 
 ### Working Papers
 
+<p class="ex1" align="justify"> <b>Finding Home When Disaster Strikes: Dust Bowl Migration and Housing in Los Angeles</b> <br> (with <a href="https://diogobaerlocher.github.io/" target="_blank">Diogo Baerlocher</a>, and <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>)<a class="button-1" role="button" href="" target="_blank" style="line-height:35px; text-decoration: none">Working Paper Soon <i class="fa-regular fa-file-lines"></i></a>
+<a class="button-1" role="button" data-toggle="collapse" data-target="#abs8" style="line-height:35px; text-decoration: none">Abstract +</a>
+  <div id="abs8" class="collapse">
+    <div style="padding-left: 30px;">
+   <p style="font-size:13px" align="justify">When natural disasters strike, the impact on housing markets can be far-reaching. This paper explores the unique dynamics of natural disaster-induced migration on the housing market, focusing on the 1930s Dust Bowl migration to Los Angeles&mdash;the top migrant destination. We use U.S. Census-linked and geocoded address data to show that the arrival of ``Dust Bowlers'' significantly impacted the city's housing market. We find that houses inhabited by Dust Bowl migrants had lower growth rates in prices and rents over the decade. We also find that homes inhabited by non-migrants had higher depreciation of their values the closer they were to Dust Bowl migrants. We also find that neighborhoods that received more Dust Bowl migrants had lower growth rates of house values and rents over the decade. Our research contributes to a better understanding of how natural disaster-induced migration shapes housing markets and underscores the need to consider the specific context of mass migrations when studying their effects.</p>
+  </div>
+ </div></p>
+
 <p class="ex1" align="justify"> <b>Immigrants and Native Flight: Geographic Extent and Heterogeneous Preferences</b> <br> (with <a href="https://vbn.aau.dk/en/persons/147685" target="_blank"> Bence B&#248;je-Kov&#225;cs</a>, <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/staff/imueco" target="_blank">Ismir Mulalic</a>, <a href="https://scholar.google.com/citations?user=UXEZZS0AAAAJ&hl=en" target="_blank">Albert Saiz</a>, and <a href="https://en.rockwoolfonden.dk/employees/marie-louise-schultz-nielsen/" target="_blank">Marie Schultz-Nielsen</a>) <br>
 <a class="button-1" role="button" href="/files/research/immigrants_and_native_flight.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa-regular fa-file-lines"></i></a>
 <a class="button-1" role="button" data-toggle="collapse" data-target="#abs6" style="line-height:35px; text-decoration: none">Abstract +</a>
@@ -207,8 +215,6 @@ tbody.collapse.in{
 <br>
 
 ### Work in Progress
-
-<p class="ex1" align="justify"> <b>Finding Home When Disaster Strikes: Dust Bowl Migration and Housing in Los Angeles</b> <br> (with <a href="https://diogobaerlocher.github.io/" target="_blank">Diogo Baerlocher</a>, and <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>)</p>
 
 <p class="ex1" align="justify"> <b>The Geography of Prosperity</b> <br> (with <a href="https://scholar.google.com/citations?user=UXEZZS0AAAAJ&hl=en" target="_blank">Albert Saiz</a>)</p>
 

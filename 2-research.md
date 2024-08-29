@@ -183,7 +183,7 @@ tbody.collapse.in{
 
 ### Refereed Publications
 
-<p class="ex1" align="justify"> <b>International Trade and Wage Inequality: Evidence from Brazil</b> <br> <em>International Economics</em>, Forthcoming (with <a href="https://sites.google.com/view/lucassquarizechagas/home" target="_blank">Lucas Chagas</a>) <br>
+<p class="ex1" align="justify"> <b>International Trade and Wage Inequality: Evidence from Brazil</b> <br> <em>International Economics</em>, 2024, v. 180, 100536. (with <a href="https://sites.google.com/view/lucassquarizechagas/home" target="_blank">Lucas Chagas</a>) <br>
 <a class="button-1" role="button" href="https://doi.org/10.1016/j.inteco.2024.100536" target="_blank" style="line-height:35px; text-decoration: none">DOI <i class="fa fa-external-link"></i></a> 
 <a class="button-1" role="button" href="/files/research/trade_and_wage_inequality.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa-regular fa-file-lines"></i></a> <a class="button-1" role="button" href="/files/research/trade_and_wage_inequality_appendix.pdf" target="_blank" style="line-height:35px; text-decoration: none">Appendix <i class="fa-regular fa-file-lines"></i></a> <a class="button-1" role="button" data-toggle="collapse" data-target="#abs3" style="line-height:35px; text-decoration: none">Abstract +</a>
   <div id="abs3" class="collapse">
@@ -192,7 +192,7 @@ tbody.collapse.in{
    </div>
  </div></p>
 
-<p class="ex1" align="justify"> <b>Determinants of Bilateral Trade in Manufacturing and Services: A Unified Approach</b>  <br> <em>Economic Modelling</em>, 2023, 123 (with <a href="https://www.satyapdas.com" target="_blank">Satya Das</a>)<br>
+<p class="ex1" align="justify"> <b>Determinants of Bilateral Trade in Manufacturing and Services: A Unified Approach</b>  <br> <em>Economic Modelling</em>, 2023, v. 123, 106246. (with <a href="https://www.satyapdas.com" target="_blank">Satya Das</a>)<br>
 <a class="button-1" role="button" href="https://doi.org/10.1016/j.econmod.2023.106246" target="_blank" style="line-height:35px; text-decoration: none">DOI <i class="fa fa-external-link"></i></a> 
 <a class="button-1" role="button" href="/files/research/gravity_manufacturing_and_services.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa-regular fa-file-lines"></i></a>
 <a class="button-1" role="button" data-toggle="collapse" data-target="#abs4" style="line-height:35px; text-decoration: none">Abstract +</a>
@@ -202,7 +202,7 @@ tbody.collapse.in{
    </div>
  </div></p>
 
-<p class="ex1" align="justify"><b>Port Efficiency and Brazilian Exports: A Quantitative Assessment of the Impact of Turnaround Time</b> <br> <em> The World Economy</em>, 2018, 41, 2528–2551 (with <a href="https://scholar.google.com.br/citations?user=dqFJND9idb0C&hl=en" target="_blank"> Sérgio Kannebley Júnior</a>) <br>
+<p class="ex1" align="justify"><b>Port Efficiency and Brazilian Exports: A Quantitative Assessment of the Impact of Turnaround Time</b> <br> <em> The World Economy</em>, 2018, v. 41, p. 2528–2551 (with <a href="https://scholar.google.com.br/citations?user=dqFJND9idb0C&hl=en" target="_blank"> Sérgio Kannebley Júnior</a>) <br>
 <a class="button-1" role="button" href="https://doi.org/10.1111/twec.12654" target="_blank" style="line-height:35px; text-decoration: none">DOI <i class="fa fa-external-link"></i></a> 
 <a class="button-1" role="button" href="https://www5.usp.br/noticias/sociedade/portos-mais-ageis-podem-aumentar-exportacoes-brasileiras/" target="_blank" style="line-height:35px; text-decoration: none">Coverage: USP Notícias <i class="fa fa-external-link"></i></a>
 <a class="button-1" role="button" data-toggle="collapse" data-target="#abs5" style="line-height:35px; text-decoration: none">Abstract +</a>

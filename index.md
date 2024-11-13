@@ -28,7 +28,7 @@ layout: home
 <p style="font-size:16px"  align="justify" class="ex1"><br>Welcome!<br/></p>
 
 <p style="font-size:16px"  align="justify" class="ex1">
-I am a Postdoctoral Associate at the <strong><a target="_blank" rel="noopener noreferrer" href="https://mitcre.mit.edu/">MIT Center for Real Estate</a></strong> and <strong><a target="_blank" rel="noopener noreferrer" href="https://urbaneconomics.mit.edu">Urban Economics Lab</a></strong>. My <strong><a class="page-link" href="/research/">research</a></strong> focuses on real estate finance, urban and spatial economics, and applied microeconomics, with recent studies investigating the effects of immigration on housing markets and residential mobility. I received my Ph.D. in Economics from UIUC.</p><br/>
+I am a Postdoctoral Associate at the <strong><a target="_blank" rel="noopener noreferrer" href="https://mitcre.mit.edu/">MIT Center for Real Estate</a></strong> and <strong><a target="_blank" rel="noopener noreferrer" href="https://urbaneconomics.mit.edu">Urban Economics Lab</a></strong>. My <strong><a class="page-link" href="/research/">research</a></strong> focuses on real estate, urban and spatial economics, trade, and applied microeconomics, with recent studies investigating the effects of immigration on housing markets and neighborhood dynamics. I received my Ph.D. in Economics from UIUC.</p><br/>
 
 <p style="font-size:16px"  align="justify" class="ex1">I am  on the 2024-2025 Job Market.</p><br/>
 

@@ -214,15 +214,13 @@ tbody.collapse.in{
 
 <br>
 
-### Work in Progress
+### Selected Work in Progress
 
 <p class="ex1" align="justify"> <b>The Geography of Prosperity</b> <br> (with <a href="https://scholar.google.com/citations?user=UXEZZS0AAAAJ&hl=en" target="_blank">Albert Saiz</a>)</p>
 
-<p class="ex1" align="justify"> <b>Foreign Investment as an Engine for Urbanization</b> <br> (with <a href="https://sites.google.com/view/cihangwang/home" target="_blank">Cihang Wang</a>)</p>
+<p class="ex1" align="justify"> <b>Foreign Aid Reshapes Local Urban Development</b> <br> (with <a href="https://sites.google.com/view/cihangwang/home" target="_blank">Cihang Wang</a>)</p>
 
 <p class="ex1" align="justify"> <b>Commodity Price Shocks and Credit Markets</b> <br> (with <a href="https://sites.google.com/view/frodrigues/home" target="_blank"> Flavio Rodrigues</a>, <a href="https://www.bis.org/author/bernardus_f_nazar_van_doornik.htm" target="_blank"> Bernardus Van Doornik</a>, and <a href="https://sites.google.com/view/cihangwang/home" target="_blank">Cihang Wang</a>)</p>
-
-<p class="ex1" align="justify"> <b>Who Buys Homes in Brazil? Gender Disparities and the Determinants of Residential Real Estate Purchase Behavior</b> <br> (with <a href="https://scholar.google.com.br/citations?user=EF86SiQAAAAJ&hl=en&oi=ao" target="_blank"> Luciano Nakabashi</a>, Marcos Kahtalian, and Fabio Araújo)</p>
 
 <br>
 

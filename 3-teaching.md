@@ -116,7 +116,8 @@ a:hover {
 #### Massachusetts Institute of Technology
 
 <p class="ex1" align="justify"><b>11.433 - Real Estate Economics</b>, Assistant Instructor: <font style="font-size:14px">Fall 2023; Fall 2024</font> <br>
-<b>11.355 - International Housing Economics and Finance</b>, Assistant Instructor: <font style="font-size:14px">Spring 2024</font> </p>
+<b>11.355 - International Housing Economics and Finance</b>, Assistant Instructor: <font style="font-size:14px">Spring 2024</font>
+<b>11.355 - International Housing Economics and Finance</b>, Guest Lecturer: <font style="font-size:14px">Spring 2025</font></p>
 
 
 #### University of Illinois at Urbana-Champaign

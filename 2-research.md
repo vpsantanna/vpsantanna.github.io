@@ -215,7 +215,12 @@ tbody.collapse.in{
 
  <p class="ex1" align="justify"> 
    <b>Trade Facilitation Indexes: The case of Brazil and its Trade Partners</b> <br> <em>Revista de Economia & Relações Internacionais</em>, 2012, v. 10, p. 124-141 (with <a href="https://scholar.google.com.br/citations?user=ceqK-1QAAAAJ&hl=en" target="_blank">Mauricio de Souza</a> and <a href="https://scholar.google.com.br/citations?user=bnfF3IEAAAAJ&hl=en" target="_blank">Rosane Faria</a>) <br>
-   <a class="button-1" role="button" href="/files/research/indicadores_facilitacao.pdf" target="_blank" style="line-height:35px; text-decoration: none">Publication (in Portuguese) <i class="fa-regular fa-file-lines"></i></a> </p>
+   <a class="button-1" role="button" href="/files/research/indicadores_facilitacao.pdf" target="_blank" style="line-height:35px; text-decoration: none">Publication (in Portuguese) <i class="fa-regular fa-file-lines"></i></a> <a class="button-1" role="button" data-toggle="collapse" data-target="#abs9" style="line-height:35px; text-decoration: none">Abstract (in Portuguese) +</a>
+  <div id="abs9" class="collapse">
+    <div style="padding-left: 30px;">
+   <p style="font-size:13px" align="justify">Este artigo tem por finalidade avaliar o desempenho do Brasil perante seus principais parceiros comerciais em termos da facilitação de comércio. Para tanto, foram utilizados dados referentes ao comércio internacional brasileiro associados a indicadores de facilitação de comércio, obtidos do Global Enabling Trade Report. A esses dados foram aplicadas técnicas estatísticas multivariadas: análise de cluster e testes de comparação múltipla de médias. Os resultados apontam que países emergentes como o Brasil apresentam baixo desempenho em facilitação de comércio, indicando uma posição menos competitiva perante os demais parceiros no comércio internacional. Por outro lado, países desenvolvidos apresentam alto desempenho em facilitação do comércio, embora demonstrem um maior nível de proteção “tradicional”, como tarifas e cotas tarifárias.</p>
+  </div>
+ </div> </p>
 
 <br>
 
@@ -226,9 +231,4 @@ tbody.collapse.in{
 <p class="ex1" align="justify"> <b>Foreign Aid Reshapes Local Urban Development</b> <br> (with <a href="https://sites.google.com/view/cihangwang/home" target="_blank">Cihang Wang</a>)</p>
 
 <p class="ex1" align="justify"> <b>Commodity Price Shocks and Credit Markets</b> <br> (with <a href="https://sites.google.com/view/frodrigues/home" target="_blank"> Flavio Rodrigues</a>, <a href="https://www.bis.org/author/bernardus_f_nazar_van_doornik.htm" target="_blank"> Bernardus Van Doornik</a>, and <a href="https://sites.google.com/view/cihangwang/home" target="_blank">Cihang Wang</a>)</p>
-
-<br>
-
-### Other Publications
-
 

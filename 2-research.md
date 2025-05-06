@@ -212,6 +212,11 @@ tbody.collapse.in{
   </div>
  </div></p>
 
+
+ <p class="ex1" align="justify"> 
+   <b>Trade Facilitation Indexes: The case of Brazil and its Trade Partners</b> <br> <em>Revista de Economia & Relações Internacionais</em>, 2012, v. 10, p. 124-141 (with <a href="https://scholar.google.com.br/citations?user=ceqK-1QAAAAJ&hl=en" target="_blank">Mauricio de Souza</a> and <a href="https://scholar.google.com.br/citations?user=bnfF3IEAAAAJ&hl=en" target="_blank">Rosane Faria</a>) <br>
+   <a class="button-1" role="button" href="/files/research/indicadores_facilitacao.pdf" target="_blank" style="line-height:35px; text-decoration: none">Publication (in Portuguese) <i class="fa-regular fa-file-lines"></i></a> </p>
+
 <br>
 
 ### Selected Work in Progress
@@ -226,6 +231,4 @@ tbody.collapse.in{
 
 ### Other Publications
 
-<p class="ex1" align="justify"> 
-   <b>Trade Facilitation Indexes: The case of Brazil and its Trade Partners</b> (with <a href="https://scholar.google.com.br/citations?user=ceqK-1QAAAAJ&hl=en" target="_blank">Mauricio de Souza</a> and <a href="https://scholar.google.com.br/citations?user=bnfF3IEAAAAJ&hl=en" target="_blank">Rosane Faria</a>) <br> <em>Revista de Economia & Relações Internacionais</em>, v. 10, p. 124-141, January 2012. <br>
-   <a class="button-1" role="button" href="/files/research/indicadores_facilitacao.pdf" target="_blank" style="line-height:35px; text-decoration: none">Publication (in Portuguese) <i class="fa-regular fa-file-lines"></i></a> </p>
+

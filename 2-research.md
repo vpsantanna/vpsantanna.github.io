@@ -214,7 +214,7 @@ tbody.collapse.in{
 
 
  <p class="ex1" align="justify"> 
-   <b>Trade Facilitation Indexes: The case of Brazil and its Trade Partners</b> <br> <em>Revista de Economia & Relações Internacionais</em>, 2012, v. 10, p. 124-141 (with <a href="https://scholar.google.com.br/citations?user=ceqK-1QAAAAJ&hl=en" target="_blank">Mauricio de Souza</a> and <a href="https://scholar.google.com.br/citations?user=bnfF3IEAAAAJ&hl=en" target="_blank">Rosane Faria</a>) <br>
+   <b>Trade Facilitation Indexes: The case of Brazil and its Trade Partners</b> <br> <em>Revista de Economia & Relações Internacionais</em> (in Portuguese), 2012, v. 10, p. 124-141 (with <a href="https://scholar.google.com.br/citations?user=ceqK-1QAAAAJ&hl=en" target="_blank">Mauricio de Souza</a> and <a href="https://scholar.google.com.br/citations?user=bnfF3IEAAAAJ&hl=en" target="_blank">Rosane Faria</a>) <br>
    <a class="button-1" role="button" href="/files/research/indicadores_facilitacao.pdf" target="_blank" style="line-height:35px; text-decoration: none">Publication (in Portuguese) <i class="fa-regular fa-file-lines"></i></a> <a class="button-1" role="button" data-toggle="collapse" data-target="#abs9" style="line-height:35px; text-decoration: none">Abstract (in Portuguese) +</a>
   <div id="abs9" class="collapse">
     <div style="padding-left: 30px;">

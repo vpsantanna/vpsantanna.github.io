@@ -141,7 +141,26 @@ tbody.collapse.in{
 
 ### Working Papers
 
-<p class="ex1" align="justify"> <b>Foreign Aid Shapes Local Urban Development</b> <br> (with <a href="https://sites.google.com/view/cihangwang/home?authuser=0" target="_blank">Cihang Wang</a>) <br> 
+<p class="ex1" align="justify"> <b>Send Them Back? The Real Estate Consequences of Repatriations</b>  <br> <em>Revise & Resubmit, Journal of Political Economy: Macroeconomics </em> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>) <br>
+<a class="button-1" role="button" href="/files/research/mexican_repatriation_and_real_estate.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa-regular fa-file-lines"></i></a>
+<a class="button-1" role="button" href="https://www.aeaweb.org/conference/videos/2020/vinicios-sant-anna" target="_blank" style="line-height:35px; text-decoration: none">2020 AEA Interview <i class="fa fa-external-link"></i></a>
+<a class="button-1" role="button" data-toggle="collapse" data-target="#abs1" style="line-height:35px; text-decoration: none">Abstract +</a>
+  <div id="abs1" class="collapse">
+    <div style="padding-left: 30px;">
+   <p style="font-size:13px" align="justify">While developed nations increasingly debate the adoption of large-scale immigrant deportation, their consequences to cities and housing markets are vastly unknown. We study the 1930s mass repatriation of Mexicans and its effects on U.S. housing markets. Developing a novel Census house-linking algorithm, we document that the repatriation negatively impacted U.S. cities. Mexican-occupied properties saw decreased values and rents, but were not subsequently occupied by U.S.-born families. Instead, the repatriation lowered neighboring U.S.-born house values and depressed cities' real estate growth. Our findings reveal significant adverse effects on individual and aggregate housing wealth, challenging the notion that deportations benefit U.S.-born households.</p>
+  </div>
+ </div></p>
+
+ <p class="ex1" align="justify"> <b>Immigrants and Native Flight: Geographic Extent and Heterogeneous Preferences</b> <br> <em>Under Review </em> (with <a href="https://vbn.aau.dk/en/persons/147685" target="_blank"> Bence B&#248;je-Kov&#225;cs</a>, <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/staff/imueco" target="_blank">Ismir Mulalic</a>, <a href="https://scholar.google.com/citations?user=UXEZZS0AAAAJ&hl=en" target="_blank">Albert Saiz</a>, and <a href="https://en.rockwoolfonden.dk/employees/marie-louise-schultz-nielsen/" target="_blank">Marie Schultz-Nielsen</a>) <br>
+<a class="button-1" role="button" href="/files/research/immigrants_and_native_flight.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa-regular fa-file-lines"></i></a>
+<a class="button-1" role="button" data-toggle="collapse" data-target="#abs6" style="line-height:35px; text-decoration: none">Abstract +</a>
+  <div id="abs6" class="collapse">
+    <div style="padding-left: 30px;">
+   <p style="font-size:13px" align="justify">Is immigrant segregation caused by native flight or self-isolation? If the former, which natives avoid immigrants, and which types? Previous literature on ethnic segregation has focused on static models that characterize steady equilibria of local white shares. However, these models ignore churn and local sorting among majority populations. We address these issues using a dynamic model that contemplates constant mobility in and out of the neighborhood by both natives and minorities. Using a matched panel containing all individuals and properties in Denmark from 1987 to 2017, we exploit the quasi-random nature of refugee placements and simulated, exogenous Markov chain predictions to generate experimental variation in local immigrant arrivals. We find strong evidence of white flight, as measured by increased churn and net losses among the majority population, even at the building level. However, not everyone is upset by the presence of minorities. Flight is stronger among the elderly and in reaction to the arrival of low-income immigrants, regardless of their cultural background. As neighborhoods become densely populated with immigrants, young, low-income native citizens without children continue to move in disproportionately, but so do other immigrants.</p>
+  </div>
+ </div></p>
+
+<p class="ex1" align="justify"> <b>Foreign Aid Shapes Local Urban Development</b> <br> <em>Under Review </em> (with <a href="https://sites.google.com/view/cihangwang/home?authuser=0" target="_blank">Cihang Wang</a>) <br> 
 <a class="button-1" role="button" href="/files/research/aid_and_urbanization.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa-regular fa-file-lines"></i></a>
 <a class="button-1" role="button" data-toggle="collapse" data-target="#abs10" style="line-height:35px; text-decoration: none">Abstract +</a>
   <div id="abs10" class="collapse">
@@ -159,15 +178,6 @@ tbody.collapse.in{
   </div>
  </div></p>
 
-<p class="ex1" align="justify"> <b>Immigrants and Native Flight: Geographic Extent and Heterogeneous Preferences</b> <br> (with <a href="https://vbn.aau.dk/en/persons/147685" target="_blank"> Bence B&#248;je-Kov&#225;cs</a>, <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/staff/imueco" target="_blank">Ismir Mulalic</a>, <a href="https://scholar.google.com/citations?user=UXEZZS0AAAAJ&hl=en" target="_blank">Albert Saiz</a>, and <a href="https://en.rockwoolfonden.dk/employees/marie-louise-schultz-nielsen/" target="_blank">Marie Schultz-Nielsen</a>) <br>
-<a class="button-1" role="button" href="/files/research/immigrants_and_native_flight.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa-regular fa-file-lines"></i></a>
-<a class="button-1" role="button" data-toggle="collapse" data-target="#abs6" style="line-height:35px; text-decoration: none">Abstract +</a>
-  <div id="abs6" class="collapse">
-    <div style="padding-left: 30px;">
-   <p style="font-size:13px" align="justify">Is immigrant segregation caused by native flight or self-isolation? If the former, which natives avoid immigrants, and which types? Previous literature on ethnic segregation has focused on static models that characterize steady equilibria of local white shares. However, these models ignore churn and local sorting among majority populations. We address these issues using a dynamic model that contemplates constant mobility in and out of the neighborhood by both natives and minorities. Using a matched panel containing all individuals and properties in Denmark from 1987 to 2017, we exploit the quasi-random nature of refugee placements and simulated, exogenous Markov chain predictions to generate experimental variation in local immigrant arrivals. We find strong evidence of white flight, as measured by increased churn and net losses among the majority population, even at the building level. However, not everyone is upset by the presence of minorities. Flight is stronger among the elderly and in reaction to the arrival of low-income immigrants, regardless of their cultural background. As neighborhoods become densely populated with immigrants, young, low-income native citizens without children continue to move in disproportionately, but so do other immigrants.</p>
-  </div>
- </div></p>
-
 <p class="ex1" align="justify"> <b>Unleashing International Trade through Financial Integration: Evidence from a Cross-Border Payment System</b> <br> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>, and <a href="https://sites.google.com/view/lucas-argentieri-mariani/" target="_blank">Lucas Mariani</a>)<br>
 <a class="button-1" role="button" href="/files/research/financial_integration_and_trade.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa-regular fa-file-lines"></i></a>
  <a class="button-1" role="button" href="https://econrsa.org/publications/unleashing-international-trade-through-financial-integration-evidence-from-a-cross-border-payment-system/" target="_blank" style="line-height:35px; text-decoration: none">ERSA WP <i class="fa fa-external-link"></i></a>
@@ -178,15 +188,6 @@ tbody.collapse.in{
   </div>
  </div></p>
 
-<p class="ex1" align="justify"> <b>Send Them Back? The Real Estate Consequences of Repatriations</b>  <br> <em>Revise & Resubmit, Journal of Political Economy: Macroeconomics </em> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>) <br>
-<a class="button-1" role="button" href="/files/research/mexican_repatriation_and_real_estate.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa-regular fa-file-lines"></i></a>
-<a class="button-1" role="button" href="https://www.aeaweb.org/conference/videos/2020/vinicios-sant-anna" target="_blank" style="line-height:35px; text-decoration: none">2020 AEA Interview <i class="fa fa-external-link"></i></a>
-<a class="button-1" role="button" data-toggle="collapse" data-target="#abs1" style="line-height:35px; text-decoration: none">Abstract +</a>
-  <div id="abs1" class="collapse">
-    <div style="padding-left: 30px;">
-   <p style="font-size:13px" align="justify">While developed nations increasingly debate the adoption of large-scale immigrant deportation, their consequences to cities and housing markets are vastly unknown. We study the 1930s mass repatriation of Mexicans and its effects on U.S. housing markets. Developing a novel Census house-linking algorithm, we document that the repatriation negatively impacted U.S. cities. Mexican-occupied properties saw decreased values and rents but were not subsequently occupied by U.S.-born families. Instead, the repatriation lowered neighboring U.S.-born house values and depressed cities' real estate growth. Our findings reveal significant adverse effects on individual and aggregate housing wealth, challenging the notion that deportations benefit U.S.-born households.</p>
-  </div>
- </div></p>
 
 <br>
 

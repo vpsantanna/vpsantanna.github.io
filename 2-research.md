@@ -241,7 +241,12 @@ tbody.collapse.in{
 
 <p class="ex1" align="justify"> <b>Immigration and High-Frequency Neighborhood Dynamics</b> <br> (with <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/staff/imueco" target="_blank">Ismir Mulalic</a>, <a href="https://scholar.google.com/citations?user=UXEZZS0AAAAJ&hl=en" target="_blank">Albert Saiz</a>, and <a href="https://en.rockwoolfonden.dk/employees/marie-louise-schultz-nielsen/" target="_blank">Marie Schultz-Nielsen</a>)<br>
 <a class="button-1" role="button" href="https://ditnabolag.dk/" target="_blank" style="line-height:35px; text-decoration: none">Data <i class="fa fa-external-link"></i></a> 
-</p>
+<a class="button-1" role="button" data-toggle="collapse" data-target="#abs11" style="line-height:35px; text-decoration: none">Abstract +</a>
+  <div id="abs11" class="collapse">
+    <div style="padding-left: 30px;">
+   <p style="font-size:13px" align="justify">We study the annual residential share of non-Western immigrants across neighborhoods in Denmark from 1986 to 2019 and its coevolution with key local socioeconomic characteristics.  To accomplish this, we created a unique dataset, "Neighborhoods in Denmark &mdash; Then and Now," which provides complete annual socioeconomic and demographic information at the neighborhood level. To the best of our knowledge, this is the first open-source, interdecadal dataset at such short frequency that uses high-quality amenity and population registry data rather than periodic random sampling. The richness of the data allows us to specify models with neighborhood fixed effects to capture confounding omitted local variables. Our findings show that while natives avoided immigrant enclaves, immigrants spread out into better neighborhoods over time. Whereas increasing local immigrant densities have been associated with poorer local socioeconomic outcomes, these negative associations weakened considerably over time and even reversed with respect to crime.</p>
+  </div>
+ </div></p>
 
 <p class="ex1" align="justify"> <b>The Seeds of Instability: Credit Market Responses to Commodity Price Shocks</b> <br> (with <a href="https://sites.google.com/view/frodrigues/home" target="_blank"> Flavio Rodrigues</a>, <a href="https://www.bis.org/author/bernardus_f_nazar_van_doornik.htm" target="_blank"> Bernardus Van Doornik</a>, and <a href="https://sites.google.com/view/cihangwang/home" target="_blank">Cihang Wang</a>)</p>
 

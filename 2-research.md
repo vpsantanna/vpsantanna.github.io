@@ -171,12 +171,12 @@ tbody.collapse.in{
  </div></p>
 
 
-<p class="ex1" align="justify"> <b>Foreign Aid Shapes Local Urban Development</b> <br> (with <a href="https://sites.google.com/view/cihangwang/home?authuser=0" target="_blank">Cihang Wang</a>) <br> 
+<p class="ex1" align="justify"> <b>International Development Finance Shapes Local Urbanization</b> <br> (with <a href="https://sites.google.com/view/cihangwang/home?authuser=0" target="_blank">Cihang Wang</a>) <br> 
 <a class="button-1" role="button" href="/files/research/aid_and_urbanization.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa-regular fa-file-lines"></i></a>
 <a class="button-1" role="button" data-toggle="collapse" data-target="#abs10" style="line-height:35px; text-decoration: none">Abstract +</a>
   <div id="abs10" class="collapse">
     <div style="padding-left: 30px;">
-   <p style="font-size:13px" align="justify">We examine how foreign aid shapes urban development in Sub-Saharan Africa at the very local level. Using data on 1,643 georeferenced Chinese aid projects, we analyze the effect of aid on the evolution of built-up surface and volume at 100-meter grid cells within a 2-kilometer microregion. Our staggered difference-in-differences approach reveals that foreign aid projects significantly increase local urbanization, with the effects decreasing with distance from the projects.  Treatment effects are mostly driven by residential development, particularly in previously underdeveloped areas. Our findings contribute to the understanding of the consequences of foreign aid on urban transformations in the developing world.</p>
+   <p style="font-size:13px" align="justify">We examine how international development finance shapes urbanization in Sub-Saharan Africa at the very local level. Using data on 1,592 georeferenced Chinese development projects, we analyze the effect of development projects on the evolution of built-up surface and volume at 100-meter grid cells within a 2-kilometer microregion. Our staggered difference-in-differences approach reveals that international development projects significantly increase local urbanization, with effects that decrease with distance from the projects.  Treatment effects are mostly driven by residential development, particularly in previously underdeveloped areas. We contribute to understanding the consequences of international development finance for urban transformations in the developing world.</p>
   </div>
  </div></p>
 

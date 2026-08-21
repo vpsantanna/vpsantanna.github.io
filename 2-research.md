@@ -160,22 +160,22 @@ tbody.collapse.in{
   </div>
  </div></p>
 
+ <p class="ex1" align="justify"> <b>Unleashing International Trade through Financial Integration: Evidence from a Cross-Border Payment System</b> <br> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>, and <a href="https://sites.google.com/view/lucas-argentieri-mariani/" target="_blank">Lucas Mariani</a>)<br>
+<a class="button-1" role="button" href="/files/research/financial_integration_and_trade.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa-regular fa-file-lines"></i></a>
+ <a class="button-1" role="button" href="https://econrsa.org/publications/unleashing-international-trade-through-financial-integration-evidence-from-a-cross-border-payment-system/" target="_blank" style="line-height:35px; text-decoration: none">ERSA WP <i class="fa fa-external-link"></i></a>
+<a class="button-1" role="button" data-toggle="collapse" data-target="#abs7" style="line-height:35px; text-decoration: none">Abstract +</a>
+  <div id="abs7" class="collapse">
+    <div style="padding-left: 30px;">
+   <p style="font-size:13px" align="justify">Using confidential data on South African exporters and the staggered rollout of a real-time gross settlement system across 14 African countries, we study how cross-border payment integration affects international trade. Adoption raises export volumes by 35% and transaction frequency by 45%, equivalent to a 6-8 percentage-point tariff reduction, with no evidence of trade diversion. Effects are concentrated in destinations with pre-existing domestic payment infrastructure and among firms with high external-finance-dependence. The system expands interbank activity, consistent with correspondent banking. Regional settlement systems can therefore promote trade and financial development while strengthening emerging markets' resilience to disruptions in global payment-network access amid rising geopolitical risk.</p>
+  </div>
+ </div></p>
+
  <p class="ex1" align="justify"> <b>International Development Finance Shapes Local Urbanization</b> <br> <em>Under Review</em> (with <a href="https://sites.google.com/view/cihangwang/home?authuser=0" target="_blank">Cihang Wang</a>) <br> 
 <a class="button-1" role="button" href="/files/research/aid_and_urbanization.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa-regular fa-file-lines"></i></a>
 <a class="button-1" role="button" data-toggle="collapse" data-target="#abs10" style="line-height:35px; text-decoration: none">Abstract +</a>
   <div id="abs10" class="collapse">
     <div style="padding-left: 30px;">
    <p style="font-size:13px" align="justify">We examine how international development finance shapes urbanization in Sub-Saharan Africa at the very local level. Using data on 1,592 georeferenced Chinese development projects, we analyze the effect of development projects on the evolution of built-up surface and volume at 100-meter grid cells within a 2-kilometer microregion. Our staggered difference-in-differences approach reveals that international development projects significantly increase local urbanization, with effects that decrease with distance from the projects.  Treatment effects are mostly driven by residential development, particularly in previously underdeveloped areas. We contribute to understanding the consequences of international development finance for urban transformations in the developing world.</p>
-  </div>
- </div></p>
-
-<p class="ex1" align="justify"> <b>Unleashing International Trade through Financial Integration: Evidence from a Cross-Border Payment System</b> <br> (with <a href="https://sites.google.com/site/cortesgustavos" target="_blank"> Gustavo Cortes</a>, and <a href="https://sites.google.com/view/lucas-argentieri-mariani/" target="_blank">Lucas Mariani</a>)<br>
-<a class="button-1" role="button" href="/files/research/financial_integration_and_trade.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa-regular fa-file-lines"></i></a>
- <a class="button-1" role="button" href="https://econrsa.org/publications/unleashing-international-trade-through-financial-integration-evidence-from-a-cross-border-payment-system/" target="_blank" style="line-height:35px; text-decoration: none">ERSA WP <i class="fa fa-external-link"></i></a>
-<a class="button-1" role="button" data-toggle="collapse" data-target="#abs7" style="line-height:35px; text-decoration: none">Abstract +</a>
-  <div id="abs7" class="collapse">
-    <div style="padding-left: 30px;">
-   <p style="font-size:13px" align="justify">Using confidential administrative data on all South African exporters and the staggered rollout of a real-time gross payment system across 14 African countries, we study the causal effects of cross-border payment integration on trade. Following implementation, firms increase export volumes by 35% and transaction frequency by 45%&mdash;equivalent to a 6-8% tariff cut. We find no evidence of trade diversion, suggesting that integration creates trade rather than merely reallocating flows. Effects are concentrated where domestic fast-payment infrastructure pre-existed and among financially constrained firms. Our results underscore the policy relevance of fast and reliable payment integration in a high-tariff global environment.</p>
   </div>
  </div></p>
 

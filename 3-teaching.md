@@ -115,7 +115,8 @@ a:hover {
 
 #### California Polytechnic State University
 
-<p class="ex1" align="justify"><b>BUS 434 - Real Estate Finance</b> <em>(Undergraduate)</em>, Instructor: <font style="font-size:14px">Fall 2025, Winter 2026</font></p>
+<p class="ex1" align="justify"><b>BUS 4434 - Real Estate Finance</b> <em>(Undergraduate)</em>, Instructor: <font style="font-size:14px">Fall 2025, Winter 2026, Fall 2026, Spring 2027</font></p>
+<p class="ex1" align="justify"><b>BUS 4464 - Applied Senior Project Seminar</b> <em>(Undergraduate)</em>, Instructor: <font style="font-size:14px">Winter 2026, Spring 2027</font></p>
 
 #### Massachusetts Institute of Technology
 

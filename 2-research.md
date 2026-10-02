@@ -170,7 +170,7 @@ tbody.collapse.in{
   </div>
  </div></p>
 
- <p class="ex1" align="justify"> <b>International Development Finance Shapes Local Urbanization</b> <br> (with <a href="https://sites.google.com/view/cihangwang/home?authuser=0" target="_blank">Cihang Wang</a>) <br> 
+ <p class="ex1" align="justify"> <b>International Development Finance Shapes Local Urbanization</b> <br> (with <a href="https://cihangwang2.github.io" target="_blank">Cihang Wang</a>) <br> 
 <a class="button-1" role="button" href="/files/research/aid_and_urbanization.pdf" target="_blank" style="line-height:35px; text-decoration: none">Working Paper <i class="fa-regular fa-file-lines"></i></a>
 <a class="button-1" role="button" data-toggle="collapse" data-target="#abs10" style="line-height:35px; text-decoration: none">Abstract +</a>
   <div id="abs10" class="collapse">
@@ -247,5 +247,5 @@ tbody.collapse.in{
   </div>
  </div></p>
 
-<p class="ex1" align="justify"> <b>The Seeds of Instability: Credit Market Responses to Commodity Price Shocks</b> <br> (with <a href="https://sites.google.com/view/frodrigues/home" target="_blank"> Flavio Rodrigues</a>, <a href="https://www.bis.org/author/bernardus_f_nazar_van_doornik.htm" target="_blank"> Bernardus Van Doornik</a>, and <a href="https://sites.google.com/view/cihangwang/home" target="_blank">Cihang Wang</a>)</p>
+<p class="ex1" align="justify"> <b>The Seeds of Instability: Credit Market Responses to Commodity Price Shocks</b> <br> (with <a href="https://sites.google.com/view/frodrigues/home" target="_blank"> Flavio Rodrigues</a>, <a href="https://www.bis.org/author/bernardus_f_nazar_van_doornik.htm" target="_blank"> Bernardus Van Doornik</a>, and <a href="https://cihangwang2.github.io" target="_blank">Cihang Wang</a>)</p>
 
